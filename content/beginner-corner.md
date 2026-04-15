@@ -1,5 +1,5 @@
 ---
-label: 04 / 新手友善加餐
+label: 05 / 新手友善加餐
 title: AI 入門與應用觀察
 summary: 提供較易吸收的名詞解釋、工具觀察與實務建議。
 layout: module-grid

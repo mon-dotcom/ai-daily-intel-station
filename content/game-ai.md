@@ -1,5 +1,5 @@
 ---
-label: 03 / 遊戲產業 × AI
+label: 04 / 遊戲產業 × AI
 title: 遊戲產業 × AI 重要進展
 summary: 聚焦遊戲開發、內容產製與工具平台的 AI 重要進展。
 layout: topic-grid

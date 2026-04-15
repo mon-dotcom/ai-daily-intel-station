@@ -4,6 +4,7 @@
 
 - 內容層：`Markdown`
 - 畫面層：自動生成的靜態 `HTML`
+- 更新層：排程自動抓公開來源、改寫 `content/*.md`、重建頁面
 
 也就是說，你現在只需要維護 `content/*.md`，不需要手改 `index.html`。
 
@@ -22,11 +23,11 @@ content/
 
 生成流程：
 
-1. 編輯 `content/*.md`
-2. 執行 build
-3. `scripts/generate.mjs` 讀取 Markdown
-4. 轉成 HTML
-5. 輸出到 `index.html`
+1. `scripts/update-content.mjs` 抓公開來源資料並更新 `content/*.md`
+2. `scripts/generate.mjs` 讀取 Markdown
+3. 轉成 HTML
+4. 輸出到 `index.html`
+5. GitHub Actions 每天台北時間 10:00 自動 commit / push
 
 ## 專案結構
 
@@ -45,7 +46,8 @@ ai-daily-intel-station/
 │  └─ beginner-corner.md
 ├─ scripts/
 │  ├─ dev.mjs
-│  └─ generate.mjs
+│  ├─ generate.mjs
+│  └─ update-content.mjs
 ├─ src/
 │  ├─ config/
 │  │  ├─ content.mjs
@@ -87,6 +89,13 @@ http://localhost:4321
 ### 單次建置
 
 ```bash
+npm run build
+```
+
+### 手動抓最新資料並重建
+
+```bash
+npm run update:content
 npm run build
 ```
 
@@ -331,6 +340,7 @@ reminder: 這裡是頁尾提醒
 ```json
 {
   "scripts": {
+    "update:content": "node ./scripts/update-content.mjs",
     "build": "node ./scripts/generate.mjs",
     "build:page": "node ./scripts/generate.mjs",
     "dev": "node ./scripts/dev.mjs",
@@ -342,22 +352,32 @@ reminder: 這裡是頁尾提醒
 說明：
 
 - `npm run dev`：本機開發 + 監看 Markdown 變更
+- `npm run update:content`：抓公開來源資料並回寫 `content/*.md`
 - `npm run build`：單次輸出 `index.html`
 - `npm run build:page`：給排程或部署流程使用
 
 ## 自動更新
 
-目前 GitHub Actions 仍保留：
+目前 GitHub Actions 會：
 
 - 每天台北時間早上 `10:00`
+- 執行 `npm run update:content`
+- 更新 `content/*.md`
 - 執行 `npm run build:page`
 - 重新生成 `index.html`
+- 自動 commit 並 push 到 `main`
 
 前提是：
 
 1. 你的 repo 已推上 GitHub
 2. `.github/workflows/daily-update.yml` 已存在
 3. 已設定 `GITHUB_TOKEN_CUSTOM`
+
+補充：
+
+- 目前自動來源以 GitHub API、Hacker News、RSS / 官方公開 feed 為主
+- X / Discord 若沒有穩定公開 API，不保證可每天直接抓取
+- 若部分來源失敗，腳本會寫入 fallback 內容，頁面仍能正常生成
 
 ## 團隊維護建議
 

@@ -4,9 +4,9 @@ siteTagline: 每天早上 10:00，掌握昨天最重要的 AI 動態
 heroEyebrow: TEAM KNOWLEDGE BOARD
 heroPanelTitle: 今日觀測焦點
 heroHighlights:
-  - Agent 與工作流程工具仍是團隊最該關注的方向
-  - 開源專案榜單適合快速挑出真正值得試用的工具
-  - 遊戲圈 AI 議題應聚焦在 production pipeline，而不是只看 demo
+  - 本頁內容聚焦 2026年4月14日 的 AI 與開源動態
+  - GitHub 榜單與新工具清單會隨排程自動重整
+  - 若部分來源失敗，系統會保留備援內容避免頁面中斷
 footerTitle: 今日 AI 小提醒
-reminder: 只改 Markdown 就能更新整站內容，HTML 與版型由生成器自動維護。
+reminder: 追 AI 新知時，先問三件事：它能不能節省時間、能不能接進既有流程、能不能被團隊其他人複製。
 ---

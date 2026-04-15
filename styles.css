@@ -34,6 +34,22 @@ body {
   min-height: 100vh;
 }
 
+body,
+p,
+li,
+td,
+th,
+h1,
+h2,
+h3,
+.pill,
+.topic-time,
+.topic-source,
+.footer-meta {
+  word-break: keep-all;
+  overflow-wrap: break-word;
+}
+
 body::before {
   content: "";
   position: fixed;
@@ -56,7 +72,8 @@ body::before {
   position: relative;
   padding: 5.4cm clamp(20px, 4vw, 48px) 3.2cm;
   overflow: hidden;
-  background: #fff;
+  background:
+    linear-gradient(135deg, #111a37 0%, #17244c 34%, #271741 68%, #100e22 100%);
   min-height: 100vh;
   display: grid;
   align-items: center;
@@ -67,20 +84,22 @@ body::before {
   position: absolute;
   inset: 0;
   background:
-    linear-gradient(135deg, rgba(184, 70, 68, 0.06), transparent 54%),
-    linear-gradient(180deg, rgba(207, 160, 159, 0.08), transparent 80%);
+    radial-gradient(circle at 18% 20%, rgba(112, 196, 255, 0.22), transparent 30%),
+    radial-gradient(circle at 82% 18%, rgba(173, 91, 255, 0.2), transparent 28%),
+    linear-gradient(180deg, rgba(255, 255, 255, 0.06), transparent 80%);
   z-index: -2;
 }
 
 .hero::after {
   content: "";
   position: absolute;
-  inset: 48px 28px auto auto;
-  width: min(38vw, 520px);
-  height: min(38vw, 520px);
-  border-radius: 50%;
-  background: radial-gradient(circle, rgba(207, 160, 159, 0.18), transparent 70%);
-  filter: blur(30px);
+  inset: 0;
+  background:
+    linear-gradient(120deg, transparent 0 54%, rgba(255, 255, 255, 0.05) 54%, rgba(255, 255, 255, 0.01) 63%, transparent 63%),
+    linear-gradient(90deg, rgba(255, 255, 255, 0.055) 1px, transparent 1px),
+    linear-gradient(rgba(255, 255, 255, 0.04) 1px, transparent 1px);
+  background-size: auto, 56px 56px, 56px 56px;
+  mask-image: linear-gradient(180deg, rgba(0, 0, 0, 0.9), rgba(0, 0, 0, 0.55));
   z-index: -1;
 }
 
@@ -109,9 +128,12 @@ body::before {
 .hero h1 {
   margin: 0 0 18px;
   font-size: clamp(3.2rem, 7vw, 5.8rem);
-  line-height: 0.94;
-  letter-spacing: -0.04em;
-  max-width: 9ch;
+  line-height: 0.98;
+  letter-spacing: -0.03em;
+  max-width: none;
+  white-space: nowrap;
+  color: #ffffff;
+  text-wrap: nowrap;
 }
 
 .hero p {
@@ -119,8 +141,10 @@ body::before {
   margin: 0;
   font-size: 1.16rem;
   line-height: 1.9;
-  color: #4f545a;
+  color: rgba(241, 245, 255, 0.84);
+  text-wrap: pretty;
 }
+
 .footer-card,
 .module-card,
 .topic-card,
@@ -155,19 +179,22 @@ body::before {
   margin: 10px 0 0;
   font-size: clamp(1.8rem, 2.8vw, 2.6rem);
   line-height: 1.15;
+  text-wrap: balance;
 }
 
 .section-heading p {
-  max-width: 440px;
+  max-width: 520px;
   margin: 0;
   color: var(--muted);
   line-height: 1.8;
+  text-wrap: pretty;
 }
 
 .topic-grid {
   display: grid;
   grid-template-columns: repeat(3, minmax(0, 1fr));
   gap: 18px;
+  align-items: stretch;
 }
 
 .topic-grid--compact .topic-card {
@@ -178,6 +205,7 @@ body::before {
   overflow: hidden;
   display: flex;
   flex-direction: column;
+  height: 100%;
 }
 
 .topic-thumb {
@@ -211,9 +239,11 @@ body::before {
 }
 
 .topic-content {
-  display: grid;
+  display: flex;
+  flex-direction: column;
   gap: 14px;
   padding: 18px 18px 20px;
+  height: 100%;
 }
 
 .topic-meta-row,
@@ -252,6 +282,8 @@ body::before {
   margin: 0;
   font-size: 1.24rem;
   line-height: 1.45;
+  letter-spacing: -0.01em;
+  text-wrap: balance;
 }
 
 .topic-content p,
@@ -262,6 +294,11 @@ body::before {
   margin: 0;
   color: #4b4f56;
   line-height: 1.85;
+  text-wrap: pretty;
+}
+
+.markdown-body--card {
+  flex: 1 1 auto;
 }
 
 .topic-callout {
@@ -280,6 +317,9 @@ body::before {
   border-top: 1px solid var(--line);
   color: var(--muted);
   font-size: 0.94rem;
+  margin-top: auto;
+  min-height: 52px;
+  white-space: nowrap;
 }
 
 .text-link,
@@ -318,11 +358,13 @@ td {
 th {
   color: var(--primary);
   font-size: 0.92rem;
+  white-space: nowrap;
 }
 
 td {
   color: #34383d;
   line-height: 1.7;
+  text-wrap: pretty;
 }
 
 .project-cell {
@@ -366,6 +408,7 @@ td {
 .markdown-body h3 {
   margin: 6px 0 0;
   color: var(--text);
+  text-wrap: balance;
 }
 
 .markdown-body a {
@@ -597,6 +640,11 @@ td {
   .hero {
     min-height: auto;
     padding-top: 4.2cm;
+  }
+
+  .hero h1 {
+    white-space: normal;
+    text-wrap: balance;
   }
 
   .hero-logo {

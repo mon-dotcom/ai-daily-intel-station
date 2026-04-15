@@ -11,6 +11,13 @@ layout: markdown
 | 1 | openmanus | [GitHub](https://github.com/mannaandpoem/OpenManus) | 42,000 | ▲ 上升 | Agent / Workflow | 多步驟任務代理框架 | 自動研究、工具串接 | 中高 |
 | 2 | aider | [GitHub](https://github.com/Aider-AI/aider) | 29,000 | ▲ 上升 | Coding / DevTool | 終端 AI 協作寫程式 | 重構、除錯、修改程式 | 高 |
 | 3 | ComfyUI | [GitHub](https://github.com/comfyanonymous/ComfyUI) | 51,000 | ■ 持平 | Video / Media | 節點式生成工作流 | 圖像、影片與工作流實驗 | 中 |
+| 4 | ollama | [GitHub](https://github.com/ollama/ollama) | 98,000 | ▲ 上升 | Open-source Model | 本機執行大型語言模型的低門檻方案 | 本地推理、內網測試、PoC | 高 |
+| 5 | langgenius/dify | [GitHub](https://github.com/langgenius/dify) | 76,000 | ▲ 上升 | Agent / Workflow | 面向產品化的 LLM 應用編排平台 | 知識庫、工作流、自建 AI 應用 | 高 |
+| 6 | open-webui | [GitHub](https://github.com/open-webui/open-webui) | 64,000 | ■ 持平 | Open-source Model | 提供本地與遠端模型的完整網頁介面 | 模型管理、內部聊天入口 | 高 |
+| 7 | LivePortrait | [GitHub](https://github.com/KwaiVGI/LivePortrait) | 18,000 | ▼ 下降 | Video / Media | 讓靜態肖像快速生成可驅動動畫 | 角色動畫、短影音素材 | 中 |
+| 8 | faster-whisper | [GitHub](https://github.com/SYSTRAN/faster-whisper) | 14,500 | ▲ 上升 | Voice / Audio | 高效率 Whisper 推理實作 | 逐字稿、語音整理、會議紀錄 | 中高 |
+| 9 | vllm | [GitHub](https://github.com/vllm-project/vllm) | 39,000 | ▲ 上升 | Data / MLOps | 高吞吐量 LLM 推理服務引擎 | 模型部署、推理 API、服務化 | 低 |
+| 10 | anything-llm | [GitHub](https://github.com/Mintplex-Labs/anything-llm) | 43,000 | ■ 持平 | Agent / Workflow | 將文件與模型串成可用工作區 | 知識問答、內部助理、團隊搜尋 | 高 |
 
 > 這種標準 Markdown 表格會被自動轉成網站的 table 區塊，不需要手寫 HTML。
 

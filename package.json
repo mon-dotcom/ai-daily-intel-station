@@ -1,0 +1,16 @@
+{
+  "name": "ai-daily-intel-station",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "AI 每日情報站：靜態 HTML + 定時重建的 AI 新知資訊頁",
+  "scripts": {
+    "build": "node ./scripts/generate.mjs",
+    "build:page": "node ./scripts/generate.mjs",
+    "dev": "node ./scripts/dev.mjs",
+    "start": "node ./scripts/dev.mjs"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}

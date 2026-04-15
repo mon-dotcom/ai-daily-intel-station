@@ -1,0 +1,15 @@
+{
+  "date": "2026-04-14",
+  "items": [
+    { "name": "openmanus", "stars": 41890 },
+    { "name": "aider", "stars": 28780 },
+    { "name": "comfyui", "stars": 50990 },
+    { "name": "ollama", "stars": 97610 },
+    { "name": "langgenius/dify", "stars": 75790 },
+    { "name": "open-webui", "stars": 63920 },
+    { "name": "LivePortrait", "stars": 18180 },
+    { "name": "faster-whisper", "stars": 14380 },
+    { "name": "vllm", "stars": 38820 },
+    { "name": "anythingllm", "stars": 42980 }
+  ]
+}

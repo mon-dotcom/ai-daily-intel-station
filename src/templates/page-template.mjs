@@ -28,6 +28,65 @@ function sanitizeText(text = "") {
   return sanitized;
 }
 
+function stripHtml(html = "") {
+  return html
+    .replace(/<br\s*\/?>/gi, "\n")
+    .replace(/<\/p>/gi, "\n")
+    .replace(/<\/li>/gi, "\n")
+    .replace(/<[^>]+>/g, "")
+    .replace(/&nbsp;/g, " ")
+    .replace(/&amp;/g, "&")
+    .replace(/&lt;/g, "<")
+    .replace(/&gt;/g, ">")
+    .replace(/&#39;/g, "'")
+    .replace(/&quot;/g, "\"")
+    .replace(/\n{2,}/g, "\n")
+    .trim();
+}
+
+function truncateZhCopy(text = "", limit = 200) {
+  const normalized = text.replace(/\s+/g, " ").trim();
+  if (!normalized) return "";
+  if (normalized.length <= limit) return normalized;
+
+  const sentenceMatches = normalized.match(/[^。！？!?]+[。！？!?]?/g) || [normalized];
+  const picked = [];
+  let count = 0;
+
+  for (const sentence of sentenceMatches) {
+    const trimmed = sentence.trim();
+    if (!trimmed) continue;
+    if (count + trimmed.length > limit) break;
+    picked.push(trimmed);
+    count += trimmed.length;
+    if (picked.length >= 3) break;
+  }
+
+  if (picked.length) return picked.join("");
+
+  const sliced = normalized.slice(0, limit);
+  const breakIndex = Math.max(sliced.lastIndexOf("。"), sliced.lastIndexOf("，"), sliced.lastIndexOf("、"));
+  return `${(breakIndex > 40 ? sliced.slice(0, breakIndex + 1) : sliced).trim()}…`;
+}
+
+function renderCompactCardBody(html = "") {
+  const plainText = stripHtml(html);
+  const compact = truncateZhCopy(plainText, 200);
+  const sentences = compact.match(/[^。！？!?]+[。！？!?]?/g) || [compact];
+  const chunks = [];
+
+  if (sentences[0]) chunks.push(sentences[0].trim());
+  if (sentences[1]) chunks.push(sentences[1].trim());
+  if (sentences.length > 2) chunks.push(sentences.slice(2).join("").trim());
+
+  return chunks.filter(Boolean).map((chunk) => `<p>${escapeHtml(chunk)}</p>`).join("");
+}
+
+function filterGithubSectionHtml(html = "") {
+  const tableMatch = html.match(/<table>[\s\S]*?<\/table>/);
+  return tableMatch ? `<div class="table-wrap">${tableMatch[0]}</div>` : "";
+}
+
 function renderTopicCard(card) {
   const thumbnail = card.image
     ? `<div class="topic-thumb"><img src="${escapeHtml(card.image)}" alt="${escapeHtml(card.title)}"></div>`
@@ -81,6 +140,13 @@ function renderModuleCard(card) {
 
 function renderSection(section) {
   const summary = sanitizeText(section.summary || "");
+  const sectionCards =
+    section.id === "ai-news"
+      ? section.cards.map((card) => ({
+          ...card,
+          bodyHtml: renderCompactCardBody(card.bodyHtml)
+        }))
+      : section.cards;
   const heading = `
     <div class="section-heading">
       <div>
@@ -96,7 +162,7 @@ function renderSection(section) {
       <section class="section section--${escapeHtml(section.id)}" id="${escapeHtml(section.id)}">
         ${heading}
         <div class="topic-grid">
-          ${section.cards.map((card) => renderTopicCard(card)).join("")}
+          ${sectionCards.map((card) => renderTopicCard(card)).join("")}
         </div>
       </section>
     `;
@@ -117,7 +183,7 @@ function renderSection(section) {
     <section class="section section--markdown section--${escapeHtml(section.id)}" id="${escapeHtml(section.id)}">
       ${heading}
       <div class="markdown-body">
-        ${section.contentHtml}
+        ${section.id === "github-trending" ? filterGithubSectionHtml(section.contentHtml) : section.contentHtml}
       </div>
     </section>
   `;

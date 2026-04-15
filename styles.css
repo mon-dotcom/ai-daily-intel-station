@@ -48,6 +48,7 @@ h3,
 .footer-meta {
   word-break: keep-all;
   overflow-wrap: break-word;
+  hanging-punctuation: first last;
 }
 
 body::before {
@@ -72,11 +73,11 @@ body::before {
   position: relative;
   padding: 5.4cm clamp(20px, 4vw, 48px) 3.2cm;
   overflow: hidden;
-  background:
-    linear-gradient(135deg, #111a37 0%, #17244c 34%, #271741 68%, #100e22 100%);
+  background: #ffffff;
   min-height: 100vh;
   display: grid;
   align-items: center;
+  isolation: isolate;
 }
 
 .hero::before {
@@ -84,9 +85,9 @@ body::before {
   position: absolute;
   inset: 0;
   background:
-    radial-gradient(circle at 18% 20%, rgba(112, 196, 255, 0.22), transparent 30%),
-    radial-gradient(circle at 82% 18%, rgba(173, 91, 255, 0.2), transparent 28%),
-    linear-gradient(180deg, rgba(255, 255, 255, 0.06), transparent 80%);
+    radial-gradient(circle at 7% 10%, rgba(184, 70, 68, 0.22), transparent 23%),
+    radial-gradient(circle at 18% 18%, rgba(207, 160, 159, 0.28), transparent 24%),
+    linear-gradient(145deg, rgba(184, 70, 68, 0.08), transparent 42%);
   z-index: -2;
 }
 
@@ -95,11 +96,12 @@ body::before {
   position: absolute;
   inset: 0;
   background:
-    linear-gradient(120deg, transparent 0 54%, rgba(255, 255, 255, 0.05) 54%, rgba(255, 255, 255, 0.01) 63%, transparent 63%),
-    linear-gradient(90deg, rgba(255, 255, 255, 0.055) 1px, transparent 1px),
-    linear-gradient(rgba(255, 255, 255, 0.04) 1px, transparent 1px);
-  background-size: auto, 56px 56px, 56px 56px;
-  mask-image: linear-gradient(180deg, rgba(0, 0, 0, 0.9), rgba(0, 0, 0, 0.55));
+    radial-gradient(circle at 87% 84%, rgba(184, 70, 68, 0.18), transparent 13%),
+    linear-gradient(130deg, transparent 0 68%, rgba(184, 70, 68, 0.08) 68%, rgba(184, 70, 68, 0.03) 79%, transparent 79%),
+    linear-gradient(90deg, rgba(184, 70, 68, 0.045) 1px, transparent 1px),
+    linear-gradient(rgba(184, 70, 68, 0.04) 1px, transparent 1px);
+  background-size: auto, auto, 72px 72px, 72px 72px;
+  mask-image: linear-gradient(180deg, rgba(0, 0, 0, 0.92), rgba(0, 0, 0, 0.6));
   z-index: -1;
 }
 
@@ -127,21 +129,21 @@ body::before {
 
 .hero h1 {
   margin: 0 0 18px;
-  font-size: clamp(3.2rem, 7vw, 5.8rem);
-  line-height: 0.98;
-  letter-spacing: -0.03em;
+  font-size: clamp(3.1rem, 6.4vw, 5.4rem);
+  line-height: 1;
+  letter-spacing: -0.022em;
   max-width: none;
   white-space: nowrap;
-  color: #ffffff;
+  color: #26282b;
   text-wrap: nowrap;
 }
 
 .hero p {
   max-width: 600px;
   margin: 0;
-  font-size: 1.16rem;
-  line-height: 1.9;
-  color: rgba(241, 245, 255, 0.84);
+  font-size: 1.14rem;
+  line-height: 1.86;
+  color: #535861;
   text-wrap: pretty;
 }
 
@@ -177,8 +179,9 @@ body::before {
 
 .section-heading h2 {
   margin: 10px 0 0;
-  font-size: clamp(1.8rem, 2.8vw, 2.6rem);
-  line-height: 1.15;
+  font-size: clamp(1.8rem, 2.6vw, 2.45rem);
+  line-height: 1.18;
+  letter-spacing: -0.012em;
   text-wrap: balance;
 }
 
@@ -244,6 +247,7 @@ body::before {
   gap: 14px;
   padding: 18px 18px 20px;
   height: 100%;
+  justify-content: space-between;
 }
 
 .topic-meta-row,
@@ -280,8 +284,8 @@ body::before {
 
 .topic-content h3 {
   margin: 0;
-  font-size: 1.24rem;
-  line-height: 1.45;
+  font-size: 1.2rem;
+  line-height: 1.42;
   letter-spacing: -0.01em;
   text-wrap: balance;
 }
@@ -293,12 +297,13 @@ body::before {
 .markdown-body p {
   margin: 0;
   color: #4b4f56;
-  line-height: 1.85;
+  line-height: 1.8;
   text-wrap: pretty;
 }
 
 .markdown-body--card {
   flex: 1 1 auto;
+  align-content: start;
 }
 
 .topic-callout {
@@ -306,6 +311,7 @@ body::before {
   gap: 8px;
   padding-top: 12px;
   border-top: 1px solid var(--line);
+  margin-top: 2px;
 }
 
 .topic-callout strong {
@@ -313,6 +319,9 @@ body::before {
 }
 
 .topic-source {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
   padding-top: 10px;
   border-top: 1px solid var(--line);
   color: var(--muted);
@@ -320,6 +329,7 @@ body::before {
   margin-top: auto;
   min-height: 52px;
   white-space: nowrap;
+  flex-wrap: nowrap;
 }
 
 .text-link,
@@ -359,6 +369,7 @@ th {
   color: var(--primary);
   font-size: 0.92rem;
   white-space: nowrap;
+  letter-spacing: -0.01em;
 }
 
 td {
@@ -660,6 +671,11 @@ td {
   .footer-copyright {
     left: 16px;
     bottom: 16px;
+  }
+
+  .topic-source {
+    white-space: normal;
+    flex-wrap: wrap;
   }
 }
 

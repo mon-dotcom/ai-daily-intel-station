@@ -1,24 +1,32 @@
 {
   "items": [
     {
-      "name": "Codex Plugins",
-      "lastFeatured": "2026-04-14"
+      "name": "career-ops",
+      "lastFeatured": "2026-04-15"
     },
     {
-      "name": "Codex Subagents",
-      "lastFeatured": "2026-04-14"
+      "name": "cli",
+      "lastFeatured": "2026-04-15"
     },
     {
-      "name": "mngr",
-      "lastFeatured": "2026-04-14"
+      "name": "ai-website-cloner-template",
+      "lastFeatured": "2026-04-15"
     },
     {
-      "name": "Latchkey",
-      "lastFeatured": "2026-04-14"
+      "name": "pua",
+      "lastFeatured": "2026-04-15"
     },
     {
-      "name": "Keystone",
-      "lastFeatured": "2026-04-14"
+      "name": "inkos",
+      "lastFeatured": "2026-04-15"
+    },
+    {
+      "name": "claude-code-book",
+      "lastFeatured": "2026-04-15"
+    },
+    {
+      "name": "Clawith",
+      "lastFeatured": "2026-04-15"
     }
   ]
 }

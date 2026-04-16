@@ -1,15 +1,45 @@
 {
-  "date": "2026-04-14",
+  "date": "2026-04-15",
   "items": [
-    { "name": "openmanus", "stars": 41890 },
-    { "name": "aider", "stars": 28780 },
-    { "name": "comfyui", "stars": 50990 },
-    { "name": "ollama", "stars": 97610 },
-    { "name": "langgenius/dify", "stars": 75790 },
-    { "name": "open-webui", "stars": 63920 },
-    { "name": "LivePortrait", "stars": 18180 },
-    { "name": "faster-whisper", "stars": 14380 },
-    { "name": "vllm", "stars": 38820 },
-    { "name": "anythingllm", "stars": 42980 }
+    {
+      "name": "langgenius/dify",
+      "stars": 137955
+    },
+    {
+      "name": "openclaw/openclaw",
+      "stars": 358385
+    },
+    {
+      "name": "n8n-io/n8n",
+      "stars": 184262
+    },
+    {
+      "name": "Significant-Gravitas/AutoGPT",
+      "stars": 183471
+    },
+    {
+      "name": "ollama/ollama",
+      "stars": 169136
+    },
+    {
+      "name": "f/prompts.chat",
+      "stars": 159837
+    },
+    {
+      "name": "huggingface/transformers",
+      "stars": 159461
+    },
+    {
+      "name": "affaan-m/everything-claude-code",
+      "stars": 157835
+    },
+    {
+      "name": "Snailclimb/JavaGuide",
+      "stars": 154990
+    },
+    {
+      "name": "langchain-ai/langchain",
+      "stars": 133727
+    }
   ]
 }

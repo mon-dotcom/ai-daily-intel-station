@@ -4,7 +4,7 @@ siteTagline: 每天早上 10:00，掌握昨天最重要的 AI 動態
 heroEyebrow: TEAM KNOWLEDGE BOARD
 heroPanelTitle: 今日觀測焦點
 heroHighlights:
-  - 本頁內容聚焦 2026年4月17日 的 AI 與開源動態
+  - 本頁內容聚焦 2026年4月18日 的 AI 與開源動態
   - GitHub 榜單與新工具清單會隨排程自動重整
   - 若部分來源失敗，系統會保留備援內容避免頁面中斷
 footerTitle: 今日 AI 小提醒

@@ -5,16 +5,16 @@ summary: 聚焦遊戲開發、內容產製與工具平台的 AI 重要進展。
 layout: topic-grid
 ---
 ::: card
-title: Clair Obscur: Expedition 33 and Dispatch win at the 2026 BAFTA Game Awards
-audience: 遊戲開發與互動體驗團隊
-time: 04/18 08:18
-image: https://gamesbeat.com/wp-content/uploads/2025/10/gbmaxblack1.svg
+title: 遊戲開發工具持續導入生成式 AI，重點從炫技轉向製作流程效率
+audience: 遊戲企劃、美術、技術美術
+time: 04/14 15:50
+image: https://images.unsplash.com/photo-1542751371-adc38448a05e?auto=format&fit=crop&w=900&q=80
 sourceName: GamesBeat
-sourceUrl: https://gamesbeat.com/clair-obscur-expedition-33-and-dispatch-win-at-the-2026-bafta-game-awards/
+sourceUrl: https://venturebeat.com/games/
 calloutTitle: 與遊戲產業的關聯
-callout: 它與遊戲產業的關聯，在於 AI 是否能真正進入開發與營運流程，而不只是展示功能。
+callout: 這直接影響美術、企劃與技術美術協作流程，若工具不能真正融入 production pipeline，熱度很快就會消退。
 ---
-這則消息由 GamesBeat 發布，焦點圍繞「Clair Obscur: Expedition 33 and Dispatch win at the 2026 BAFTA Game Awards」。如果你昨天沒有時間追完整篇內容，至少要留意它涉及的產品方向、實際應用場景，以及它是否代表 AI 工具開始進一步進入真實工作流程。
+昨天遊戲圈討論最集中的方向，是 AI 工具是否真的能縮短開發流程，包括概念圖產出、素材變體、腳本草稿與測試資料生成。市場不再只看模型效果，而是更在意工具能否嵌入既有工作流，避免額外管理成本。
 :::
 
 ::: card

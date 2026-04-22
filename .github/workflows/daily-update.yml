@@ -5,6 +5,10 @@ on:
     - cron: "7 2 * * *"
   workflow_dispatch:
 
+concurrency:
+  group: daily-ai-intel-update
+  cancel-in-progress: false
+
 permissions:
   contents: write
   issues: write
@@ -14,10 +18,12 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v4
+        uses: actions/checkout@v6
+        with:
+          fetch-depth: 0
 
       - name: Setup Node.js
-        uses: actions/setup-node@v4
+        uses: actions/setup-node@v6
         with:
           node-version: 20
           cache: npm
@@ -59,6 +65,7 @@ jobs:
             exit 0
           fi
           git commit -m "chore: update daily AI intel"
+          git pull --rebase origin main
           git push
 
   notify-failure:

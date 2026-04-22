@@ -15,7 +15,7 @@ sourceType: official
 country: 其他國家
 categories: 影片/圖片素材製作 | 專案管理
 updatedAt: Tue, 21 Apr 2026 14:30:00 +0000
-fetchedAt: 2026-04-22T04:15:20.700Z
+fetchedAt: 2026-04-22T04:29:01.546Z
 ---
 聚焦「3 new ways Ads Advisor is making Google Ads safer and faster」，可用來快速掌握近期 AI 工具、產品或產業動向。
 :::
@@ -31,7 +31,7 @@ sourceType: official
 country: 其他國家
 categories: 專案管理
 updatedAt: Tue, 21 Apr 2026 00:40:10 GMT
-fetchedAt: 2026-04-22T04:15:20.700Z
+fetchedAt: 2026-04-22T04:29:01.546Z
 ---
 重點在於「How to Ground a Korean AI Agent in Real Demographics with Synthetic Personas」，反映 AI 正在從單點工具走向可落地的流程自動化。
 :::
@@ -47,9 +47,57 @@ sourceType: official
 country: 其他國家
 categories: 影片/圖片素材製作 | 新遊戲情報收集與分析
 updatedAt: Tue, 21 Apr 2026 00:00:00 GMT
-fetchedAt: 2026-04-22T04:15:20.698Z
+fetchedAt: 2026-04-22T04:29:01.545Z
 ---
 聚焦「Scaling Codex to enterprises worldwide」，可用來快速掌握近期 AI 工具、產品或產業動向。
+:::
+
+::: card
+title: 20亿美金苏度科技具身首秀即大招！0真机数据，zero-shot，跑出98%首次抓取成功率
+audience: 
+time: 04/20 12:36
+image: https://mmbiz.qpic.cn/mmbiz_jpg/A6fTew8FFGGcXWqUIgU0JyicywLG9dyrkTicbVhQzx0eWNgHzvG99R1DlBepC0YIvyVb4pH2EEJ6yQp9dicVfjPEkyqtK2pHnqr8gwBpuLddf4/0?wx_fmt=jpeg
+sourceName: 量子位
+sourceUrl: https://mp.weixin.qq.com/s/HD1_MVRW6lmyIsp9hXSUtQ
+sourceType: wechat
+country: 中國
+categories: 專案管理
+updatedAt: Mon, 20 Apr 2026 04:36:21 GMT
+fetchedAt: 2026-04-22T04:29:01.546Z
+---
+聚焦「20亿美金苏度科技具身首秀即大招！0真机数据，zero-shot，跑出98%首次抓取成功率」，可用來快速掌握近期 AI 工具、產品或產業動向。
+:::
+
+::: card
+title: 继Harness之后，“龙虾”JiuwenClaw率先开启“Coordination Engineering”时代
+audience: 
+time: 04/20 12:36
+image: https://mmbiz.qpic.cn/mmbiz_jpg/A6fTew8FFGHZteLAQehamjwrIbLnrcoibPW0s0GbiannoDTNgOsBN8r4FIskjic3jtwbFuE9YoDmRHXCvqhjGmBfmHzkb5LnNZZ7bGje5DibPzE/0?wx_fmt=jpeg
+sourceName: 量子位
+sourceUrl: https://mp.weixin.qq.com/s/SL5aUMqCS6sxjrqkHM9dMQ
+sourceType: wechat
+country: 中國
+categories: 專案管理
+updatedAt: Mon, 20 Apr 2026 04:36:21 GMT
+fetchedAt: 2026-04-22T04:29:01.546Z
+---
+重點在於「继Harness之后，"龙虾"JiuwenClaw率先开启"Coordination Engineering"时代」，反映 AI 正在從單點工具走向可落地的流程自動化。
+:::
+
+::: card
+title: 英特尔：CPU的痛就像送外卖
+audience: 
+time: 04/20 12:36
+image: https://mmbiz.qpic.cn/sz_mmbiz_jpg/A6fTew8FFGGyicxdFNUzofIiaku4JKLW5sZibsGwO2SqEd5Tq9vmNRXwZOm5RcXR8dxptBSPRvhIF7wj2iacnQRL6zZ1QvzDRiaBW1RWI6v1Ikb8/0?wx_fmt=jpeg
+sourceName: 量子位
+sourceUrl: https://mp.weixin.qq.com/s/chZie2A11mX75ixQvWOaWw
+sourceType: wechat
+country: 中國
+categories: 專案管理
+updatedAt: Mon, 20 Apr 2026 04:36:21 GMT
+fetchedAt: 2026-04-22T04:29:01.546Z
+---
+聚焦「英特尔：CPU的痛就像送外卖」，可用來快速掌握近期 AI 工具、產品或產業動向。
 :::
 
 ::: card
@@ -63,9 +111,89 @@ sourceType: official
 country: 其他國家
 categories: 專案管理
 updatedAt: Mon, 20 Apr 2026 00:00:00 GMT
-fetchedAt: 2026-04-22T04:15:20.699Z
+fetchedAt: 2026-04-22T04:29:01.545Z
 ---
 聚焦「OpenAI helps Hyatt advance AI among colleagues」，可用來快速掌握近期 AI 工具、產品或產業動向。
+:::
+
+::: card
+title: 横扫全球15项SOTA！高德首个面向AGI的全栈具身技术体系大公开
+audience: 
+time: 04/19 12:28
+image: https://mmbiz.qpic.cn/mmbiz_jpg/A6fTew8FFGEfiayjlx20PlppAxNmsXcWoRGov3pnqnAOW6MQY5ia6mMk97ZrALQ4kzYMFZUYOXdoICeZnyXTkr9PKO2Bsq5aNAichG2vYUK4rg/0?wx_fmt=jpeg
+sourceName: 量子位
+sourceUrl: https://mp.weixin.qq.com/s/qF4tbuV16GkTqGDPitq_Ug
+sourceType: wechat
+country: 中國
+categories: 專案管理
+updatedAt: Sun, 19 Apr 2026 04:28:38 GMT
+fetchedAt: 2026-04-22T04:29:01.546Z
+---
+聚焦「横扫全球15项SOTA！高德首个面向AGI的全栈具身技术体系大公开」，可用來快速掌握近期 AI 工具、產品或產業動向。
+:::
+
+::: card
+title: 马斯克来抖音卖老干妈了？？
+audience: 
+time: 04/19 12:28
+image: https://mmbiz.qpic.cn/mmbiz_jpg/A6fTew8FFGGAVVib9GSg1DLTLfaeZq5YkCWFc14q4F6NoEiaZuicAGOJreRc78Fe1hcuFD1KrD9dyx7xyJjzbgjvFfiaRqiaFVSz0ZhLgFylnvXE/0?wx_fmt=jpeg
+sourceName: 量子位
+sourceUrl: https://mp.weixin.qq.com/s/FlPLECVOIP5V28YmCCLdkQ
+sourceType: wechat
+country: 中國
+categories: TikTok Mini Game
+updatedAt: Sun, 19 Apr 2026 04:28:38 GMT
+fetchedAt: 2026-04-22T04:29:01.546Z
+---
+聚焦「马斯克来抖音卖老干妈了？？」，可用來快速掌握近期 AI 工具、產品或產業動向。
+:::
+
+::: card
+title: 量子位编辑作者招聘
+audience: 
+time: 04/19 12:28
+image: https://mmbiz.qpic.cn/mmbiz_jpg/YicUhk5aAGtBwsQQg50rdDIFHPibz5pbVfnv0oOoRSQ2KmEYBSJRibeXrJnIU1euj0icCf6pXdduQdCbnRJy3b7u7Q/0?wx_fmt=jpeg
+sourceName: 量子位
+sourceUrl: https://mp.weixin.qq.com/s/RxD_m8Dd7r0JsgAggadEyA
+sourceType: wechat
+country: 中國
+categories: 專案管理
+updatedAt: Sun, 19 Apr 2026 04:28:38 GMT
+fetchedAt: 2026-04-22T04:29:01.546Z
+---
+聚焦「量子位编辑作者招聘」，可用來快速掌握近期 AI 工具、產品或產業動向。
+:::
+
+::: card
+title: OpenClaw的风，已经吹进了奶茶圈
+audience: 
+time: 04/18 19:51
+image: https://mmbiz.qpic.cn/mmbiz_jpg/A6fTew8FFGE4Y7RwrBouwKBZtvpyhxyHj5gbIBbeU4arS83M2bKPxK4Acyzic3n1LRyAhAQGibKcYia8D7gib1OicR4bboicuJAz4aUITRUs7IiagE/0?wx_fmt=jpeg
+sourceName: 量子位
+sourceUrl: https://mp.weixin.qq.com/s/N6jX3YIVan2079Luj7mo8Q
+sourceType: wechat
+country: 中國
+categories: 專案管理
+updatedAt: Sat, 18 Apr 2026 11:51:34 GMT
+fetchedAt: 2026-04-22T04:29:01.546Z
+---
+聚焦「OpenClaw的风，已经吹进了奶茶圈」，可用來快速掌握近期 AI 工具、產品或產業動向。
+:::
+
+::: card
+title: RAG搜对了却答错？德国萨尔大学找到了真相丨ACL'26
+audience: 
+time: 04/18 19:51
+image: https://mmbiz.qpic.cn/sz_mmbiz_jpg/A6fTew8FFGFg7hCkaV8rnXPJH2acdoiafxRwwZhoLibcQoEupAibiaba5WOzDyCpVvalDnib3MUh870wrl1v5Ozz8FXUdWbAHj1CkLQml5nic4uQ0/0?wx_fmt=jpeg
+sourceName: 量子位
+sourceUrl: https://mp.weixin.qq.com/s/lfttB0pfIL-tQEvD-AVRtg
+sourceType: wechat
+country: 中國
+categories: 專案管理
+updatedAt: Sat, 18 Apr 2026 11:51:34 GMT
+fetchedAt: 2026-04-22T04:29:01.546Z
+---
+聚焦「RAG搜对了却答错？德国萨尔大学找到了真相丨ACL'26」，可用來快速掌握近期 AI 工具、產品或產業動向。
 :::
 
 ::: card
@@ -79,7 +207,7 @@ sourceType: official
 country: 其他國家
 categories: 影片/圖片素材製作
 updatedAt: Fri, 17 Apr 2026 14:00:00 +0000
-fetchedAt: 2026-04-22T04:15:20.700Z
+fetchedAt: 2026-04-22T04:29:01.546Z
 ---
 聚焦「7 ways to travel smarter this summer, with help from Google」，可用來快速掌握近期 AI 工具、產品或產業動向。
 :::
@@ -95,9 +223,25 @@ sourceType: wechat
 country: 中國
 categories: 專案管理
 updatedAt: Fri, 17 Apr 2026 03:15:41 GMT
-fetchedAt: 2026-04-22T04:15:20.700Z
+fetchedAt: 2026-04-22T04:29:01.546Z
 ---
 聚焦「空间智能第一股，开盘暴涨171%！李飞飞押注的赛道，杭州六小龙之一跑通了」，可用來快速掌握近期 AI 工具、產品或產業動向。
+:::
+
+::: card
+title: 字节Seedance 2.0发论文了，171人署名，吴永辉曾妍在列
+audience: 
+time: 04/17 11:15
+image: https://mmbiz.qpic.cn/sz_mmbiz_jpg/A6fTew8FFGGwy9TrI2KAn0Iz6pSpKOckXmxcAX97Bv9PP0H87M8H7uTchDGVaZN7l11lrzktwCI0asRtp1iaRKqfFyodibicBvUXmpdhuXwNm0/0?wx_fmt=jpeg
+sourceName: 量子位
+sourceUrl: https://mp.weixin.qq.com/s/BLAZQ5PtB5vk_8zvnuOtNQ
+sourceType: wechat
+country: 中國
+categories: 專案管理
+updatedAt: Fri, 17 Apr 2026 03:15:41 GMT
+fetchedAt: 2026-04-22T04:29:01.547Z
+---
+聚焦「字节Seedance 2.0发论文了，171人署名，吴永辉曾妍在列」，可用來快速掌握近期 AI 工具、產品或產業動向。
 :::
 
 ::: card
@@ -111,7 +255,7 @@ sourceType: wechat
 country: 中國
 categories: 專案管理
 updatedAt: Fri, 17 Apr 2026 03:15:41 GMT
-fetchedAt: 2026-04-22T04:15:20.700Z
+fetchedAt: 2026-04-22T04:29:01.547Z
 ---
 聚焦「阿里首个世界模型：快乐…生蚝」，可用來快速掌握近期 AI 工具、產品或產業動向。
 :::
@@ -127,7 +271,7 @@ sourceType: official
 country: 其他國家
 categories: 影片/圖片素材製作
 updatedAt: Thu, 16 Apr 2026 17:00:00 +0000
-fetchedAt: 2026-04-22T04:15:20.700Z
+fetchedAt: 2026-04-22T04:29:01.546Z
 ---
 聚焦「A new way to explore the web with AI Mode in Chrome」，可用來快速掌握近期 AI 工具、產品或產業動向。
 :::
@@ -143,9 +287,41 @@ sourceType: official
 country: 其他國家
 categories: 影片/圖片素材製作
 updatedAt: Thu, 16 Apr 2026 16:00:00 +0000
-fetchedAt: 2026-04-22T04:15:20.700Z
+fetchedAt: 2026-04-22T04:29:01.546Z
 ---
 焦點圍繞「New ways to create personalized images in the Gemini app」，可直接觀察 AI 在影音與素材產線上的新能力。
+:::
+
+::: card
+title: 扔掉你的Token账单吧，荣耀YOYO Claw技术把养虾成本打下来了
+audience: 
+time: 04/16 12:35
+image: https://mmbiz.qpic.cn/mmbiz_jpg/A6fTew8FFGE82jNiabic6c2gVd1ftWJOIIEcpibYBcU3chRJw7nk8vzPKa9RFVdVX0plAJTdt4grXbNqYtNuibh7rPowPKYc7OWCROy4ONMNAuY/0?wx_fmt=jpeg
+sourceName: 量子位
+sourceUrl: https://mp.weixin.qq.com/s/IH8-HemhrNg0wyDVNx1iQQ
+sourceType: wechat
+country: 中國
+categories: 專案管理
+updatedAt: Thu, 16 Apr 2026 04:35:59 GMT
+fetchedAt: 2026-04-22T04:29:01.547Z
+---
+聚焦「扔掉你的Token账单吧，荣耀YOYO Claw技术把养虾成本打下来了」，可用來快速掌握近期 AI 工具、產品或產業動向。
+:::
+
+::: card
+title: 把屁声发给ChatGPT，它说这是艺术
+audience: ChatGPT
+time: 04/16 12:35
+image: https://mmbiz.qpic.cn/sz_mmbiz_jpg/A6fTew8FFGFoPPH48nceZxehHOQKkHYianF9d0gIoGEdfMsPZOQGibhDCicIZOj7ODibaCC4RyaKyXtpaczgFSvhGP3OsDrnhuNM8GXGkM6YfC0/0?wx_fmt=jpeg
+sourceName: 量子位
+sourceUrl: https://mp.weixin.qq.com/s/ttP-UdAYkZ-9yYoGHfbPBw
+sourceType: wechat
+country: 中國
+categories: 專案管理
+updatedAt: Thu, 16 Apr 2026 04:35:59 GMT
+fetchedAt: 2026-04-22T04:29:01.547Z
+---
+聚焦「把屁声发给ChatGPT，它说这是艺术」，可用來快速掌握近期 AI 工具、產品或產業動向。
 :::
 
 ::: card
@@ -159,7 +335,7 @@ sourceType: official
 country: 其他國家
 categories: 專案管理 | 新遊戲情報收集與分析
 updatedAt: Thu, 16 Apr 2026 01:00:00 GMT
-fetchedAt: 2026-04-22T04:15:20.699Z
+fetchedAt: 2026-04-22T04:29:01.545Z
 ---
 焦點圍繞「Introducing GPT-Rosalind for life sciences research」，適合用來判斷模型能力、開源方向與實作落地的變化。
 :::
@@ -175,7 +351,7 @@ sourceType: official
 country: 其他國家
 categories: 專案管理
 updatedAt: Thu, 16 Apr 2026 00:00:00 GMT
-fetchedAt: 2026-04-22T04:15:20.700Z
+fetchedAt: 2026-04-22T04:29:01.546Z
 ---
 重點在於「Ecom-RLVE: Adaptive Verifiable Environments for E-Commerce Conversational Agents」，反映 AI 正在從單點工具走向可落地的流程自動化。
 :::
@@ -191,7 +367,7 @@ sourceType: official
 country: 其他國家
 categories: 專案管理
 updatedAt: Thu, 16 Apr 2026 00:00:00 GMT
-fetchedAt: 2026-04-22T04:15:20.700Z
+fetchedAt: 2026-04-22T04:29:01.546Z
 ---
 焦點圍繞「Training and Finetuning Multimodal Embedding & Reranker Models with Sentence Transformers」，可直接觀察 AI 在影音與素材產線上的新能力。
 :::
@@ -207,7 +383,7 @@ sourceType: official
 country: 其他國家
 categories: 專案管理
 updatedAt: Thu, 16 Apr 2026 00:00:00 GMT
-fetchedAt: 2026-04-22T04:15:20.699Z
+fetchedAt: 2026-04-22T04:29:01.545Z
 ---
 聚焦「Accelerating the cyber defense ecosystem that protects us all」，可用來快速掌握近期 AI 工具、產品或產業動向。
 :::
@@ -223,7 +399,7 @@ sourceType: official
 country: 其他國家
 categories: 影片/圖片素材製作
 updatedAt: Wed, 15 Apr 2026 15:00:00 +0000
-fetchedAt: 2026-04-22T04:15:20.700Z
+fetchedAt: 2026-04-22T04:29:01.546Z
 ---
 聚焦「Gemini 3.1 Flash TTS: the next generation of expressive AI speech」，可用來快速掌握近期 AI 工具、產品或產業動向。
 :::
@@ -239,7 +415,7 @@ sourceType: official
 country: 其他國家
 categories: 專案管理
 updatedAt: Wed, 15 Apr 2026 12:07:25 GMT
-fetchedAt: 2026-04-22T04:15:20.700Z
+fetchedAt: 2026-04-22T04:29:01.546Z
 ---
 重點在於「Inside VAKRA: Reasoning, Tool Use, and Failure Modes of Agents」，反映 AI 正在從單點工具走向可落地的流程自動化。
 :::
@@ -255,9 +431,41 @@ sourceType: official
 country: 其他國家
 categories: 專案管理
 updatedAt: Wed, 15 Apr 2026 10:00:00 GMT
-fetchedAt: 2026-04-22T04:15:20.699Z
+fetchedAt: 2026-04-22T04:29:01.545Z
 ---
 重點在於「The next evolution of the Agents SDK」，反映 AI 正在從單點工具走向可落地的流程自動化。
+:::
+
+::: card
+title: 新Vidu Q3参考生，这是冲着「剧」来的！万物皆可参考：特效音效场景都备好了
+audience: 
+time: 04/15 12:37
+image: https://mmbiz.qpic.cn/mmbiz_jpg/A6fTew8FFGEhuTunNfrHAPbECEw0U9sXhlXfwS2dyf20DeW5rbrygwtz3ib5C7SFUiaLVt8oLM6L6x30fI5ZcgVa4wbGuj8cut2zjBgXVesQc/0?wx_fmt=jpeg
+sourceName: 量子位
+sourceUrl: https://mp.weixin.qq.com/s/ZQSMvJtMOlovg0E_fBC7Wg
+sourceType: wechat
+country: 中國
+categories: 專案管理
+updatedAt: Wed, 15 Apr 2026 04:37:48 GMT
+fetchedAt: 2026-04-22T04:29:01.547Z
+---
+聚焦「新Vidu Q3参考生，这是冲着「剧」来的！万物皆可参考：特效音效场景都备好了」，可用來快速掌握近期 AI 工具、產品或產業動向。
+:::
+
+::: card
+title: 柔体操作最缺数据、最怕仿真失真？新研究让布料物理真实再现
+audience: 
+time: 04/15 12:37
+image: https://mmbiz.qpic.cn/sz_mmbiz_jpg/A6fTew8FFGEuEhDibEic3Yz16n5LmUpgvrv27Qrk9gTc7pPCTFSr7zVvTpDNA2iaNRZUIPVYGEV5eF9sTbZYNRhSLIb4xMOvQsHPTf2BxD1wz8/0?wx_fmt=jpeg
+sourceName: 量子位
+sourceUrl: https://mp.weixin.qq.com/s/YudtcYD1kLUWk9aWnE0O1g
+sourceType: wechat
+country: 中國
+categories: 專案管理
+updatedAt: Wed, 15 Apr 2026 04:37:48 GMT
+fetchedAt: 2026-04-22T04:29:01.547Z
+---
+聚焦「柔体操作最缺数据、最怕仿真失真？新研究让布料物理真实再现」，可用來快速掌握近期 AI 工具、產品或產業動向。
 :::
 
 ::: card
@@ -271,7 +479,7 @@ sourceType: official
 country: 其他國家
 categories: 影片/圖片素材製作 | 專案管理
 updatedAt: Tue, 14 Apr 2026 17:00:00 +0000
-fetchedAt: 2026-04-22T04:15:20.700Z
+fetchedAt: 2026-04-22T04:29:01.546Z
 ---
 聚焦「Turn your best AI prompts into one-click tools in Chrome」，可用來快速掌握近期 AI 工具、產品或產業動向。
 :::
@@ -287,9 +495,25 @@ sourceType: official
 country: 其他國家
 categories: 影片/圖片素材製作
 updatedAt: Tue, 14 Apr 2026 09:00:00 +0000
-fetchedAt: 2026-04-22T04:15:20.700Z
+fetchedAt: 2026-04-22T04:29:01.546Z
 ---
 聚焦「Bringing people together at AI for the Economy Forum」，可用來快速掌握近期 AI 工具、產品或產業動向。
+:::
+
+::: card
+title: 月薪3万，去内蒙草原给DeepSeek守机房
+audience: 
+time: 04/14 11:45
+image: https://mmbiz.qpic.cn/sz_mmbiz_jpg/A6fTew8FFGHic3Vnshl3skdx4ev2BpbbH3nn2WBbyPkpdDSHL7HiaqvMKAOvnoXHfV5iceqhR2ejxSEhdiaBibZFnwY00jic4VVHYibLeGp0sBYv7k/0?wx_fmt=jpeg
+sourceName: 量子位
+sourceUrl: https://mp.weixin.qq.com/s/y1jdzyloa9EXOLORzoBL3A
+sourceType: wechat
+country: 中國
+categories: 專案管理
+updatedAt: Tue, 14 Apr 2026 03:45:49 GMT
+fetchedAt: 2026-04-22T04:29:01.547Z
+---
+聚焦「月薪3万，去内蒙草原给DeepSeek守机房」，可用來快速掌握近期 AI 工具、產品或產業動向。
 :::
 
 ::: card
@@ -303,7 +527,7 @@ sourceType: official
 country: 其他國家
 categories: 專案管理
 updatedAt: Tue, 14 Apr 2026 00:00:00 GMT
-fetchedAt: 2026-04-22T04:15:20.699Z
+fetchedAt: 2026-04-22T04:29:01.545Z
 ---
 聚焦「Trusted access for the next era of cyber defense」，可用來快速掌握近期 AI 工具、產品或產業動向。
 :::
@@ -319,57 +543,9 @@ sourceType: official
 country: 其他國家
 categories: 專案管理
 updatedAt: Mon, 13 Apr 2026 06:00:00 GMT
-fetchedAt: 2026-04-22T04:15:20.699Z
+fetchedAt: 2026-04-22T04:29:01.545Z
 ---
 重點在於「Enterprises power agentic workflows in Cloudflare Agent Cloud with OpenAI」，反映 AI 正在從單點工具走向可落地的流程自動化。
-:::
-
-::: card
-title: 中国具身模型狂揽全球第一！机器人的人类数据时代来了
-audience: 
-time: 04/11 09:05
-image: https://mmbiz.qpic.cn/mmbiz_jpg/A6fTew8FFGH4Bnia7Bm2QbOiau0VM25PHcOkvGHlEfFoT6CGUK8dn2iaKltwiacaHicOHjaBnF8OaiaI3SluLtX45u3fzbvD2mtfTNGvj7D9bV0p4/0?wx_fmt=jpeg
-sourceName: 量子位
-sourceUrl: https://mp.weixin.qq.com/s/Dfj0Z1JiMoTjzSCBassL2Q
-sourceType: wechat
-country: 中國
-categories: 專案管理
-updatedAt: Sat, 11 Apr 2026 01:05:04 GMT
-fetchedAt: 2026-04-22T04:15:20.700Z
----
-聚焦「中国具身模型狂揽全球第一！机器人的人类数据时代来了」，可用來快速掌握近期 AI 工具、產品或產業動向。
-:::
-
-::: card
-title: OpenClaw的风刮到了多模态生成，6B小模型超越Nano Banana 2！
-audience: 
-time: 04/11 09:05
-image: https://mmbiz.qpic.cn/sz_mmbiz_jpg/A6fTew8FFGFbiaCYJeLrbcaO56AqwQwX4iamvlxUoMJMz3vTYpzRCh27XvhSKGxKZIRxPM4PSQUrLOIYHjUzzGibiaVdzcwDPzEQtHjAl930zWU/0?wx_fmt=jpeg
-sourceName: 量子位
-sourceUrl: https://mp.weixin.qq.com/s/NX7FAtlTGVjYO06OZeONlw
-sourceType: wechat
-country: 中國
-categories: 專案管理
-updatedAt: Sat, 11 Apr 2026 01:05:04 GMT
-fetchedAt: 2026-04-22T04:15:20.700Z
----
-聚焦「OpenClaw的风刮到了多模态生成，6B小模型超越Nano Banana 2！」，可用來快速掌握近期 AI 工具、產品或產業動向。
-:::
-
-::: card
-title: SVG性能比肩GPT/Claude，腾讯开源3B模型HiVG，让Token「懂几何」
-audience: Claude
-time: 04/10 12:05
-image: https://mmbiz.qpic.cn/sz_mmbiz_jpg/A6fTew8FFGFg4uXU1SUePxUlffba4fXRLx2lcVvcfibKHlfjg8k3C82u9JAa5LicXw1mzF5ibB81ic2Lib95DyzSibFicP34sezvRF2AoRcpDcjIl4/0?wx_fmt=jpeg
-sourceName: 量子位
-sourceUrl: https://mp.weixin.qq.com/s/siGHXTw_oAWFllfkmHugWg
-sourceType: wechat
-country: 中國
-categories: 專案管理
-updatedAt: Fri, 10 Apr 2026 04:05:52 GMT
-fetchedAt: 2026-04-22T04:15:20.700Z
----
-聚焦「SVG性能比肩GPT/Claude，腾讯开源3B模型HiVG，让Token「懂几何」」，可用來快速掌握近期 AI 工具、產品或產業動向。
 :::
 
 ::: card
@@ -383,25 +559,9 @@ sourceType: official
 country: 其他國家
 categories: 影片/圖片素材製作 | 新遊戲情報收集與分析
 updatedAt: Fri, 10 Apr 2026 00:00:00 GMT
-fetchedAt: 2026-04-22T04:15:20.699Z
+fetchedAt: 2026-04-22T04:29:01.545Z
 ---
 聚焦「AI fundamentals」，可用來快速掌握近期 AI 工具、產品或產業動向。
-:::
-
-::: card
-title: Applications of AI at OpenAI
-audience: 
-time: 04/10 08:00
-image: 
-sourceName: OpenAI Blog
-sourceUrl: https://openai.com/academy/applications-of-ai
-sourceType: official
-country: 其他國家
-categories: 專案管理
-updatedAt: Fri, 10 Apr 2026 00:00:00 GMT
-fetchedAt: 2026-04-22T04:15:20.699Z
----
-聚焦「Applications of AI at OpenAI」，可用來快速掌握近期 AI 工具、產品或產業動向。
 :::
 
 ::: card
@@ -415,7 +575,7 @@ sourceType: official
 country: 其他國家
 categories: 專案管理
 updatedAt: Fri, 10 Apr 2026 00:00:00 GMT
-fetchedAt: 2026-04-22T04:15:20.699Z
+fetchedAt: 2026-04-22T04:29:01.545Z
 ---
 聚焦「Our response to the Axios developer tool compromise」，可用來快速掌握近期 AI 工具、產品或產業動向。
 :::
@@ -431,7 +591,7 @@ sourceType: official
 country: 其他國家
 categories: 專案管理
 updatedAt: Thu, 09 Apr 2026 00:00:00 GMT
-fetchedAt: 2026-04-22T04:15:20.700Z
+fetchedAt: 2026-04-22T04:29:01.546Z
 ---
 焦點圍繞「Multimodal Embedding & Reranker Models with Sentence Transformers」，可直接觀察 AI 在影音與素材產線上的新能力。
 :::
@@ -447,7 +607,7 @@ sourceType: official
 country: 其他國家
 categories: 影片/圖片素材製作
 updatedAt: Thu, 02 Apr 2026 16:00:00 +0000
-fetchedAt: 2026-04-22T04:15:20.700Z
+fetchedAt: 2026-04-22T04:29:01.546Z
 ---
 聚焦「New ways to balance cost and reliability in the Gemini API」，可用來快速掌握近期 AI 工具、產品或產業動向。
 :::
@@ -463,25 +623,9 @@ sourceType: official
 country: 其他國家
 categories: 影片/圖片素材製作
 updatedAt: Thu, 02 Apr 2026 16:00:00 +0000
-fetchedAt: 2026-04-22T04:15:20.700Z
+fetchedAt: 2026-04-22T04:29:01.546Z
 ---
 焦點圍繞「Create, edit and share videos at no cost in Google Vids」，可直接觀察 AI 在影音與素材產線上的新能力。
-:::
-
-::: card
-title: We’re creating a new satellite imagery map to help protect Brazil’s forests.
-audience: 
-time: 04/01 21:30
-image: https://storage.googleapis.com/gweb-uniblog-publish-prod/images/bfc_keyword_before_after_white_.max-600x600.format-webp_QNQ8psB.webp
-sourceName: Google Blog
-sourceUrl: https://blog.google/products-and-platforms/products/earth/satellite-imagery-brazilian-deforestation/
-sourceType: official
-country: 其他國家
-categories: 影片/圖片素材製作
-updatedAt: Wed, 01 Apr 2026 13:30:00 +0000
-fetchedAt: 2026-04-22T04:15:20.700Z
----
-焦點圍繞「We're creating a new satellite imagery map to help protect Brazil's forests.」，可直接觀察 AI 在影音與素材產線上的新能力。
 :::
 
 ::: card
@@ -495,7 +639,7 @@ sourceType: official
 country: 其他國家
 categories: 專案管理
 updatedAt: Tue, 31 Mar 2026 08:23:44 GMT
-fetchedAt: 2026-04-22T04:15:20.700Z
+fetchedAt: 2026-04-22T04:29:01.546Z
 ---
 焦點圍繞「Training mRNA Language Models Across 25 Species for $165」，適合用來判斷模型能力、開源方向與實作落地的變化。
 :::
@@ -511,7 +655,7 @@ sourceType: official
 country: 其他國家
 categories: 專案管理
 updatedAt: Tue, 24 Mar 2026 02:01:52 GMT
-fetchedAt: 2026-04-22T04:15:20.700Z
+fetchedAt: 2026-04-22T04:29:01.546Z
 ---
 重點在於「A New Framework for Evaluating Voice Agents (EVA)」，反映 AI 正在從單點工具走向可落地的流程自動化。
 :::
@@ -527,7 +671,7 @@ sourceType: official
 country: 其他國家
 categories: 專案管理
 updatedAt: Fri, 20 Mar 2026 19:38:16 GMT
-fetchedAt: 2026-04-22T04:15:20.700Z
+fetchedAt: 2026-04-22T04:29:01.546Z
 ---
 焦點圍繞「Build a Domain-Specific Embedding Model in Under a Day」，適合用來判斷模型能力、開源方向與實作落地的變化。
 :::
@@ -543,23 +687,7 @@ sourceType: official
 country: 其他國家
 categories: 專案管理
 updatedAt: Tue, 17 Mar 2026 12:33:39 GMT
-fetchedAt: 2026-04-22T04:15:20.700Z
+fetchedAt: 2026-04-22T04:29:01.546Z
 ---
 重點在於「Holotron-12B - High Throughput Computer Use Agent」，反映 AI 正在從單點工具走向可落地的流程自動化。
-:::
-
-::: card
-title: Keep the Tokens Flowing: Lessons from 16 Open-Source RL Libraries
-audience: 
-time: 03/10 08:00
-image: 
-sourceName: Hugging Face Blog
-sourceUrl: https://huggingface.co/blog/async-rl-training-landscape
-sourceType: official
-country: 其他國家
-categories: 專案管理
-updatedAt: Tue, 10 Mar 2026 00:00:00 GMT
-fetchedAt: 2026-04-22T04:15:20.700Z
----
-焦點圍繞「Keep the Tokens Flowing: Lessons from 16 Open-Source RL Libraries」，適合用來判斷模型能力、開源方向與實作落地的變化。
 :::

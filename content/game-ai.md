@@ -15,9 +15,7 @@ sourceType: media
 country: 其他國家
 categories: 影片/圖片素材製作
 updatedAt: Tue, 21 Apr 2026 15:21:00 +0100
-fetchedAt: 2026-04-22T04:15:25.544Z
-calloutTitle: 與遊戲產業的關聯
-callout: 它與遊戲產業的關聯，在於 AI 是否能真正進入開發與營運流程，而不只是展示功能。
+fetchedAt: 2026-04-22T04:28:56.975Z
 ---
 聚焦「"AI writes the code, but a human has to care"」，可用來快速掌握近期 AI 工具、產品或產業動向。
 :::
@@ -33,9 +31,7 @@ sourceType: media
 country: 其他國家
 categories: 新遊戲情報收集與分析
 updatedAt: Tue, 21 Apr 2026 13:30:00 +0000
-fetchedAt: 2026-04-22T04:15:25.542Z
-calloutTitle: 與遊戲產業的關聯
-callout: 它與遊戲產業的關聯，在於 AI 是否能真正進入開發與營運流程，而不只是展示功能。
+fetchedAt: 2026-04-22T04:28:56.973Z
 ---
 聚焦「AI Vector Vision says it can fix Nvidia&#8217;s DLSS 5 to look better with new vector tech &#124; exclusive」，可用來快速掌握近期 AI 工具、產品或產業動向。
 :::
@@ -51,9 +47,7 @@ sourceType: media
 country: 其他國家
 categories: 新遊戲情報收集與分析
 updatedAt: Tue, 21 Apr 2026 14:07:00 +0100
-fetchedAt: 2026-04-22T04:15:25.544Z
-calloutTitle: 與遊戲產業的關聯
-callout: 這會影響遊戲團隊選型與工具鏈整合，尤其是引擎與平台層的 AI 標配化。
+fetchedAt: 2026-04-22T04:28:56.975Z
 ---
 聚焦「Explore how 2026 growth engines impact games at Pocket Gamer Connects Barcelona」，值得留意它對遊戲開發、內容製作或營運流程的影響。
 :::
@@ -69,9 +63,7 @@ sourceType: media
 country: 其他國家
 categories: 專案管理
 updatedAt: Tue, 21 Apr 2026 09:50:00 +0100
-fetchedAt: 2026-04-22T04:15:25.544Z
-calloutTitle: 與遊戲產業的關聯
-callout: 它與遊戲產業的關聯，在於 AI 是否能真正進入開發與營運流程，而不只是展示功能。
+fetchedAt: 2026-04-22T04:28:56.975Z
 ---
 聚焦「Tamatem acquires ad tech firm Playable Factory in AI-first shift」，可用來快速掌握近期 AI 工具、產品或產業動向。
 :::
@@ -87,9 +79,7 @@ sourceType: wechat
 country: 中國
 categories: 新遊戲情報收集與分析
 updatedAt: Mon, 20 Apr 2026 04:36:21 GMT
-fetchedAt: 2026-04-22T04:15:25.544Z
-calloutTitle: 與遊戲產業的關聯
-callout: 它與遊戲產業的關聯，在於 AI 是否能真正進入開發與營運流程，而不只是展示功能。
+fetchedAt: 2026-04-22T04:28:56.975Z
 ---
 聚焦「@所有人，2026真的需要自己上手用AI了丨年度AI盛会」，可用來快速掌握近期 AI 工具、產品或產業動向。
 :::
@@ -105,9 +95,7 @@ sourceType: wechat
 country: 中國
 categories: 新遊戲情報收集與分析
 updatedAt: Sun, 19 Apr 2026 04:28:38 GMT
-fetchedAt: 2026-04-22T04:15:25.544Z
-calloutTitle: 與遊戲產業的關聯
-callout: 它與遊戲產業的關聯，在於 AI 是否能真正進入開發與營運流程，而不只是展示功能。
+fetchedAt: 2026-04-22T04:28:56.975Z
 ---
 聚焦「今年最火的AI产品，不止龙虾｜榜单申报中」，可用來快速掌握近期 AI 工具、產品或產業動向。
 :::
@@ -123,9 +111,7 @@ sourceType: wechat
 country: 中國
 categories: 專案管理
 updatedAt: Sat, 18 Apr 2026 11:51:34 GMT
-fetchedAt: 2026-04-22T04:15:25.544Z
-calloutTitle: 與遊戲產業的關聯
-callout: 它與遊戲產業的關聯，在於 AI 是否能真正進入開發與營運流程，而不只是展示功能。
+fetchedAt: 2026-04-22T04:28:56.975Z
 ---
 聚焦「AI开始接管实验室了！玻尔·跃迁实验室：试剂、设备、数据一个入口搞定，1800+设备即插即用」，可用來快速掌握近期 AI 工具、產品或產業動向。
 :::
@@ -141,9 +127,7 @@ sourceType: media
 country: 其他國家
 categories: 影片/圖片素材製作 | 專案管理 | 新遊戲情報收集與分析
 updatedAt: Fri, 17 Apr 2026 15:08:00 +0100
-fetchedAt: 2026-04-22T04:15:25.544Z
-calloutTitle: 與遊戲產業的關聯
-callout: 這會影響遊戲團隊選型與工具鏈整合，尤其是引擎與平台層的 AI 標配化。
+fetchedAt: 2026-04-22T04:28:56.975Z
 ---
 重點在於「Roblox launches agentic AI tools to speed up game development workflows」，反映 AI 正在從單點工具走向可落地的流程自動化。
 :::
@@ -159,9 +143,7 @@ sourceType: media
 country: 其他國家
 categories: 專案管理
 updatedAt: Fri, 17 Apr 2026 13:39:33 GMT
-fetchedAt: 2026-04-22T04:15:25.543Z
-calloutTitle: 與遊戲產業的關聯
-callout: 它與遊戲產業的關聯，在於 AI 是否能真正進入開發與營運流程，而不只是展示功能。
+fetchedAt: 2026-04-22T04:28:56.975Z
 ---
 聚焦「Update: Panic won't release Playdate titles that use certain forms of generative AI」，可用來快速掌握近期 AI 工具、產品或產業動向。
 :::
@@ -177,9 +159,7 @@ sourceType: media
 country: 其他國家
 categories: 影片/圖片素材製作 | 專案管理 | 新遊戲情報收集與分析
 updatedAt: Fri, 17 Apr 2026 14:00:00 +0100
-fetchedAt: 2026-04-22T04:15:25.544Z
-calloutTitle: 與遊戲產業的關聯
-callout: 這與遊戲內容產製流程關聯高，可能影響美術、動畫與影音素材的產線效率。
+fetchedAt: 2026-04-22T04:28:56.975Z
 ---
 重點在於「ThinkingAI and MiniMax Announce Partnership on Agentic Engine to Deliver Real-Time Operations」，反映 AI 正在從單點工具走向可落地的流程自動化。
 :::
@@ -195,9 +175,7 @@ sourceType: wechat
 country: 中國
 categories: 專案管理
 updatedAt: Thu, 16 Apr 2026 04:35:59 GMT
-fetchedAt: 2026-04-22T04:15:25.544Z
-calloutTitle: 與遊戲產業的關聯
-callout: 它與遊戲產業的關聯，在於 AI 是否能真正進入開發與營運流程，而不只是展示功能。
+fetchedAt: 2026-04-22T04:28:56.975Z
 ---
 聚焦「MSRA首测AI从零建仓库：能写、能跑，但不一定对丨ACL'26」，可用來快速掌握近期 AI 工具、產品或產業動向。
 :::
@@ -213,9 +191,7 @@ sourceType: wechat
 country: 中國
 categories: 新遊戲情報收集與分析
 updatedAt: Thu, 16 Apr 2026 04:35:59 GMT
-fetchedAt: 2026-04-22T04:15:25.544Z
-calloutTitle: 與遊戲產業的關聯
-callout: 它與遊戲產業的關聯，在於 AI 是否能真正進入開發與營運流程，而不只是展示功能。
+fetchedAt: 2026-04-22T04:28:56.975Z
 ---
 聚焦「年度AI产品榜单申报」，可用來快速掌握近期 AI 工具、產品或產業動向。
 :::
@@ -231,9 +207,7 @@ sourceType: media
 country: 其他國家
 categories: 專案管理
 updatedAt: Wed, 15 Apr 2026 16:13:19 GMT
-fetchedAt: 2026-04-22T04:15:25.543Z
-calloutTitle: 與遊戲產業的關聯
-callout: 它與遊戲產業的關聯，在於 AI 是否能真正進入開發與營運流程，而不只是展示功能。
+fetchedAt: 2026-04-22T04:28:56.975Z
 ---
 聚焦「US representative Maxwell Frost protests Saudi buyout of EA」，可用來快速掌握近期 AI 工具、產品或產業動向。
 :::
@@ -249,9 +223,7 @@ sourceType: media
 country: 其他國家
 categories: 影片/圖片素材製作
 updatedAt: Wed, 15 Apr 2026 13:32:01 GMT
-fetchedAt: 2026-04-22T04:15:25.543Z
-calloutTitle: 與遊戲產業的關聯
-callout: 這與遊戲內容產製流程關聯高，可能影響美術、動畫與影音素材的產線效率。
+fetchedAt: 2026-04-22T04:28:56.975Z
 ---
 焦點圍繞「Video game lawyer implores devs to understand ownership and swerve generative AI」，可直接觀察 AI 在影音與素材產線上的新能力。
 :::
@@ -267,9 +239,7 @@ sourceType: wechat
 country: 中國
 categories: 專案管理
 updatedAt: Wed, 15 Apr 2026 04:37:48 GMT
-fetchedAt: 2026-04-22T04:15:25.544Z
-calloutTitle: 與遊戲產業的關聯
-callout: 它與遊戲產業的關聯，在於 AI 是否能真正進入開發與營運流程，而不只是展示功能。
+fetchedAt: 2026-04-22T04:28:56.975Z
 ---
 聚焦「黄仁勋率先开源量子AI大模型」，可用來快速掌握近期 AI 工具、產品或產業動向。
 :::
@@ -285,9 +255,7 @@ sourceType: wechat
 country: 中國
 categories: 專案管理
 updatedAt: Tue, 14 Apr 2026 15:23:14 GMT
-fetchedAt: 2026-04-22T04:15:25.544Z
-calloutTitle: 與遊戲產業的關聯
-callout: 它與遊戲產業的關聯，在於 AI 是否能真正進入開發與營運流程，而不只是展示功能。
+fetchedAt: 2026-04-22T04:28:56.976Z
 ---
 聚焦「不得不承认，AI对游戏业的影响是毁灭性的！毁灭了旧时代，立即原地正新建一个充满新机遇的新时代！」，可用來快速掌握近期 AI 工具、產品或產業動向。
 :::
@@ -303,9 +271,7 @@ sourceType: wechat
 country: 中國
 categories: 專案管理
 updatedAt: Tue, 14 Apr 2026 03:45:49 GMT
-fetchedAt: 2026-04-22T04:15:25.544Z
-calloutTitle: 與遊戲產業的關聯
-callout: 它與遊戲產業的關聯，在於 AI 是否能真正進入開發與營運流程，而不只是展示功能。
+fetchedAt: 2026-04-22T04:28:56.976Z
 ---
 聚焦「不只是卖服务器，中兴通讯想做AI时代的基础设施商」，可用來快速掌握近期 AI 工具、產品或產業動向。
 :::
@@ -321,9 +287,7 @@ sourceType: wechat
 country: 中國
 categories: 專案管理
 updatedAt: Tue, 14 Apr 2026 03:45:49 GMT
-fetchedAt: 2026-04-22T04:15:25.544Z
-calloutTitle: 與遊戲產業的關聯
-callout: 它與遊戲產業的關聯，在於 AI 是否能真正進入開發與營運流程，而不只是展示功能。
+fetchedAt: 2026-04-22T04:28:56.976Z
 ---
 聚焦「盛大AI研究院新作：流式生成超越非流式，一句话让虚拟人动作丝滑如真，推理延迟仅1帧」，可用來快速掌握近期 AI 工具、產品或產業動向。
 :::
@@ -339,9 +303,7 @@ sourceType: wechat
 country: 中國
 categories: TikTok Mini Game
 updatedAt: Mon, 13 Apr 2026 07:48:07 GMT
-fetchedAt: 2026-04-22T04:15:25.544Z
-calloutTitle: 與遊戲產業的關聯
-callout: 它與遊戲產業的關聯，在於 AI 是否能真正進入開發與營運流程，而不只是展示功能。
+fetchedAt: 2026-04-22T04:28:56.976Z
 ---
 聚焦「小游戏出海、快速起量、爆款产品拆解、AI应用落地、海外开发者经验 | 4月21日深圳站出海沙龙报名开始中」，值得留意它對遊戲開發、內容製作或營運流程的影響。
 :::
@@ -357,9 +319,7 @@ sourceType: wechat
 country: 中國
 categories: 專案管理
 updatedAt: Sun, 12 Apr 2026 01:59:54 GMT
-fetchedAt: 2026-04-22T04:15:25.544Z
-calloutTitle: 與遊戲產業的關聯
-callout: 它與遊戲產業的關聯，在於 AI 是否能真正進入開發與營運流程，而不只是展示功能。
+fetchedAt: 2026-04-22T04:28:56.976Z
 ---
 聚焦「36.4万超声图文对！中国团队构建首个大规模超声专属数据集，让AI真正读懂临床诊断语义丨CVPR'26」，可用來快速掌握近期 AI 工具、產品或產業動向。
 :::
@@ -375,9 +335,7 @@ sourceType: wechat
 country: 中國
 categories: 新遊戲情報收集與分析
 updatedAt: Sun, 12 Apr 2026 01:59:54 GMT
-fetchedAt: 2026-04-22T04:15:25.544Z
-calloutTitle: 與遊戲產業的關聯
-callout: 它與遊戲產業的關聯，在於 AI 是否能真正進入開發與營運流程，而不只是展示功能。
+fetchedAt: 2026-04-22T04:28:56.976Z
 ---
 聚焦「一年一度最值得关注的AI榜单来啦！申报即日启动」，可用來快速掌握近期 AI 工具、產品或產業動向。
 :::
@@ -393,9 +351,7 @@ sourceType: wechat
 country: 中國
 categories: TikTok Mini Game
 updatedAt: Fri, 10 Apr 2026 15:23:27 GMT
-fetchedAt: 2026-04-22T04:15:25.544Z
-calloutTitle: 與遊戲產業的關聯
-callout: 它與遊戲產業的關聯，在於 AI 是否能真正進入開發與營運流程，而不只是展示功能。
+fetchedAt: 2026-04-22T04:28:56.976Z
 ---
 聚焦「当小游戏也能让AI一句话生成，新的内容平台机会来了？」，值得留意它對遊戲開發、內容製作或營運流程的影響。
 :::
@@ -411,9 +367,7 @@ sourceType: wechat
 country: 中國
 categories: 專案管理
 updatedAt: Fri, 10 Apr 2026 04:05:52 GMT
-fetchedAt: 2026-04-22T04:15:25.544Z
-calloutTitle: 與遊戲產業的關聯
-callout: 它與遊戲產業的關聯，在於 AI 是否能真正進入開發與營運流程，而不只是展示功能。
+fetchedAt: 2026-04-22T04:28:56.976Z
 ---
 聚焦「实测刘翔pick的国产AI汽车，BBA老车主的豪华滤镜碎了」，可用來快速掌握近期 AI 工具、產品或產業動向。
 :::
@@ -429,9 +383,7 @@ sourceType: wechat
 country: 中國
 categories: 專案管理
 updatedAt: Thu, 09 Apr 2026 04:06:35 GMT
-fetchedAt: 2026-04-22T04:15:25.544Z
-calloutTitle: 與遊戲產業的關聯
-callout: 它與遊戲產業的關聯，在於 AI 是否能真正進入開發與營運流程，而不只是展示功能。
+fetchedAt: 2026-04-22T04:28:56.976Z
 ---
 聚焦「别只用AI写脚本了，现在AI打广告可真是城会玩了！」，可用來快速掌握近期 AI 工具、產品或產業動向。
 :::
@@ -447,9 +399,7 @@ sourceType: wechat
 country: 中國
 categories: 專案管理
 updatedAt: Wed, 08 Apr 2026 04:00:33 GMT
-fetchedAt: 2026-04-22T04:15:25.544Z
-calloutTitle: 與遊戲產業的關聯
-callout: 它與遊戲產業的關聯，在於 AI 是否能真正進入開發與營運流程，而不只是展示功能。
+fetchedAt: 2026-04-22T04:28:56.976Z
 ---
 聚焦「小米AI语音新框架：人人都能当声音导演」，可用來快速掌握近期 AI 工具、產品或產業動向。
 :::
@@ -465,9 +415,7 @@ sourceType: media
 country: 其他國家
 categories: 專案管理
 updatedAt: Fri, 03 Apr 2026 14:20:24 GMT
-fetchedAt: 2026-04-22T04:15:25.543Z
-calloutTitle: 與遊戲產業的關聯
-callout: 它與遊戲產業的關聯，在於 AI 是否能真正進入開發與營運流程，而不只是展示功能。
+fetchedAt: 2026-04-22T04:28:56.975Z
 ---
 聚焦「Report: Take-Two lays off the head of AI and multiple team members」，可用來快速掌握近期 AI 工具、產品或產業動向。
 :::
@@ -483,9 +431,7 @@ sourceType: media
 country: 其他國家
 categories: 專案管理
 updatedAt: Thu, 02 Apr 2026 16:48:29 GMT
-fetchedAt: 2026-04-22T04:15:25.543Z
-calloutTitle: 與遊戲產業的關聯
-callout: 它與遊戲產業的關聯，在於 AI 是否能真正進入開發與營運流程，而不只是展示功能。
+fetchedAt: 2026-04-22T04:28:56.975Z
 ---
 聚焦「Stormgate rushing offline mode after losing server access to an AI company」，可用來快速掌握近期 AI 工具、產品或產業動向。
 :::
@@ -501,9 +447,7 @@ sourceType: wechat
 country: 中國
 categories: 影片/圖片素材製作 | 新遊戲情報收集與分析
 updatedAt: Wed, 01 Apr 2026 00:49:06 GMT
-fetchedAt: 2026-04-22T04:15:25.544Z
-calloutTitle: 與遊戲產業的關聯
-callout: 它與遊戲產業的關聯，在於 AI 是否能真正進入開發與營運流程，而不只是展示功能。
+fetchedAt: 2026-04-22T04:28:56.976Z
 ---
 焦點圍繞「单月超100亿元！三七互娱、Krafton等出手，游戏资本集体投向AI视频与短剧」，可直接觀察 AI 在影音與素材產線上的新能力。
 :::
@@ -519,9 +463,7 @@ sourceType: official
 country: 其他國家
 categories: 影片/圖片素材製作 | 專案管理 | 新遊戲情報收集與分析
 updatedAt: Wed, 01 Apr 2026 00:00:00 GMT
-fetchedAt: 2026-04-22T04:15:25.542Z
-calloutTitle: 與遊戲產業的關聯
-callout: 這會影響遊戲團隊選型與工具鏈整合，尤其是引擎與平台層的 AI 標配化。
+fetchedAt: 2026-04-22T04:28:56.974Z
 ---
 聚焦「Games made with Unity: March 2026 in review」，值得留意它對遊戲開發、內容製作或營運流程的影響。
 :::
@@ -537,9 +479,7 @@ sourceType: wechat
 country: 中國
 categories: 影片/圖片素材製作 | 新遊戲情報收集與分析
 updatedAt: Fri, 27 Mar 2026 03:56:06 GMT
-fetchedAt: 2026-04-22T04:15:25.544Z
-calloutTitle: 與遊戲產業的關聯
-callout: 它與遊戲產業的關聯，在於 AI 是否能真正進入開發與營運流程，而不只是展示功能。
+fetchedAt: 2026-04-22T04:28:56.976Z
 ---
 焦點圍繞「3天飙升80+名！三七互娱新品：穿越+逆袭，AI漫剧素材立功？」，可直接觀察 AI 在影音與素材產線上的新能力。
 :::
@@ -555,9 +495,7 @@ sourceType: official
 country: 其他國家
 categories: 影片/圖片素材製作 | 專案管理 | 新遊戲情報收集與分析
 updatedAt: Thu, 26 Mar 2026 00:00:00 GMT
-fetchedAt: 2026-04-22T04:15:25.543Z
-calloutTitle: 與遊戲產業的關聯
-callout: 這與遊戲內容產製流程關聯高，可能影響美術、動畫與影音素材的產線效率。
+fetchedAt: 2026-04-22T04:28:56.974Z
 ---
 聚焦「The hidden costs of traditional 3D tools and the smarter way to build interactive experiences」，可用來快速掌握近期 AI 工具、產品或產業動向。
 :::
@@ -573,9 +511,7 @@ sourceType: official
 country: 其他國家
 categories: 影片/圖片素材製作 | 專案管理 | 新遊戲情報收集與分析
 updatedAt: Wed, 25 Mar 2026 00:00:00 GMT
-fetchedAt: 2026-04-22T04:15:25.543Z
-calloutTitle: 與遊戲產業的關聯
-callout: 它與遊戲產業的關聯，在於 AI 是否能真正進入開發與營運流程，而不只是展示功能。
+fetchedAt: 2026-04-22T04:28:56.974Z
 ---
 聚焦「Rendering at 500 km/h in Gear.Club Unlimited 3」，可用來快速掌握近期 AI 工具、產品或產業動向。
 :::
@@ -591,9 +527,7 @@ sourceType: wechat
 country: 中國
 categories: 新遊戲情報收集與分析
 updatedAt: Mon, 23 Mar 2026 07:35:51 GMT
-fetchedAt: 2026-04-22T04:15:25.544Z
-calloutTitle: 與遊戲產業的關聯
-callout: 它與遊戲產業的關聯，在於 AI 是否能真正進入開發與營運流程，而不只是展示功能。
+fetchedAt: 2026-04-22T04:28:56.976Z
 ---
 聚焦「游戏从业者AI使用调查：4类场景最常用AI；8成受访者认为不该用，9成认为要披露是否AI」，可用來快速掌握近期 AI 工具、產品或產業動向。
 :::
@@ -609,9 +543,7 @@ sourceType: wechat
 country: 中國
 categories: 影片/圖片素材製作
 updatedAt: Thu, 19 Mar 2026 15:26:28 GMT
-fetchedAt: 2026-04-22T04:15:25.544Z
-calloutTitle: 與遊戲產業的關聯
-callout: 它與遊戲產業的關聯，在於 AI 是否能真正進入開發與營運流程，而不只是展示功能。
+fetchedAt: 2026-04-22T04:28:56.976Z
 ---
 聚焦「纯AI美术+三角洲行动+集装箱竞拍，零宣发在线破两万？这款新游验证了一条刁钻的突围捷径」，可用來快速掌握近期 AI 工具、產品或產業動向。
 :::
@@ -627,9 +559,7 @@ sourceType: wechat
 country: 中國
 categories: 專案管理
 updatedAt: Wed, 18 Mar 2026 15:24:10 GMT
-fetchedAt: 2026-04-22T04:15:25.544Z
-calloutTitle: 與遊戲產業的關聯
-callout: 它與遊戲產業的關聯，在於 AI 是否能真正進入開發與營運流程，而不只是展示功能。
+fetchedAt: 2026-04-22T04:28:56.976Z
 ---
 聚焦「3月25日【深圳】出海沙龙｜圆桌大咖齐聚，短剧、AI漫剧、小说内容出海，抢占席位报名！」，可用來快速掌握近期 AI 工具、產品或產業動向。
 :::
@@ -645,9 +575,7 @@ sourceType: official
 country: 其他國家
 categories: 影片/圖片素材製作 | 專案管理 | 新遊戲情報收集與分析
 updatedAt: Wed, 18 Mar 2026 00:00:00 GMT
-fetchedAt: 2026-04-22T04:15:25.543Z
-calloutTitle: 與遊戲產業的關聯
-callout: 這與遊戲內容產製流程關聯高，可能影響美術、動畫與影音素材的產線效率。
+fetchedAt: 2026-04-22T04:28:56.975Z
 ---
 聚焦「10 questions to ask before starting your first 3D project」，可用來快速掌握近期 AI 工具、產品或產業動向。
 :::
@@ -663,9 +591,7 @@ sourceType: media
 country: 其他國家
 categories: 影片/圖片素材製作 | 新遊戲情報收集與分析
 updatedAt: Tue, 17 Mar 2026 14:04:09 +0000
-fetchedAt: 2026-04-22T04:15:25.543Z
-calloutTitle: 與遊戲產業的關聯
-callout: 它與遊戲產業的關聯，在於 AI 是否能真正進入開發與營運流程，而不只是展示功能。
+fetchedAt: 2026-04-22T04:28:56.975Z
 ---
 聚焦「NVIDIA introduced DLSS 5 with photorealistic AI graphics — the technology did not appeal to everyone」，可用來快速掌握近期 AI 工具、產品或產業動向。
 :::
@@ -681,9 +607,7 @@ sourceType: wechat
 country: 中國
 categories: 新遊戲情報收集與分析
 updatedAt: Sun, 15 Mar 2026 00:02:06 GMT
-fetchedAt: 2026-04-22T04:15:25.544Z
-calloutTitle: 與遊戲產業的關聯
-callout: 它與遊戲產業的關聯，在於 AI 是否能真正進入開發與營運流程，而不只是展示功能。
+fetchedAt: 2026-04-22T04:28:56.976Z
 ---
 聚焦「全球原生AI下载3.5亿！豆包全球下载量逆势增长，头部应用买量下滑丨2月AI月报」，可用來快速掌握近期 AI 工具、產品或產業動向。
 :::
@@ -699,9 +623,7 @@ sourceType: wechat
 country: 中國
 categories: 影片/圖片素材製作 | 新遊戲情報收集與分析
 updatedAt: Sat, 14 Mar 2026 01:02:13 GMT
-fetchedAt: 2026-04-22T04:15:25.544Z
-calloutTitle: 與遊戲產業的關聯
-callout: 它與遊戲產業的關聯，在於 AI 是否能真正進入開發與營運流程，而不只是展示功能。
+fetchedAt: 2026-04-22T04:28:56.976Z
 ---
 焦點圍繞「专家建议：延长防沉迷年龄至22岁；中国儒意、三七互娱参投AI视频生成企业；《洛克王国》即将上线｜ 周报」，可直接觀察 AI 在影音與素材產線上的新能力。
 :::
@@ -717,9 +639,7 @@ sourceType: wechat
 country: 中國
 categories: 新遊戲情報收集與分析
 updatedAt: Thu, 12 Mar 2026 00:03:53 GMT
-fetchedAt: 2026-04-22T04:15:25.544Z
-calloutTitle: 與遊戲產業的關聯
-callout: 它與遊戲產業的關聯，在於 AI 是否能真正進入開發與營運流程，而不只是展示功能。
+fetchedAt: 2026-04-22T04:28:56.976Z
 ---
 聚焦「月薪达2.5—5万！网易、三七互娱、边锋网络入局，广州游戏厂商开抢AI漫剧人才！」，可用來快速掌握近期 AI 工具、產品或產業動向。
 :::
@@ -735,9 +655,7 @@ sourceType: wechat
 country: 中國
 categories: 專案管理
 updatedAt: Wed, 11 Mar 2026 15:23:45 GMT
-fetchedAt: 2026-04-22T04:15:25.544Z
-calloutTitle: 與遊戲產業的關聯
-callout: 它與遊戲產業的關聯，在於 AI 是否能真正進入開發與營運流程，而不只是展示功能。
+fetchedAt: 2026-04-22T04:28:56.976Z
 ---
 聚焦「当80%的搜索不再产生点击，谁在偷走你的流量？这份报告揭示17大行业的"AI颠覆风险"」，可用來快速掌握近期 AI 工具、產品或產業動向。
 :::
@@ -753,11 +671,25 @@ sourceType: wechat
 country: 中國
 categories: 新遊戲情報收集與分析
 updatedAt: Mon, 09 Mar 2026 00:02:37 GMT
-fetchedAt: 2026-04-22T04:15:25.544Z
-calloutTitle: 與遊戲產業的關聯
-callout: 它與遊戲產業的關聯，在於 AI 是否能真正進入開發與營運流程，而不只是展示功能。
+fetchedAt: 2026-04-22T04:28:56.976Z
 ---
 聚焦「广州厂商入局、湖南"游戏一哥"试水！AI漫剧+游戏成新打法！成效如何？」，可用來快速掌握近期 AI 工具、產品或產業動向。
+:::
+
+::: card
+title: 春节抖小日耗峰值增长130%，益世界、厦门麟贝亮眼！AIGC+全域整合营销打法突出！
+audience: 遊戲企劃、工具與內容團隊
+time: 03/06 17:47
+image: https://mmbiz.qpic.cn/mmbiz_jpg/QsqHDl8o5UdcMs45qKyQRUa0cCvGW6ibicG1UOS8VpkUcgIxDIg4H5FMtav97VYebGj5U5K0ctMX4QfC8Wp3ibiaD11AXArEJ87HxYcIricuBP6c/0?wx_fmt=jpeg
+sourceName: DataEye游戏观察
+sourceUrl: https://mp.weixin.qq.com/s/95JUQIncE25svNQ7q5imRA
+sourceType: wechat
+country: 中國
+categories: 新遊戲情報收集與分析
+updatedAt: Fri, 06 Mar 2026 09:47:33 GMT
+fetchedAt: 2026-04-22T04:28:56.976Z
+---
+聚焦「春节抖小日耗峰值增长130%，益世界、厦门麟贝亮眼！AIGC+全域整合营销打法突出！」，可用來快速掌握近期 AI 工具、產品或產業動向。
 :::
 
 ::: card
@@ -771,9 +703,7 @@ sourceType: wechat
 country: 中國
 categories: 新遊戲情報收集與分析
 updatedAt: Tue, 03 Mar 2026 00:02:39 GMT
-fetchedAt: 2026-04-22T04:15:25.544Z
-calloutTitle: 與遊戲產業的關聯
-callout: 它與遊戲產業的關聯，在於 AI 是否能真正進入開發與營運流程，而不只是展示功能。
+fetchedAt: 2026-04-22T04:28:56.976Z
 ---
 聚焦「靠"电子祈福"日活破30万，芒果TV的"AI+互动"棋局藏了什么大招？」，可用來快速掌握近期 AI 工具、產品或產業動向。
 :::
@@ -789,9 +719,7 @@ sourceType: wechat
 country: 中國
 categories: TikTok Mini Game | 新遊戲情報收集與分析
 updatedAt: Tue, 24 Feb 2026 10:01:12 GMT
-fetchedAt: 2026-04-22T04:15:25.544Z
-calloutTitle: 與遊戲產業的關聯
-callout: 它與遊戲產業的關聯，在於 AI 是否能真正進入開發與營運流程，而不只是展示功能。
+fetchedAt: 2026-04-22T04:28:56.976Z
 ---
 聚焦「小游戏春节战局：女性向崛起，一游戏单月1300万；西山居新入局；棋牌表现平庸？AI混战影响游戏获量？」，值得留意它對遊戲開發、內容製作或營運流程的影響。
 :::

@@ -42,6 +42,13 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN_CUSTOM }}
         run: npm run build:page
 
+      - name: Validate China article coverage
+        env:
+          WECHAT_RSS_FEEDS: ${{ secrets.WECHAT_RSS_FEEDS }}
+          WECHAT_RSS_ORIGIN_URL: ${{ secrets.WECHAT_RSS_ORIGIN_URL }}
+          WECHAT_RSS_FEED_IDS: ${{ secrets.WECHAT_RSS_FEED_IDS }}
+        run: npm run validate:china
+
       - name: Commit updated page
         run: |
           git config user.name "github-actions[bot]"

@@ -3,27 +3,27 @@
   "items": [
     {
       "name": "openclaw/openclaw",
-      "stars": 362059
+      "stars": 362070
     },
     {
       "name": "n8n-io/n8n",
-      "stars": 185067
+      "stars": 185071
     },
     {
       "name": "Significant-Gravitas/AutoGPT",
-      "stars": 183659
+      "stars": 183662
     },
     {
       "name": "ollama/ollama",
-      "stars": 169673
+      "stars": 169675
     },
     {
       "name": "affaan-m/everything-claude-code",
-      "stars": 163557
+      "stars": 163578
     },
     {
       "name": "f/prompts.chat",
-      "stars": 160360
+      "stars": 160362
     },
     {
       "name": "huggingface/transformers",
@@ -35,7 +35,7 @@
     },
     {
       "name": "langgenius/dify",
-      "stars": 138726
+      "stars": 138727
     },
     {
       "name": "x1xhlol/system-prompts-and-models-of-ai-tools",

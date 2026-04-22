@@ -1,31 +1,23 @@
 {
   "items": [
     {
-      "name": "hermes-webui",
+      "name": "Codex Plugins",
       "lastFeatured": "2026-04-21"
     },
     {
-      "name": "claude-reviews-claude",
+      "name": "Codex Subagents",
       "lastFeatured": "2026-04-21"
     },
     {
-      "name": "claw-codes",
+      "name": "mngr",
       "lastFeatured": "2026-04-21"
     },
     {
-      "name": "holaOS",
+      "name": "Latchkey",
       "lastFeatured": "2026-04-21"
     },
     {
-      "name": "expect",
-      "lastFeatured": "2026-04-21"
-    },
-    {
-      "name": "OfficeCLI",
-      "lastFeatured": "2026-04-21"
-    },
-    {
-      "name": "parlor",
+      "name": "Keystone",
       "lastFeatured": "2026-04-21"
     }
   ]

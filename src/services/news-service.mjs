@@ -9,7 +9,9 @@ import {
   extractAiToolName,
   inferCategories,
   inferCountryFromSource,
-  isGameIndustryRelated
+  isGameIndustryRelated,
+  isWechatAiGeneralSource,
+  isWechatGameFocusedSource
 } from "../lib/content-utils.mjs";
 import { selectBalancedTopics } from "../lib/topic-selection.mjs";
 import { getWechatSources } from "./wechat-rss-service.mjs";
@@ -71,6 +73,24 @@ async function fetchFromHn(source) {
   }));
 }
 
+function shouldKeepAiItem(item, source) {
+  const text = `${item.title || ""} ${item.description || ""}`;
+
+  if (!source) return matchesKeywords(text, []);
+
+  if (source.sourceType === "wechat") {
+    if (isWechatGameFocusedSource(source.name)) {
+      return false;
+    }
+
+    if (isWechatAiGeneralSource(source.name)) {
+      return true;
+    }
+  }
+
+  return matchesKeywords(text, source.keywords || []);
+}
+
 export async function getAiTopics(dateKey) {
   const sourceList = [...SOURCE_CONFIG.aiNews, ...(await getWechatSources("aiNews"))];
   const tasks = sourceList.map(async (source) => {
@@ -90,7 +110,7 @@ export async function getAiTopics(dateKey) {
     .filter((item) => item.title && item.publishedAt)
     .filter((item) => {
       const source = sourceList.find((entry) => entry.id === item.sourceId) || sourceList.find((entry) => entry.name === item.sourceName);
-      return matchesKeywords(`${item.title} ${item.description}`, source?.keywords || []);
+      return shouldKeepAiItem(item, source);
     })
     .map((item) => ({
       ...item,
@@ -122,7 +142,7 @@ export async function getAiTopics(dateKey) {
     minCountryArticles: SITE_CONFIG.minCountryArticlesPerSection,
     minCategoryArticles: SITE_CONFIG.minCategoryArticles,
     categoryOrder: ["新遊戲情報收集與分析", "影片/圖片素材製作", "TikTok Mini Game", "專案管理"],
-    maxPerSource: 12
+    maxPerSource: 6
   });
 
   return {

@@ -281,14 +281,6 @@ function renderTopicCard(card, sectionId) {
         <div class="markdown-body markdown-body--card">${bodyHtml}</div>
         ${renderCardTags(card)}
         ${
-          card.callout && sectionId !== "ai-news"
-            ? `<div class="topic-callout">
-                <strong>${escapeHtml(card.calloutTitle || "補充重點")}</strong>
-                <span>${escapeHtml(card.callout)}</span>
-              </div>`
-            : ""
-        }
-        ${
           card.sourceName || card.sourceUrl
             ? `<div class="topic-source">
                 <span>${card.sourceName ? `來源：${escapeHtml(card.sourceName)}` : ""}</span>

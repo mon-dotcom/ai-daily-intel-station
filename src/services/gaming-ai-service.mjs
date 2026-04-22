@@ -7,7 +7,8 @@ import {
   buildGameRelation,
   pickAudienceTag,
   inferCategories,
-  inferCountryFromSource
+  inferCountryFromSource,
+  isWechatGameFocusedSource
 } from "../lib/content-utils.mjs";
 import { selectBalancedTopics } from "../lib/topic-selection.mjs";
 import { getWechatSources } from "./wechat-rss-service.mjs";
@@ -40,6 +41,16 @@ function hasExplicitAiSignal(item = {}) {
   return /(\bai\b|artificial intelligence|generative|agentic|llm|model|npc|metahuman|automation|sentis|machine learning|模型|智能|生成式|AIGC|素材|图像|圖片|影片|语音|語音)/i.test(
     `${item.title || ""} ${item.description || ""}`
   );
+}
+
+function shouldKeepGameItem(item, source) {
+  const text = `${item.title || ""} ${item.description || ""}`;
+
+  if (source?.sourceType === "wechat" && isWechatGameFocusedSource(source.name)) {
+    return true;
+  }
+
+  return matchesKeywords(text, source?.keywords || []);
 }
 
 export async function getGameTopics(dateKey) {
@@ -75,7 +86,7 @@ export async function getGameTopics(dateKey) {
     .filter((item) => item.title && item.publishedAt)
     .filter((item) => {
       const source = sourceList.find((entry) => entry.id === item.sourceId) || sourceList.find((entry) => entry.name === item.sourceName);
-      return matchesKeywords(`${item.title} ${item.description}`, source?.keywords || []);
+      return shouldKeepGameItem(item, source);
     })
     .filter((item) => isGameAiRelevant(`${item.title} ${item.description}`))
     .filter((item) => hasExplicitAiSignal(item))

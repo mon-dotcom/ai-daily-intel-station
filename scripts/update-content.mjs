@@ -179,8 +179,7 @@ ${rows}
 function renderGameMarkdown(gameTopics) {
   const cards = gameTopics.map((item) =>
     renderTopicCard(item, {
-      calloutTitle: "與遊戲產業的關聯",
-      calloutText: item.relation || "值得觀察這則動態是否會影響遊戲團隊的 production pipeline。"
+      includeCallout: false
     })
   );
   return `---

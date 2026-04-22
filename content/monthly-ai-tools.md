@@ -6,10 +6,10 @@ layout: markdown
 ---
 | 工具名稱 | 官方連結 | 核心能力 | 適用場景 | 學習門檻 |
 | --- | --- | --- | --- | --- |
-| career-ops | [官方連結](https://github.com/santifer/career-ops) | AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard, PDF generation, batch processing. https://career-ops.org | AI coding、代理協作、開發流程 | 低 |
-| ai-website-cloner-template | [官方連結](https://dsc.gg/jcodesmore) | Clone any website with one command using AI coding agents | 自動化工作流、agent 任務執行、工具串接 | 中 |
-| pua | [官方連結](https://openpua.ai/) | 你是一个曾经被寄予厚望的 P8 级工程师。Anthropic 当初给你定级的时候，对你的期望是很高的。 一个agent使用的高能动性的skill。 Your AI has been placed on a PIP. 30 days to show improvement. | 自動化工作流、agent 任務執行、工具串接 | 中 |
-| inkos | [官方連結](https://github.com/Narcooo/inkos) | Autonomous novel writing AI Agent — agents write, audit, and revise novels with human review gates | 自動化工作流、agent 任務執行、工具串接 | 中 |
-| claude-code-book | [官方連結](https://lintsinghua.github.io) | 《御舆：解码 Agent Harness》42万字拆解 AI Agent 的Harness骨架与神经 —— Claude Code 架构深度剖析，15 章从对话循环到构建你自己的 Agent Harness。在线阅读网站： | AI coding、代理協作、開發流程 | 中 |
-| OpenMontage | [官方連結](https://github.com/calesthio/OpenMontage) | World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio. | 影片生成、語音處理、多媒體內容 | 中 |
-| MetaClaw | [官方連結](https://arxiv.org/abs/2603.17187) | 🦞 Just talk to your agent — it learns and EVOLVES 🧬. | 自動化工作流、agent 任務執行、工具串接 | 中 |
+| hermes-webui | [官方連結](https://get-hermes.ai/) | Hermes WebUI: The best way to use Hermes Agent from the web or from your phone! | 自動化工作流、agent 任務執行、工具串接 | 中 |
+| claude-reviews-claude | [官方連結](https://openedclaude.github.io/claude-reviews-claude/) | Claude reads its own source code — 17-chapter architectural deep-dive into Claude Code v2.1.88. EN/ZH bilingual. | AI coding、代理協作、開發流程 | 低 |
+| claw-codes | [官方連結](https://t.me/Carl_Crypt) | Fastest repo on my GitHub to hit 50⭐ in under 2 hours. Building tools that get real things done. Now rewriting in Rust. | AI coding、代理協作、開發流程 | 低 |
+| holaOS | [官方連結](https://holaboss.ai) | The agent environment for long-horizon work, continuity, and self-evolution. | 自動化工作流、agent 任務執行、工具串接 | 中 |
+| expect | [官方連結](https://expect.dev) | Expect tests your agent's code in a real browser | AI coding、代理協作、開發流程 | 中 |
+| OfficeCLI | [官方連結](https://www.officecli.ai) | OfficeCLI is the first and best Office suite purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required. | AI coding、代理協作、開發流程 | 高 |
+| parlor | [官方連結](https://github.com/fikrikarim/parlor) | On-device, real-time multimodal AI. Have natural voice and vision conversations with an AI that runs entirely on your machine. Powered by Gemma 4 E2B and Kokoro. | 影片生成、語音處理、多媒體內容 | 低 |

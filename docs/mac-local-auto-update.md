@@ -125,6 +125,12 @@ WECHAT_RSS_FEED_IDS="..."
 公眾號名稱|feed_id,公眾號名稱|feed_id
 ```
 
+目前腳本內建的清單包含：
+
+```text
+量子位|MP_WXS_3236757533,游戏葡萄|MP_WXS_2399768513,GameLook|MP_WXS_2397402280,DataEye游戏观察|MP_WXS_3083148204,罗斯基|MP_WXS_3209762660,SensorTower|MP_WXS_3988143275,竞核|MP_WXS_3902648252,开源志|MP_WXS_3865870672
+```
+
 更新後不用改排程，隔天會自動吃到新來源。
 
 ## 8. 重要提醒
@@ -133,4 +139,3 @@ WECHAT_RSS_FEED_IDS="..."
 - Docker Desktop 必須開著
 - `wewe-rss` container 必須活著
 - 在 WeWe 還沒恢復前，不要手動跑會覆蓋內容的指令
-

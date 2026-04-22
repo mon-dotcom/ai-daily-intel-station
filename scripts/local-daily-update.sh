@@ -4,10 +4,13 @@ set -euo pipefail
 ROOT_DIR="${ROOT_DIR:-/Users/chiayin/Codex/ai-daily-intel-station}"
 LOG_DIR="${LOG_DIR:-$ROOT_DIR/logs}"
 DATE_STAMP="$(date '+%Y-%m-%d %H:%M:%S')"
+NODE_BIN_DIR="${NODE_BIN_DIR:-/Users/chiayin/.nvm/versions/node/v24.14.1/bin}"
 
 WECHAT_RSS_ORIGIN_URL="${WECHAT_RSS_ORIGIN_URL:-http://localhost:4000}"
-WECHAT_RSS_FEED_IDS="${WECHAT_RSS_FEED_IDS:-量子位|MP_WXS_3236757533,新智元|MP_WXS_3271041950,游戏葡萄|MP_WXS_2399768513,GameLook|MP_WXS_2397402280,DataEye游戏观察|MP_WXS_3083148204,罗斯基|MP_WXS_3209762660,SensorTower|MP_WXS_3988143275,AIGC开放社区|MP_WXS_3873892677}"
+WECHAT_RSS_FEED_IDS="${WECHAT_RSS_FEED_IDS:-量子位|MP_WXS_3236757533,游戏葡萄|MP_WXS_2399768513,GameLook|MP_WXS_2397402280,DataEye游戏观察|MP_WXS_3083148204,罗斯基|MP_WXS_3209762660,SensorTower|MP_WXS_3988143275,竞核|MP_WXS_3902648252,开源志|MP_WXS_3865870672}"
 WECHAT_RSS_LIMIT="${WECHAT_RSS_LIMIT:-60}"
+
+export PATH="$NODE_BIN_DIR:/opt/homebrew/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:$PATH"
 
 mkdir -p "$LOG_DIR"
 

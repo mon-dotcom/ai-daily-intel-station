@@ -183,8 +183,8 @@ export function inferCountryFromSource(source = {}) {
   return "其他國家";
 }
 
-const WECHAT_AI_GENERAL_SOURCES = ["量子位", "新智元", "AIGC开放社区", "AIGC開放社區"];
-const WECHAT_GAME_FOCUSED_SOURCES = ["游戏葡萄", "遊戲葡萄", "GameLook", "DataEye游戏观察", "DataEye遊戲觀察", "罗斯基", "羅斯基", "SensorTower"];
+const WECHAT_AI_GENERAL_SOURCES = ["量子位", "开源志", "開源志", "新智元", "AIGC开放社区", "AIGC開放社區"];
+const WECHAT_GAME_FOCUSED_SOURCES = ["游戏葡萄", "遊戲葡萄", "GameLook", "DataEye游戏观察", "DataEye遊戲觀察", "罗斯基", "羅斯基", "SensorTower", "竞核", "競核"];
 
 export function isWechatAiGeneralSource(sourceName = "") {
   return WECHAT_AI_GENERAL_SOURCES.some((name) => String(sourceName).includes(name));

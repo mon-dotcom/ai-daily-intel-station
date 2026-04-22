@@ -28,7 +28,7 @@ jobs:
 
       - name: Update Markdown content
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN_CUSTOM }}
+          GITHUB_TOKEN: ${{ github.token }}
           WECHAT_RSS_FEEDS: ${{ secrets.WECHAT_RSS_FEEDS }}
           WECHAT_RSS_ORIGIN_URL: ${{ secrets.WECHAT_RSS_ORIGIN_URL }}
           WECHAT_RSS_FEED_IDS: ${{ secrets.WECHAT_RSS_FEED_IDS }}
@@ -39,7 +39,7 @@ jobs:
 
       - name: Generate static page
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN_CUSTOM }}
+          GITHUB_TOKEN: ${{ github.token }}
         run: npm run build:page
 
       - name: Validate China article coverage

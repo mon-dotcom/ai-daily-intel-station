@@ -47,6 +47,32 @@ export function isSameTaipeiDate(dateLike, dateKey, timeZone = "Asia/Taipei") {
   return toDateKey(date, timeZone) === dateKey;
 }
 
+export function getDateKeyOffset(dateKey, offsetDays, timeZone = "Asia/Taipei") {
+  const baseDate = new Date(`${dateKey}T12:00:00Z`);
+  baseDate.setUTCDate(baseDate.getUTCDate() + offsetDays);
+  return toDateKey(baseDate, timeZone);
+}
+
+export function isDateKeyWithinRange(candidateDateKey, targetDateKey, maxDays = 7, timeZone = "Asia/Taipei") {
+  if (!candidateDateKey || !targetDateKey) return false;
+  for (let offset = 0; offset <= maxDays; offset += 1) {
+    if (candidateDateKey === getDateKeyOffset(targetDateKey, -offset, timeZone)) {
+      return true;
+    }
+  }
+  return false;
+}
+
+export function getDateKeyDistance(candidateDateKey, targetDateKey, timeZone = "Asia/Taipei", maxDays = 31) {
+  if (!candidateDateKey || !targetDateKey) return Number.POSITIVE_INFINITY;
+  for (let offset = 0; offset <= maxDays; offset += 1) {
+    if (candidateDateKey === getDateKeyOffset(targetDateKey, -offset, timeZone)) {
+      return offset;
+    }
+  }
+  return Number.POSITIVE_INFINITY;
+}
+
 export function formatPublishedAt(dateLike, locale = "zh-TW", timeZone = "Asia/Taipei") {
   const date = new Date(dateLike);
   if (Number.isNaN(date.getTime())) {

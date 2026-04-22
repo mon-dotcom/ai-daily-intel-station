@@ -4,7 +4,7 @@ import { fileURLToPath } from "node:url";
 
 import { SITE_CONFIG } from "../src/config/site.mjs";
 import { FALLBACK_DATA } from "../src/data/fallback-data.mjs";
-import { formatPublishedAt, formatTargetDateLabel, getTaipeiTargetDate, toDateKey } from "../src/lib/date.mjs";
+import { formatDateInTimeZone, formatPublishedAt, formatTargetDateLabel, getTaipeiTargetDate, toDateKey } from "../src/lib/date.mjs";
 import { buildReminder, buildBeginnerModules } from "../src/services/extra-service.mjs";
 import { getGameTopics } from "../src/services/gaming-ai-service.mjs";
 import { getGithubProjects } from "../src/services/github-service.mjs";
@@ -71,21 +71,36 @@ function formatTopicTime(dateLike) {
 
 function withFallback(primary = [], fallback = [], expectedLength = fallback.length) {
   const items = Array.isArray(primary) ? primary.filter(Boolean) : [];
-  if (items.length >= expectedLength) return items.slice(0, expectedLength);
-  return [...items, ...fallback.slice(items.length, expectedLength)];
+  if (items.length) return items.slice(0, expectedLength);
+  return fallback.slice(0, expectedLength);
 }
 
-function renderTopicCard(item, calloutTitle, calloutText) {
+function renderTopicCard(item, options = {}) {
+  const {
+    calloutTitle = "",
+    calloutText = "",
+    includeCallout = true
+  } = options;
+
   return [
     "::: card",
     `title: ${escapeFrontmatterValue(item.title)}`,
-    `audience: ${escapeFrontmatterValue(item.audienceTag || "團隊內部讀者")}`,
+    `audience: ${escapeFrontmatterValue(item.audienceTag || "")}`,
     `time: ${escapeFrontmatterValue(formatTopicTime(item.publishedAt))}`,
     `image: ${escapeFrontmatterValue(item.imageUrl || "")}`,
     `sourceName: ${escapeFrontmatterValue(item.sourceName || "綜合整理")}`,
     `sourceUrl: ${escapeFrontmatterValue(item.sourceUrl || "#")}`,
-    `calloutTitle: ${escapeFrontmatterValue(calloutTitle)}`,
-    `callout: ${escapeFrontmatterValue(calloutText)}`,
+    `sourceType: ${escapeFrontmatterValue(item.sourceType || "mixed")}`,
+    `country: ${escapeFrontmatterValue(item.country || "其他國家")}`,
+    `categories: ${escapeFrontmatterValue((item.categories || []).join(" | "))}`,
+    `updatedAt: ${escapeFrontmatterValue(item.updatedAt || item.publishedAt || "")}`,
+    `fetchedAt: ${escapeFrontmatterValue(item.fetchedAt || "")}`,
+    ...(includeCallout
+      ? [
+          `calloutTitle: ${escapeFrontmatterValue(calloutTitle)}`,
+          `callout: ${escapeFrontmatterValue(calloutText)}`
+        ]
+      : []),
     "---",
     compactText(item.summary || ""),
     ":::"
@@ -107,12 +122,16 @@ function renderModuleCard(item) {
 
 function renderAiNewsMarkdown(aiTopics) {
   const cards = aiTopics.map((item) =>
-    renderTopicCard(item, "為什麼重要", item.whyItMatters || "這則消息代表 AI 導入正在往可落地的工作流程前進。")
+    renderTopicCard(item, {
+      includeCallout: false,
+      calloutTitle: "為什麼重要",
+      calloutText: item.whyItMatters || "這則消息代表 AI 導入正在往可落地的工作流程前進。"
+    })
   );
   return `---
 label: 01 / 全球 AI 焦點
 title: 全球 AI 關鍵動態
-summary: 聚焦昨日社群高互動討論、爆紅 demo 與工作流程相關的 AI 話題。
+summary: 聚焦社群熱門討論、論壇、官方資訊與可接入的微信公眾號 AI 文章。
 layout: topic-grid
 ---
 ${cards.join("\n\n")}
@@ -129,7 +148,7 @@ function renderGithubMarkdown(projects) {
     .join("\n");
 
   return `---
-label: 02 / GitHub Heat Check
+label: 03 / GitHub Heat Check
 title: GitHub 昨天最值得關注的前十名 AI 開源項目
 summary: 以表格整理可實際追蹤與評估的 AI 開源項目熱度。
 layout: markdown
@@ -146,7 +165,7 @@ function renderMonthlyToolsMarkdown(tools) {
     .join("\n");
 
   return `---
-label: 03 / Monthly Tool Watch
+label: 04 / Monthly Tool Watch
 title: 本月 AI 新工具介紹
 summary: 聚焦近期聲量上升、具實用性的 AI 工具更新。
 layout: markdown
@@ -159,12 +178,15 @@ ${rows}
 
 function renderGameMarkdown(gameTopics) {
   const cards = gameTopics.map((item) =>
-    renderTopicCard(item, "與遊戲產業的關聯", item.relation || "值得觀察這則動態是否會影響遊戲團隊的 production pipeline。")
+    renderTopicCard(item, {
+      calloutTitle: "與遊戲產業的關聯",
+      calloutText: item.relation || "值得觀察這則動態是否會影響遊戲團隊的 production pipeline。"
+    })
   );
   return `---
-label: 04 / 遊戲產業 × AI
+label: 02 / 遊戲產業 × AI
 title: 遊戲產業 × AI 重要進展
-summary: 聚焦遊戲開發、內容產製與工具平台的 AI 重要進展。
+summary: 聚焦遊戲開發、內容產製、工具平台與可接入的微信公眾號遊戲 AI 文章。
 layout: topic-grid
 ---
 ${cards.join("\n\n")}
@@ -183,7 +205,7 @@ ${cards.join("\n\n")}
 `;
 }
 
-function renderSiteMarkdown({ reminder, targetDateLabel }) {
+function renderSiteMarkdown({ reminder, targetDateLabel, generatedLabel, dataStatus }) {
   return `---
 siteName: AI 每日情報站
 siteTagline: 每天早上 10:00，掌握昨天最重要的 AI 動態
@@ -193,6 +215,10 @@ heroHighlights:
   - 本頁內容聚焦 ${targetDateLabel} 的 AI 與開源動態
   - GitHub 榜單與新工具清單會隨排程自動重整
   - 若部分來源失敗，系統會保留備援內容避免頁面中斷
+generatedLabel: ${escapeFrontmatterValue(generatedLabel)}
+updatedTimezone: 台北時間
+dataStatusTitle: ${escapeFrontmatterValue(dataStatus.title)}
+dataStatusMessage: ${escapeFrontmatterValue(dataStatus.message)}
 footerTitle: 今日 AI 小提醒
 reminder: ${escapeFrontmatterValue(reminder)}
 ---
@@ -206,18 +232,34 @@ async function writeFile(relativePath, content) {
 async function resolveAiTopics(dateKey) {
   try {
     const result = await getAiTopics(dateKey);
-    return withFallback(result.items, FALLBACK_DATA.aiTopics, SITE_CONFIG.maxHeroTopics);
+    return {
+      items: withFallback(result.items, FALLBACK_DATA.aiTopics, SITE_CONFIG.maxHeroTopics),
+      degradedSources: result.degradedSources || [],
+      usedFallback: !(result.items || []).length
+    };
   } catch {
-    return FALLBACK_DATA.aiTopics.slice(0, SITE_CONFIG.maxHeroTopics);
+    return {
+      items: FALLBACK_DATA.aiTopics.slice(0, SITE_CONFIG.maxHeroTopics),
+      degradedSources: ["ai-news"],
+      usedFallback: true
+    };
   }
 }
 
 async function resolveGameTopics(dateKey) {
   try {
     const result = await getGameTopics(dateKey);
-    return withFallback(result.items, FALLBACK_DATA.gameTopics, SITE_CONFIG.maxGameTopics);
+    return {
+      items: withFallback(result.items, FALLBACK_DATA.gameTopics, SITE_CONFIG.maxGameTopics),
+      degradedSources: result.degradedSources || [],
+      usedFallback: !(result.items || []).length
+    };
   } catch {
-    return FALLBACK_DATA.gameTopics.slice(0, SITE_CONFIG.maxGameTopics);
+    return {
+      items: FALLBACK_DATA.gameTopics.slice(0, SITE_CONFIG.maxGameTopics),
+      degradedSources: ["game-ai"],
+      usedFallback: true
+    };
   }
 }
 
@@ -241,21 +283,49 @@ async function resolveMonthlyTools(dateKey) {
 
 async function main() {
   const targetDate = getTaipeiTargetDate();
+  const generatedAt = new Date();
   const dateKey = toDateKey(targetDate, SITE_CONFIG.timezone);
   const targetDateLabel = formatTargetDateLabel(targetDate, SITE_CONFIG.locale, SITE_CONFIG.timezone);
+  const generatedLabel = formatDateInTimeZone(
+    generatedAt,
+    SITE_CONFIG.locale,
+    {
+      year: "numeric",
+      month: "2-digit",
+      day: "2-digit",
+      hour: "2-digit",
+      minute: "2-digit",
+      hour12: false
+    },
+    SITE_CONFIG.timezone
+  );
 
-  const [aiTopics, githubProjects, gameTopics, monthlyTools] = await Promise.all([
+  const [aiNewsResult, githubProjects, gameNewsResult, monthlyTools] = await Promise.all([
     resolveAiTopics(dateKey),
     resolveGithubProjects(dateKey),
     resolveGameTopics(dateKey),
     resolveMonthlyTools(dateKey)
   ]);
 
+  const gameTitleSet = new Set((gameNewsResult.items || []).map((item) => compactText(item.title).toLowerCase()));
+  const aiTopics = (aiNewsResult.items || []).filter((item) => !gameTitleSet.has(compactText(item.title).toLowerCase()));
+  const gameTopics = gameNewsResult.items;
+
   const beginnerModules = buildBeginnerModules({ aiTopics, githubProjects, gameTopics });
   const reminder = buildReminder();
+  const degradedSources = [...aiNewsResult.degradedSources, ...gameNewsResult.degradedSources];
+  const dataStatus = degradedSources.length
+    ? {
+        title: "資料狀態",
+        message: `部分即時來源抓取失敗，已優先保留最近可用文章。受影響來源：${degradedSources.join("、")}`
+      }
+    : {
+        title: "資料狀態",
+        message: "資料抓取、內容重建與靜態頁輸出皆已完成。"
+      };
 
   await Promise.all([
-    writeFile("content/site.md", renderSiteMarkdown({ reminder, targetDateLabel })),
+    writeFile("content/site.md", renderSiteMarkdown({ reminder, targetDateLabel, generatedLabel, dataStatus })),
     writeFile("content/ai-news.md", renderAiNewsMarkdown(aiTopics)),
     writeFile("content/github-trending.md", renderGithubMarkdown(githubProjects)),
     writeFile("content/monthly-ai-tools.md", renderMonthlyToolsMarkdown(monthlyTools)),

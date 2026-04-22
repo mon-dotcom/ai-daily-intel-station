@@ -99,6 +99,54 @@ npm run update:content
 npm run build
 ```
 
+## 微信公眾號來源接法
+
+現在這個專案已經可以直接吃 WeWe RSS，支援三種設定方式，優先順序如下：
+
+1. `WECHAT_RSS_FEEDS`
+2. `WECHAT_RSS_FEED_IDS`
+3. `WECHAT_RSS_ORIGIN_URL` 自動發現 `/feeds/`
+
+### 方式 1：直接給 RSS URL
+
+```bash
+WECHAT_RSS_FEEDS="機器之心|https://your-wewe-host/feeds/MP_WXS_123.rss,量子位|https://your-wewe-host/feeds/MP_WXS_456.rss"
+```
+
+### 方式 2：給 WeWe host + feed id
+
+```bash
+WECHAT_RSS_ORIGIN_URL="https://your-wewe-host"
+WECHAT_RSS_FEED_IDS="機器之心|MP_WXS_123,量子位|MP_WXS_456"
+```
+
+### 方式 3：只給 WeWe host，讓系統自動發現 feed
+
+```bash
+WECHAT_RSS_ORIGIN_URL="https://your-wewe-host"
+WECHAT_RSS_DISCOVERY_INCLUDE="ai,智能,遊戲"
+WECHAT_RSS_DISCOVERY_EXCLUDE="育兒,美食"
+WECHAT_RSS_LIMIT="20"
+```
+
+說明：
+
+- `WECHAT_RSS_ORIGIN_URL` 會用來讀取 `https://your-wewe-host/feeds/`
+- 若 RSS item 內含作者欄位，頁面會優先顯示對應公眾號名稱
+- 微信來源文章會自動標記 `country: 中國`
+- `全球 AI 關鍵動態` 與 `遊戲產業 × AI` 都會吃同一套 WeWe RSS 來源，再依標題與內容做分類
+
+### WeWe RSS 本身需要先完成的事
+
+這個專案已經能接 WeWe RSS，但 WeWe 服務本身仍需要你先完成：
+
+1. 部署 WeWe RSS
+2. 用微信掃碼登入微信讀書帳號
+3. 在 WeWe 裡新增你要追的公眾號
+4. 確認 `/feeds/` 或 `/feeds/MP_WXS_xxx.rss` 可以正常開啟
+
+若這一步還沒完成，網站雖然已經具備接入能力，但不會自動長出中國文章。
+
 ## 如何新增或更新內容
 
 ### 新增一篇內容

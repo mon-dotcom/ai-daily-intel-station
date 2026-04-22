@@ -30,6 +30,30 @@ function extractTagValue(block, tagName) {
   return "";
 }
 
+function extractAuthorValue(block) {
+  const patterns = [
+    /<dc:creator[^>]*><!\[CDATA\[(.*?)\]\]><\/dc:creator>/is,
+    /<dc:creator[^>]*>(.*?)<\/dc:creator>/is,
+    /<author[^>]*><name[^>]*>(.*?)<\/name><\/author>/is,
+    /<author[^>]*><!\[CDATA\[(.*?)\]\]><\/author>/is,
+    /<author[^>]*>(.*?)<\/author>/is
+  ];
+
+  for (const pattern of patterns) {
+    const match = block.match(pattern);
+    if (match?.[1]) {
+      return decodeHtml(stripHtml(match[1].trim()));
+    }
+  }
+
+  return "";
+}
+
+function extractAtomLink(block) {
+  const linkMatch = block.match(/<link\b[^>]*href="([^"]+)"[^>]*\/?>/i);
+  return linkMatch?.[1] || "";
+}
+
 function stripHtml(value = "") {
   return value.replace(/<[^>]*>/g, " ").replace(/\s+/g, " ").trim();
 }
@@ -63,12 +87,15 @@ function extractImageUrl(block) {
 
 export function parseRssItems(xmlText) {
   const itemBlocks = [...xmlText.matchAll(/<item\b[\s\S]*?<\/item>/gi)].map((match) => match[0]);
+  const entryBlocks = itemBlocks.length ? [] : [...xmlText.matchAll(/<entry\b[\s\S]*?<\/entry>/gi)].map((match) => match[0]);
+  const blocks = itemBlocks.length ? itemBlocks : entryBlocks;
 
-  return itemBlocks.map((block) => ({
+  return blocks.map((block) => ({
     title: extractTagValue(block, "title"),
-    link: extractTagValue(block, "link"),
-    publishedAt: extractTagValue(block, "pubDate") || extractTagValue(block, "dc:date"),
-    description: extractTagValue(block, "description") || extractTagValue(block, "content:encoded"),
-    imageUrl: extractImageUrl(block)
+    link: extractTagValue(block, "link") || extractAtomLink(block),
+    publishedAt: extractTagValue(block, "pubDate") || extractTagValue(block, "dc:date") || extractTagValue(block, "published") || extractTagValue(block, "updated"),
+    description: extractTagValue(block, "description") || extractTagValue(block, "summary") || extractTagValue(block, "content:encoded") || extractTagValue(block, "content"),
+    imageUrl: extractImageUrl(block),
+    author: extractAuthorValue(block)
   }));
 }

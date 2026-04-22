@@ -41,7 +41,7 @@ async function loadPageData() {
     heroHighlights: site.heroHighlights || [],
     footerTitle: site.footerTitle || "今日 AI 小提醒",
     reminder: site.reminder || SITE_CONFIG.fallbackReminder,
-    generatedLabel: formatDateInTimeZone(
+    generatedLabel: site.generatedLabel || formatDateInTimeZone(
       generatedAt,
       SITE_CONFIG.locale,
       {
@@ -54,6 +54,9 @@ async function loadPageData() {
       },
       SITE_CONFIG.timezone
     ),
+    updatedTimezone: site.updatedTimezone || "台北時間",
+    dataStatusTitle: site.dataStatusTitle || "資料狀態",
+    dataStatusMessage: site.dataStatusMessage || "",
     targetDateLabel: formatTargetDateLabel(targetDate, SITE_CONFIG.locale, SITE_CONFIG.timezone),
     status: {
       title: "內容來源",

@@ -2,7 +2,7 @@ name: Daily AI Intel Update
 
 on:
   schedule:
-    - cron: "0 2 * * *"
+    - cron: "7 2 * * *"
   workflow_dispatch:
 
 permissions:
@@ -28,6 +28,12 @@ jobs:
       - name: Update Markdown content
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN_CUSTOM }}
+          WECHAT_RSS_FEEDS: ${{ secrets.WECHAT_RSS_FEEDS }}
+          WECHAT_RSS_ORIGIN_URL: ${{ secrets.WECHAT_RSS_ORIGIN_URL }}
+          WECHAT_RSS_FEED_IDS: ${{ secrets.WECHAT_RSS_FEED_IDS }}
+          WECHAT_RSS_DISCOVERY_INCLUDE: ${{ secrets.WECHAT_RSS_DISCOVERY_INCLUDE }}
+          WECHAT_RSS_DISCOVERY_EXCLUDE: ${{ secrets.WECHAT_RSS_DISCOVERY_EXCLUDE }}
+          WECHAT_RSS_LIMIT: ${{ secrets.WECHAT_RSS_LIMIT }}
         run: npm run update:content
 
       - name: Generate static page

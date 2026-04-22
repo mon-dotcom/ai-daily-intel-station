@@ -4,16 +4,16 @@ export const CONTENT_FILES = [
     path: "content/ai-news.md"
   },
   {
+    id: "game-ai",
+    path: "content/game-ai.md"
+  },
+  {
     id: "github-trending",
     path: "content/github-trending.md"
   },
   {
     id: "monthly-ai-tools",
     path: "content/monthly-ai-tools.md"
-  },
-  {
-    id: "game-ai",
-    path: "content/game-ai.md"
   },
   {
     id: "beginner-corner",

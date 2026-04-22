@@ -217,6 +217,11 @@ function parseCardBlock(rawBlock, defaultStyle) {
   const rawMeta = divider === -1 ? cleaned : cleaned.slice(0, divider);
   const rawBody = divider === -1 ? "" : cleaned.slice(divider + 5).trim();
   const meta = parseKeyValueLines(rawMeta);
+  const parseArrayValue = (value = "") =>
+    String(value)
+      .split("|")
+      .map((item) => item.trim())
+      .filter(Boolean);
 
   return {
     style: meta.style || defaultStyle,
@@ -226,9 +231,14 @@ function parseCardBlock(rawBlock, defaultStyle) {
     time: meta.time || "",
     sourceName: meta.sourceName || "",
     sourceUrl: meta.sourceUrl || "",
+    sourceType: meta.sourceType || "",
+    country: meta.country || "",
+    categories: parseArrayValue(meta.categories),
     image: meta.image || "",
     calloutTitle: meta.calloutTitle || "",
     callout: meta.callout || "",
+    fetchedAt: meta.fetchedAt || "",
+    updatedAt: meta.updatedAt || "",
     footer: meta.footer || "",
     bodyHtml: renderMarkdown(rawBody)
   };
@@ -262,6 +272,10 @@ export function parseSiteFile(raw) {
     heroEyebrow: meta.heroEyebrow,
     heroPanelTitle: meta.heroPanelTitle,
     heroHighlights: Array.isArray(meta.heroHighlights) ? meta.heroHighlights : [],
+    generatedLabel: meta.generatedLabel,
+    updatedTimezone: meta.updatedTimezone,
+    dataStatusTitle: meta.dataStatusTitle,
+    dataStatusMessage: meta.dataStatusMessage,
     footerTitle: meta.footerTitle,
     reminder: meta.reminder
   };

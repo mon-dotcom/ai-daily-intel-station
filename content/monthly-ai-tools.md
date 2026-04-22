@@ -1,5 +1,5 @@
 ---
-label: 03 / Monthly Tool Watch
+label: 04 / Monthly Tool Watch
 title: 本月 AI 新工具介紹
 summary: 聚焦近期聲量上升、具實用性的 AI 工具更新。
 layout: markdown

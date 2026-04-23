@@ -1,45 +1,45 @@
 {
-  "date": "2026-04-21",
+  "date": "2026-04-22",
   "items": [
     {
       "name": "openclaw/openclaw",
-      "stars": 362078
+      "stars": 362461
     },
     {
       "name": "n8n-io/n8n",
-      "stars": 185073
+      "stars": 185179
     },
     {
       "name": "Significant-Gravitas/AutoGPT",
-      "stars": 183662
-    },
-    {
-      "name": "ollama/ollama",
-      "stars": 169675
+      "stars": 183676
     },
     {
       "name": "affaan-m/everything-claude-code",
-      "stars": 163597
+      "stars": 164332
+    },
+    {
+      "name": "ollama/ollama",
+      "stars": 169730
     },
     {
       "name": "f/prompts.chat",
-      "stars": 160369
+      "stars": 160429
     },
     {
       "name": "huggingface/transformers",
-      "stars": 159730
+      "stars": 159769
     },
     {
       "name": "Snailclimb/JavaGuide",
-      "stars": 155134
+      "stars": 155151
     },
     {
       "name": "langgenius/dify",
-      "stars": 138729
+      "stars": 138800
     },
     {
       "name": "x1xhlol/system-prompts-and-models-of-ai-tools",
-      "stars": 135746
+      "stars": 135794
     }
   ]
 }

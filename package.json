@@ -7,6 +7,7 @@
   "scripts": {
     "update:content": "node ./scripts/update-content.mjs",
     "validate:china": "node ./scripts/validate-china-content.mjs",
+    "monitor:production": "node ./scripts/monitor-production.mjs",
     "build": "node ./scripts/generate.mjs",
     "build:page": "node ./scripts/generate.mjs",
     "dev": "node ./scripts/dev.mjs",

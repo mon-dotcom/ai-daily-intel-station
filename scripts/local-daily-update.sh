@@ -32,7 +32,9 @@ export WECHAT_RSS_FEED_IDS
 export WECHAT_RSS_LIMIT
 
 npm run update:content
+npm run preserve:china
 npm run build
+npm run validate:china
 
 if ! git diff --quiet -- content/*.md index.html src/data/github-snapshot.json src/data/monthly-tools-history.json; then
   git add content/*.md index.html src/data/github-snapshot.json src/data/monthly-tools-history.json

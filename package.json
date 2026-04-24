@@ -6,6 +6,7 @@
   "description": "AI 每日情報站：靜態 HTML + 定時重建的 AI 新知資訊頁",
   "scripts": {
     "update:content": "node ./scripts/update-content.mjs",
+    "preserve:china": "node ./scripts/preserve-china-content.mjs",
     "validate:china": "node ./scripts/validate-china-content.mjs",
     "monitor:production": "node ./scripts/monitor-production.mjs",
     "build": "node ./scripts/generate.mjs",

@@ -1,24 +1,32 @@
 {
   "items": [
     {
-      "name": "Codex Plugins",
-      "lastFeatured": "2026-04-24"
+      "name": "career-ops",
+      "lastFeatured": "2026-04-25"
     },
     {
-      "name": "Codex Subagents",
-      "lastFeatured": "2026-04-24"
+      "name": "ai-website-cloner-template",
+      "lastFeatured": "2026-04-25"
     },
     {
-      "name": "mngr",
-      "lastFeatured": "2026-04-24"
+      "name": "inkos",
+      "lastFeatured": "2026-04-25"
     },
     {
-      "name": "Latchkey",
-      "lastFeatured": "2026-04-24"
+      "name": "hermes-webui",
+      "lastFeatured": "2026-04-25"
     },
     {
-      "name": "Keystone",
-      "lastFeatured": "2026-04-24"
+      "name": "claude-code-book",
+      "lastFeatured": "2026-04-25"
+    },
+    {
+      "name": "OpenMontage",
+      "lastFeatured": "2026-04-25"
+    },
+    {
+      "name": "claude-reviews-claude",
+      "lastFeatured": "2026-04-25"
     }
   ]
 }

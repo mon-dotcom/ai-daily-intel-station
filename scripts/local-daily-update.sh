@@ -33,6 +33,7 @@ export WECHAT_RSS_LIMIT
 
 npm run update:content
 npm run preserve:china
+npm run diagnose:wechat
 npm run build
 npm run validate:china
 

@@ -1,31 +1,31 @@
 {
   "items": [
     {
-      "name": "career-ops",
+      "name": "claude-reviews-claude",
       "lastFeatured": "2026-04-28"
     },
     {
-      "name": "hermes-webui",
+      "name": "hermes-web-ui",
       "lastFeatured": "2026-04-28"
     },
     {
-      "name": "claude-code-book",
+      "name": "claw-codes",
       "lastFeatured": "2026-04-28"
     },
     {
-      "name": "OpenMontage",
+      "name": "OfficeCLI",
       "lastFeatured": "2026-04-28"
     },
     {
-      "name": "holaOS",
+      "name": "garden-skills",
       "lastFeatured": "2026-04-28"
     },
     {
-      "name": "cc-skills-golang",
+      "name": "parlor",
       "lastFeatured": "2026-04-28"
     },
     {
-      "name": "figma-mcp-go",
+      "name": "paper2code",
       "lastFeatured": "2026-04-28"
     }
   ]

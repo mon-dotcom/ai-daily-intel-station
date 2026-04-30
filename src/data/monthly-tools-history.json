@@ -1,31 +1,23 @@
 {
   "items": [
     {
-      "name": "career-ops",
+      "name": "Codex Plugins",
       "lastFeatured": "2026-04-29"
     },
     {
-      "name": "hermes-webui",
+      "name": "Codex Subagents",
       "lastFeatured": "2026-04-29"
     },
     {
-      "name": "OpenMontage",
+      "name": "mngr",
       "lastFeatured": "2026-04-29"
     },
     {
-      "name": "claude-code-book",
+      "name": "Latchkey",
       "lastFeatured": "2026-04-29"
     },
     {
-      "name": "holaOS",
-      "lastFeatured": "2026-04-29"
-    },
-    {
-      "name": "cc-skills-golang",
-      "lastFeatured": "2026-04-29"
-    },
-    {
-      "name": "figma-mcp-go",
+      "name": "Keystone",
       "lastFeatured": "2026-04-29"
     }
   ]

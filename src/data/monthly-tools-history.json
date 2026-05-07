@@ -1,32 +1,24 @@
 {
   "items": [
     {
-      "name": "claw-codes",
-      "lastFeatured": "2026-05-05"
+      "name": "Codex Plugins",
+      "lastFeatured": "2026-05-06"
     },
     {
-      "name": "parlor",
-      "lastFeatured": "2026-05-05"
+      "name": "Codex Subagents",
+      "lastFeatured": "2026-05-06"
     },
     {
-      "name": "cc-skills-golang",
-      "lastFeatured": "2026-05-05"
+      "name": "mngr",
+      "lastFeatured": "2026-05-06"
     },
     {
-      "name": "open-slide",
-      "lastFeatured": "2026-05-05"
+      "name": "Latchkey",
+      "lastFeatured": "2026-05-06"
     },
     {
-      "name": "SkillClaw",
-      "lastFeatured": "2026-05-05"
-    },
-    {
-      "name": "figma-mcp-go",
-      "lastFeatured": "2026-05-05"
-    },
-    {
-      "name": "AI-Account-Toolkit",
-      "lastFeatured": "2026-05-05"
+      "name": "Keystone",
+      "lastFeatured": "2026-05-06"
     }
   ]
 }

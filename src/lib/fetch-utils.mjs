@@ -1,5 +1,31 @@
+const DEFAULT_FETCH_TIMEOUT_MS = Number.parseInt(process.env.FETCH_TIMEOUT_MS || "", 10) || 15000;
+
+async function fetchWithTimeout(url, options = {}) {
+  const controller = new AbortController();
+  const timeoutMs = Number.isFinite(options.timeoutMs) && options.timeoutMs > 0
+    ? options.timeoutMs
+    : DEFAULT_FETCH_TIMEOUT_MS;
+
+  const timeout = setTimeout(() => controller.abort(new Error(`Fetch timeout after ${timeoutMs}ms`)), timeoutMs);
+
+  try {
+    const response = await fetch(url, {
+      ...options,
+      signal: controller.signal
+    });
+    return response;
+  } catch (error) {
+    if (error?.name === "AbortError") {
+      throw new Error(`Fetch timeout after ${timeoutMs}ms: ${url}`);
+    }
+    throw error;
+  } finally {
+    clearTimeout(timeout);
+  }
+}
+
 export async function fetchJson(url, options = {}) {
-  const response = await fetch(url, options);
+  const response = await fetchWithTimeout(url, options);
   if (!response.ok) {
     throw new Error(`Failed to fetch JSON: ${response.status} ${response.statusText}`);
   }
@@ -7,7 +33,7 @@ export async function fetchJson(url, options = {}) {
 }
 
 export async function fetchText(url, options = {}) {
-  const response = await fetch(url, options);
+  const response = await fetchWithTimeout(url, options);
   if (!response.ok) {
     throw new Error(`Failed to fetch text: ${response.status} ${response.statusText}`);
   }

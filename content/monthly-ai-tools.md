@@ -6,8 +6,10 @@ layout: markdown
 ---
 | 工具名稱 | 官方連結 | 核心能力 | 適用場景 | 學習門檻 |
 | --- | --- | --- | --- | --- |
-| Codex Plugins | [官方連結](https://openai.com) | 把外部工具與資料來源接進 Codex 工作流，讓 agent 能直接操作真實系統 | 開發工具串接、內部工具自動化、工作流整合 | 中 |
-| Codex Subagents | [官方連結](https://openai.com) | 讓複雜任務可拆成多個並行 agent 協作處理，提高大型任務處理效率 | 多工研究、程式開發拆工、內容與分析協作 | 中 |
-| mngr | [官方連結](https://imbue.com) | 在 CLI 中大規模啟動與管理平行 coding agents，強化 agent orchestration | 大型程式任務拆分、平行代理實驗、開發流程加速 | 高 |
-| Latchkey | [官方連結](https://imbue.com) | 提供給本地 AI agents 使用的憑證層，降低代理操作真實服務時的權限摩擦 | 本地 agent 權限管理、工具存取控管、安全試驗 | 高 |
-| Keystone | [官方連結](https://imbue.com) | 讓 repository 更容易被 agent 理解與執行，強化 repo 級工作流自動化 | Repo 自動化、任務執行、開發流程標準化 | 中 |
+| career-ops | [官方連結](https://career-ops.org) | AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard, PDF generation, batch processing. | AI coding、代理協作、開發流程 | 低 |
+| hermes-webui | [官方連結](https://get-hermes.ai/) | Hermes WebUI: The best way to use Hermes Agent from the web or from your phone! | 自動化工作流、agent 任務執行、工具串接 | 中 |
+| OpenMontage | [官方連結](https://github.com/calesthio/OpenMontage) | World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio. | 影片生成、語音處理、多媒體內容 | 中 |
+| hermes-web-ui | [官方連結](https://github.com/EKKOLearnAI/hermes-web-ui) | Web dashboard for Hermes Agent — multi-platform AI chat, session management, scheduled jobs, usage analytics & channel configuration (Telegram, Discord, Slack, WhatsApp) | 自動化工作流、agent 任務執行、工具串接 | 中 |
+| garden-skills | [官方連結](https://github.com/ConardLi/garden-skills) | ConardLi's open-source Skills collection, featuring web design, knowledge retrieval, image generation, and more. | 影片生成、語音處理、多媒體內容 | 低 |
+| claw-codes | [官方連結](https://t.me/Carl_Crypt) | Fastest repo on my GitHub to hit 50⭐ in under 2 hours. Building tools that get real things done. Now rewriting in Rust. | AI coding、代理協作、開發流程 | 低 |
+| open-slide | [官方連結](https://open-slide.dev) | A slide framework built for agents. | 自動化工作流、agent 任務執行、工具串接 | 高 |

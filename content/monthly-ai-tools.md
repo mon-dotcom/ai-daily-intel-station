@@ -6,10 +6,10 @@ layout: markdown
 ---
 | 工具名稱 | 官方連結 | 核心能力 | 適用場景 | 學習門檻 |
 | --- | --- | --- | --- | --- |
-| career-ops | [官方連結](https://career-ops.org) | AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard, PDF generation, batch processing. | AI coding、代理協作、開發流程 | 低 |
-| hermes-webui | [官方連結](https://get-hermes.ai/) | Hermes WebUI: The best way to use Hermes Agent from the web or from your phone! | 自動化工作流、agent 任務執行、工具串接 | 中 |
-| OpenMontage | [官方連結](https://github.com/calesthio/OpenMontage) | World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio. | 影片生成、語音處理、多媒體內容 | 中 |
-| hermes-web-ui | [官方連結](https://github.com/EKKOLearnAI/hermes-web-ui) | Web dashboard for Hermes Agent — multi-platform AI chat, session management, scheduled jobs, usage analytics & channel configuration (Telegram, Discord, Slack, WhatsApp) | 自動化工作流、agent 任務執行、工具串接 | 中 |
-| garden-skills | [官方連結](https://github.com/ConardLi/garden-skills) | ConardLi's open-source Skills collection, featuring web design, knowledge retrieval, image generation, and more. | 影片生成、語音處理、多媒體內容 | 低 |
-| claw-codes | [官方連結](https://t.me/Carl_Crypt) | Fastest repo on my GitHub to hit 50⭐ in under 2 hours. Building tools that get real things done. Now rewriting in Rust. | AI coding、代理協作、開發流程 | 低 |
-| open-slide | [官方連結](https://open-slide.dev) | A slide framework built for agents. | 自動化工作流、agent 任務執行、工具串接 | 高 |
+| open-vibe-island | [官方連結](https://github.com/Octane0411/open-vibe-island) | The open-source alternative to vibe-island, designed for heavy code agent users, supporting cc/codex/opencode, terminal/ghostty/cmux/kaku/iterm. 开源的vibe-island替代品，为重度code agent用户设计，支持cc/codex/opencode, terminal/ghostty/cmux/kaku/iterm | AI coding、代理協作、開發流程 | 中 |
+| SkillClaw | [官方連結](https://github.com/AMAP-ML/SkillClaw) | Let Skills Evolve Collectively with Agentic Evolver | 自動化工作流、agent 任務執行、工具串接 | 中 |
+| OmniAgent | [官方連結](https://yeqing17-2026.github.io/OmniAgent/) | An agent capable of self-evolving and dynamically hardening security | 自動化工作流、agent 任務執行、工具串接 | 中 |
+| hands-on-modern-rl | [官方連結](https://walkinglabs.github.io/hands-on-modern-rl/) | 🚀 An open-source, hands-on curriculum bridging the gap from basic RL concepts to LLM alignment, RLVR, and advanced Agentic systems. | 自動化工作流、agent 任務執行、工具串接 | 中 |
+| figma-mcp-go | [官方連結](https://github.com/vkhanhqui/figma-mcp-go) | Figma MCP for free users — no rate limits, full read/write, text to designs, designs to code | AI coding、代理協作、開發流程 | 低 |
+| AI-Account-Toolkit | [官方連結](https://github.com/adminlove520/AI-Account-Toolkit) | AI 账号注册与管理一站式工具集 \| ChatGPT, Claude, Gemini, Codex, Cursor, Grok 批量注册、Token 管理、临时邮箱服务 | AI coding、代理協作、開發流程 | 中 |
+| cangjie-skill | [官方連結](https://github.com/kangarooking/cangjie-skill) | 把一本书蒸馏成一组可执行的 Agent Skills | 自動化工作流、agent 任務執行、工具串接 | 中 |

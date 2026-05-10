@@ -15,7 +15,7 @@ sourceType: official
 country: 其他國家
 categories: 影片/圖片素材製作 | 新遊戲情報收集與分析
 updatedAt: Fri, 08 May 2026 15:00:00 +0000
-fetchedAt: 2026-05-09T02:07:08.738Z
+fetchedAt: 2026-05-10T02:07:12.279Z
 ---
 聚焦「See what happens when creative legends use AI to make ads for small businesses.」，可用來快速掌握近期 AI 工具、產品或產業動向。
 :::
@@ -31,7 +31,7 @@ sourceType: official
 country: 其他國家
 categories: 專案管理
 updatedAt: Fri, 08 May 2026 12:30:00 GMT
-fetchedAt: 2026-05-09T02:07:08.736Z
+fetchedAt: 2026-05-10T02:07:12.276Z
 ---
 聚焦「Running Codex safely at OpenAI」，可用來快速掌握近期 AI 工具、產品或產業動向。
 :::
@@ -47,7 +47,7 @@ sourceType: official
 country: 其他國家
 categories: 新遊戲情報收集與分析
 updatedAt: Thu, 07 May 2026 13:00:00 GMT
-fetchedAt: 2026-05-09T02:07:08.736Z
+fetchedAt: 2026-05-10T02:07:12.277Z
 ---
 聚焦「Scaling Trusted Access for Cyber with GPT-5.5 and GPT-5.5-Cyber」，可用來快速掌握近期 AI 工具、產品或產業動向。
 :::
@@ -63,7 +63,7 @@ sourceType: official
 country: 其他國家
 categories: 專案管理
 updatedAt: Thu, 07 May 2026 11:00:00 GMT
-fetchedAt: 2026-05-09T02:07:08.737Z
+fetchedAt: 2026-05-10T02:07:12.277Z
 ---
 重點在於「Parloa builds service agents customers want to talk to」，反映 AI 正在從單點工具走向可落地的流程自動化。
 :::
@@ -79,7 +79,7 @@ sourceType: official
 country: 其他國家
 categories: 新遊戲情報收集與分析
 updatedAt: Thu, 07 May 2026 10:00:00 GMT
-fetchedAt: 2026-05-09T02:07:08.737Z
+fetchedAt: 2026-05-10T02:07:12.278Z
 ---
 焦點圍繞「Advancing voice intelligence with new models in the API」，可直接觀察 AI 在影音與素材產線上的新能力。
 :::
@@ -95,7 +95,7 @@ sourceType: official
 country: 其他國家
 categories: 專案管理
 updatedAt: Thu, 07 May 2026 00:00:00 GMT
-fetchedAt: 2026-05-09T02:07:08.737Z
+fetchedAt: 2026-05-10T02:07:12.278Z
 ---
 聚焦「Testing ads in ChatGPT」，可用來快速掌握近期 AI 工具、產品或產業動向。
 :::
@@ -111,7 +111,7 @@ sourceType: official
 country: 其他國家
 categories: 影片/圖片素材製作
 updatedAt: Wed, 06 May 2026 16:00:00 +0000
-fetchedAt: 2026-05-09T02:07:08.738Z
+fetchedAt: 2026-05-10T02:07:12.279Z
 ---
 聚焦「5 gardening tips you can try right in Search」，可用來快速掌握近期 AI 工具、產品或產業動向。
 :::
@@ -127,7 +127,7 @@ sourceType: official
 country: 其他國家
 categories: 專案管理
 updatedAt: Wed, 06 May 2026 08:00:00 GMT
-fetchedAt: 2026-05-09T02:07:08.737Z
+fetchedAt: 2026-05-10T02:07:12.278Z
 ---
 聚焦「How ChatGPT learns about the world while protecting privacy」，可用來快速掌握近期 AI 工具、產品或產業動向。
 :::
@@ -143,7 +143,7 @@ sourceType: official
 country: 其他國家
 categories: 影片/圖片素材製作 | 新遊戲情報收集與分析
 updatedAt: Wed, 06 May 2026 00:00:00 GMT
-fetchedAt: 2026-05-09T02:07:08.737Z
+fetchedAt: 2026-05-10T02:07:12.278Z
 ---
 聚焦「Uber uses OpenAI to help people earn smarter and book faster」，可用來快速掌握近期 AI 工具、產品或產業動向。
 :::
@@ -159,7 +159,7 @@ sourceType: official
 country: 其他國家
 categories: 專案管理 | 新遊戲情報收集與分析
 updatedAt: Wed, 06 May 2026 00:00:00 GMT
-fetchedAt: 2026-05-09T02:07:08.737Z
+fetchedAt: 2026-05-10T02:07:12.278Z
 ---
 聚焦「How frontier firms are pulling ahead」，可用來快速掌握近期 AI 工具、產品或產業動向。
 :::
@@ -175,7 +175,7 @@ sourceType: official
 country: 其他國家
 categories: 影片/圖片素材製作
 updatedAt: Tue, 05 May 2026 16:00:00 +0000
-fetchedAt: 2026-05-09T02:07:08.738Z
+fetchedAt: 2026-05-10T02:07:12.279Z
 ---
 聚焦「Google is partnering with XPRIZE and Range Media Partners on the $3.5 million Future Vision film competition.」，可用來快速掌握近期 AI 工具、產品或產業動向。
 :::
@@ -191,7 +191,7 @@ sourceType: official
 country: 其他國家
 categories: 專案管理
 updatedAt: Tue, 05 May 2026 10:00:00 GMT
-fetchedAt: 2026-05-09T02:07:08.737Z
+fetchedAt: 2026-05-10T02:07:12.278Z
 ---
 聚焦「Unlocking large scale AI training networks with MRC (Multipath Reliable Connection)」，可用來快速掌握近期 AI 工具、產品或產業動向。
 :::
@@ -207,7 +207,7 @@ sourceType: official
 country: 其他國家
 categories: 影片/圖片素材製作
 updatedAt: Mon, 04 May 2026 17:00:00 +0000
-fetchedAt: 2026-05-09T02:07:08.738Z
+fetchedAt: 2026-05-10T02:07:12.279Z
 ---
 聚焦「The latest AI news we announced in April 2026」，可用來快速掌握近期 AI 工具、產品或產業動向。
 :::
@@ -223,7 +223,7 @@ sourceType: official
 country: 其他國家
 categories: 影片/圖片素材製作
 updatedAt: Mon, 04 May 2026 15:30:00 +0000
-fetchedAt: 2026-05-09T02:07:08.739Z
+fetchedAt: 2026-05-10T02:07:12.279Z
 ---
 聚焦「Reduce friction and latency for long-running jobs with Webhooks in Gemini API」，可用來快速掌握近期 AI 工具、產品或產業動向。
 :::
@@ -239,7 +239,7 @@ sourceType: official
 country: 其他國家
 categories: 專案管理
 updatedAt: Wed, 29 Apr 2026 00:00:00 GMT
-fetchedAt: 2026-05-09T02:07:08.739Z
+fetchedAt: 2026-05-10T02:07:12.279Z
 ---
 焦點圍繞「DeepInfra on Hugging Face Inference Providers 🔥」，適合用來判斷模型能力、開源方向與實作落地的變化。
 :::
@@ -255,7 +255,7 @@ sourceType: official
 country: 其他國家
 categories: 影片/圖片素材製作
 updatedAt: Tue, 28 Apr 2026 16:00:00 +0000
-fetchedAt: 2026-05-09T02:07:08.739Z
+fetchedAt: 2026-05-10T02:07:12.279Z
 ---
 聚焦「Celebrating 20 years of Google Translate: Fun facts, tips and new features to try」，可用來快速掌握近期 AI 工具、產品或產業動向。
 :::
@@ -271,7 +271,7 @@ sourceType: official
 country: 其他國家
 categories: 影片/圖片素材製作 | 專案管理 | 新遊戲情報收集與分析
 updatedAt: Tue, 28 Apr 2026 15:58:57 GMT
-fetchedAt: 2026-05-09T02:07:08.739Z
+fetchedAt: 2026-05-10T02:07:12.279Z
 ---
 重點在於「Introducing NVIDIA Nemotron 3 Nano Omni: Long-Context Multimodal Intelligence for Documents, Audio and Video Agents」，反映 AI 正在從單點工具走向可落地的流程自動化。
 :::
@@ -287,7 +287,7 @@ sourceType: official
 country: 其他國家
 categories: 影片/圖片素材製作 | 專案管理
 updatedAt: Mon, 27 Apr 2026 13:00:00 +0000
-fetchedAt: 2026-05-09T02:07:08.739Z
+fetchedAt: 2026-05-10T02:07:12.279Z
 ---
 重點在於「Join the new AI Agents Vibe Coding Course from Google and Kaggle」，反映 AI 正在從單點工具走向可落地的流程自動化。
 :::
@@ -303,7 +303,7 @@ sourceType: wechat
 country: 中國
 categories: 影片/圖片素材製作
 updatedAt: Sun, 26 Apr 2026 04:20:41 GMT
-fetchedAt: 2026-05-09T02:07:08.739Z
+fetchedAt: 2026-05-10T02:07:12.279Z
 ---
 焦點圍繞「全球首个医疗视频理解大模型开源！6k+组精标测试集与英雄榜同步上线，开发者速来！」，可直接觀察 AI 在影音與素材產線上的新能力。
 :::
@@ -319,7 +319,7 @@ sourceType: wechat
 country: 中國
 categories: 專案管理
 updatedAt: Sun, 26 Apr 2026 04:20:41 GMT
-fetchedAt: 2026-05-09T02:07:08.739Z
+fetchedAt: 2026-05-10T02:07:12.279Z
 ---
 聚焦「Skill也有语言虚拟机了！上交大开源SkVM，实现一次编写，处处高效」，可用來快速掌握近期 AI 工具、產品或產業動向。
 :::
@@ -335,7 +335,7 @@ sourceType: wechat
 country: 中國
 categories: 專案管理
 updatedAt: Sun, 26 Apr 2026 04:20:41 GMT
-fetchedAt: 2026-05-09T02:07:08.739Z
+fetchedAt: 2026-05-10T02:07:12.279Z
 ---
 聚焦「量子位编辑作者招聘」，可用來快速掌握近期 AI 工具、產品或產業動向。
 :::
@@ -351,7 +351,7 @@ sourceType: wechat
 country: 中國
 categories: 專案管理
 updatedAt: Sat, 25 Apr 2026 04:48:09 GMT
-fetchedAt: 2026-05-09T02:07:08.739Z
+fetchedAt: 2026-05-10T02:07:12.279Z
 ---
 聚焦「燃油SUV车主熬出头了！华为乾崑智驾加持，全新奥迪Q5L率先实现智能化」，可用來快速掌握近期 AI 工具、產品或產業動向。
 :::
@@ -367,7 +367,7 @@ sourceType: wechat
 country: 中國
 categories: 專案管理
 updatedAt: Sat, 25 Apr 2026 04:48:09 GMT
-fetchedAt: 2026-05-09T02:07:08.739Z
+fetchedAt: 2026-05-10T02:07:12.279Z
 ---
 重點在於「Coding Agent失败根源能精准定位了！南大快手提出可追溯框架：无需重训，即插即用」，反映 AI 正在從單點工具走向可落地的流程自動化。
 :::
@@ -383,7 +383,7 @@ sourceType: official
 country: 其他國家
 categories: 影片/圖片素材製作
 updatedAt: Fri, 24 Apr 2026 19:00:00 +0000
-fetchedAt: 2026-05-09T02:07:08.739Z
+fetchedAt: 2026-05-10T02:07:12.279Z
 ---
 聚焦「8 Gemini tips for organizing your space (and life)」，可用來快速掌握近期 AI 工具、產品或產業動向。
 :::
@@ -399,7 +399,7 @@ sourceType: wechat
 country: 中國
 categories: 專案管理
 updatedAt: Fri, 24 Apr 2026 05:46:58 GMT
-fetchedAt: 2026-05-09T02:07:08.739Z
+fetchedAt: 2026-05-10T02:07:12.279Z
 ---
 重點在於「Coordination Engineering关键一环，JiuwenClaw再发布Team Skills技能新范式」，反映 AI 正在從單點工具走向可落地的流程自動化。
 :::
@@ -415,7 +415,7 @@ sourceType: wechat
 country: 中國
 categories: 專案管理
 updatedAt: Fri, 24 Apr 2026 05:46:58 GMT
-fetchedAt: 2026-05-09T02:07:08.739Z
+fetchedAt: 2026-05-10T02:07:12.279Z
 ---
 聚焦「Claude终于认了！降智坐实，越聊越傻，3个bug全曝光」，可用來快速掌握近期 AI 工具、產品或產業動向。
 :::
@@ -431,7 +431,7 @@ sourceType: official
 country: 其他國家
 categories: 專案管理
 updatedAt: Fri, 24 Apr 2026 00:00:00 GMT
-fetchedAt: 2026-05-09T02:07:08.739Z
+fetchedAt: 2026-05-10T02:07:12.279Z
 ---
 重點在於「DeepSeek-V4: a million-token context that agents can actually use」，反映 AI 正在從單點工具走向可落地的流程自動化。
 :::
@@ -447,7 +447,7 @@ sourceType: official
 country: 其他國家
 categories: 影片/圖片素材製作
 updatedAt: Thu, 23 Apr 2026 12:00:00 +0000
-fetchedAt: 2026-05-09T02:07:08.739Z
+fetchedAt: 2026-05-10T02:07:12.279Z
 ---
 聚焦「Here's how our TPUs power increasingly demanding AI workloads.」，可用來快速掌握近期 AI 工具、產品或產業動向。
 :::
@@ -463,7 +463,7 @@ sourceType: official
 country: 其他國家
 categories: 專案管理
 updatedAt: Thu, 23 Apr 2026 00:00:00 GMT
-fetchedAt: 2026-05-09T02:07:08.739Z
+fetchedAt: 2026-05-10T02:07:12.279Z
 ---
 聚焦「How to Use Transformers.js in a Chrome Extension」，可用來快速掌握近期 AI 工具、產品或產業動向。
 :::
@@ -479,7 +479,7 @@ sourceType: wechat
 country: 中國
 categories: 專案管理
 updatedAt: Wed, 22 Apr 2026 01:45:57 GMT
-fetchedAt: 2026-05-09T02:07:08.739Z
+fetchedAt: 2026-05-10T02:07:12.280Z
 ---
 聚焦「2026年4月22日 Github 热门项目」，可用來快速掌握近期 AI 工具、產品或產業動向。
 :::
@@ -495,7 +495,7 @@ sourceType: wechat
 country: 中國
 categories: 專案管理
 updatedAt: Mon, 20 Apr 2026 00:42:34 GMT
-fetchedAt: 2026-05-09T02:07:08.739Z
+fetchedAt: 2026-05-10T02:07:12.280Z
 ---
 聚焦「2026年4月20日 Github 热门项目」，可用來快速掌握近期 AI 工具、產品或產業動向。
 :::
@@ -511,7 +511,7 @@ sourceType: official
 country: 其他國家
 categories: 專案管理
 updatedAt: Thu, 16 Apr 2026 00:00:00 GMT
-fetchedAt: 2026-05-09T02:07:08.739Z
+fetchedAt: 2026-05-10T02:07:12.279Z
 ---
 重點在於「Ecom-RLVE: Adaptive Verifiable Environments for E-Commerce Conversational Agents」，反映 AI 正在從單點工具走向可落地的流程自動化。
 :::
@@ -527,7 +527,7 @@ sourceType: official
 country: 其他國家
 categories: 專案管理
 updatedAt: Thu, 16 Apr 2026 00:00:00 GMT
-fetchedAt: 2026-05-09T02:07:08.739Z
+fetchedAt: 2026-05-10T02:07:12.279Z
 ---
 焦點圍繞「Training and Finetuning Multimodal Embedding & Reranker Models with Sentence Transformers」，可直接觀察 AI 在影音與素材產線上的新能力。
 :::
@@ -543,7 +543,7 @@ sourceType: official
 country: 其他國家
 categories: 專案管理
 updatedAt: Wed, 15 Apr 2026 12:07:25 GMT
-fetchedAt: 2026-05-09T02:07:08.739Z
+fetchedAt: 2026-05-10T02:07:12.279Z
 ---
 重點在於「Inside VAKRA: Reasoning, Tool Use, and Failure Modes of Agents」，反映 AI 正在從單點工具走向可落地的流程自動化。
 :::
@@ -559,7 +559,7 @@ sourceType: wechat
 country: 中國
 categories: 專案管理
 updatedAt: Wed, 15 Apr 2026 01:03:08 GMT
-fetchedAt: 2026-05-09T02:07:08.739Z
+fetchedAt: 2026-05-10T02:07:12.280Z
 ---
 聚焦「2026年4月15日 Github 热门项目」，可用來快速掌握近期 AI 工具、產品或產業動向。
 :::
@@ -575,7 +575,7 @@ sourceType: wechat
 country: 中國
 categories: 專案管理
 updatedAt: Tue, 14 Apr 2026 01:14:03 GMT
-fetchedAt: 2026-05-09T02:07:08.739Z
+fetchedAt: 2026-05-10T02:07:12.280Z
 ---
 聚焦「2026年4月14日 Github 热门项目」，可用來快速掌握近期 AI 工具、產品或產業動向。
 :::
@@ -591,7 +591,7 @@ sourceType: wechat
 country: 中國
 categories: 新遊戲情報收集與分析
 updatedAt: Tue, 14 Apr 2026 01:14:03 GMT
-fetchedAt: 2026-05-09T02:07:08.739Z
+fetchedAt: 2026-05-10T02:07:12.280Z
 ---
 聚焦「AI 行业资讯—04月14日」，可用來快速掌握近期 AI 工具、產品或產業動向。
 :::
@@ -607,7 +607,7 @@ sourceType: wechat
 country: 中國
 categories: 專案管理
 updatedAt: Mon, 13 Apr 2026 00:38:52 GMT
-fetchedAt: 2026-05-09T02:07:08.739Z
+fetchedAt: 2026-05-10T02:07:12.280Z
 ---
 聚焦「2026年4月13日 Github 热门项目」，可用來快速掌握近期 AI 工具、產品或產業動向。
 :::
@@ -623,7 +623,7 @@ sourceType: wechat
 country: 中國
 categories: 新遊戲情報收集與分析
 updatedAt: Mon, 13 Apr 2026 00:38:52 GMT
-fetchedAt: 2026-05-09T02:07:08.739Z
+fetchedAt: 2026-05-10T02:07:12.280Z
 ---
 聚焦「AI 行业资讯—04月13日」，可用來快速掌握近期 AI 工具、產品或產業動向。
 :::
@@ -639,7 +639,7 @@ sourceType: wechat
 country: 中國
 categories: 專案管理
 updatedAt: Sun, 12 Apr 2026 05:16:17 GMT
-fetchedAt: 2026-05-09T02:07:08.739Z
+fetchedAt: 2026-05-10T02:07:12.280Z
 ---
 聚焦「2026年4月12日 Github 热门项目」，可用來快速掌握近期 AI 工具、產品或產業動向。
 :::
@@ -655,7 +655,7 @@ sourceType: official
 country: 其他國家
 categories: 專案管理
 updatedAt: Thu, 09 Apr 2026 00:00:00 GMT
-fetchedAt: 2026-05-09T02:07:08.739Z
+fetchedAt: 2026-05-10T02:07:12.279Z
 ---
 焦點圍繞「Multimodal Embedding & Reranker Models with Sentence Transformers」，可直接觀察 AI 在影音與素材產線上的新能力。
 :::

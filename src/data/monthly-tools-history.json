@@ -1,32 +1,24 @@
 {
   "items": [
     {
-      "name": "open-vibe-island",
-      "lastFeatured": "2026-05-08"
+      "name": "Codex Plugins",
+      "lastFeatured": "2026-05-09"
     },
     {
-      "name": "SkillClaw",
-      "lastFeatured": "2026-05-08"
+      "name": "Codex Subagents",
+      "lastFeatured": "2026-05-09"
     },
     {
-      "name": "OmniAgent",
-      "lastFeatured": "2026-05-08"
+      "name": "mngr",
+      "lastFeatured": "2026-05-09"
     },
     {
-      "name": "hands-on-modern-rl",
-      "lastFeatured": "2026-05-08"
+      "name": "Latchkey",
+      "lastFeatured": "2026-05-09"
     },
     {
-      "name": "figma-mcp-go",
-      "lastFeatured": "2026-05-08"
-    },
-    {
-      "name": "AI-Account-Toolkit",
-      "lastFeatured": "2026-05-08"
-    },
-    {
-      "name": "cangjie-skill",
-      "lastFeatured": "2026-05-08"
+      "name": "Keystone",
+      "lastFeatured": "2026-05-09"
     }
   ]
 }

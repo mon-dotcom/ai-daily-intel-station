@@ -6,10 +6,10 @@ layout: markdown
 ---
 | 工具名稱 | 官方連結 | 核心能力 | 適用場景 | 學習門檻 |
 | --- | --- | --- | --- | --- |
-| career-ops | [官方連結](https://career-ops.org) | AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard, PDF generation, batch processing. | AI coding、代理協作、開發流程 | 低 |
-| hermes-webui | [官方連結](https://get-hermes.ai/) | Hermes WebUI: The best way to use Hermes Agent from the web or from your phone! | 自動化工作流、agent 任務執行、工具串接 | 中 |
-| OpenMontage | [官方連結](https://github.com/calesthio/OpenMontage) | World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio. | 影片生成、語音處理、多媒體內容 | 中 |
-| hermes-web-ui | [官方連結](https://ekkolearnai.com) | Web dashboard for Hermes Agent — multi-platform AI chat, session management, scheduled jobs, usage analytics | 自動化工作流、agent 任務執行、工具串接 | 中 |
-| garden-skills | [官方連結](https://github.com/ConardLi/garden-skills) | ConardLi's open-source Skills collection, featuring web design, knowledge retrieval, image generation, and more. | 影片生成、語音處理、多媒體內容 | 低 |
-| claw-codes | [官方連結](https://t.me/Carl_Crypt) | Fastest repo on my GitHub to hit 50⭐ in under 2 hours. Building tools that get real things done. Now rewriting in Rust. | AI coding、代理協作、開發流程 | 低 |
-| open-slide | [官方連結](https://open-slide.dev) | A slide framework built for agents. | 自動化工作流、agent 任務執行、工具串接 | 高 |
+| hands-on-modern-rl | [官方連結](https://walkinglabs.github.io/hands-on-modern-rl/) | 🚀 An open-source, hands-on curriculum bridging the gap from basic RL concepts to LLM alignment, RLVR, and advanced Agentic systems. | 自動化工作流、agent 任務執行、工具串接 | 中 |
+| SkillClaw | [官方連結](https://github.com/AMAP-ML/SkillClaw) | Let Skills Evolve Collectively with Agentic Evolver | 自動化工作流、agent 任務執行、工具串接 | 中 |
+| figma-mcp-go | [官方連結](https://github.com/vkhanhqui/figma-mcp-go) | Figma MCP for free users — no rate limits, full read/write, text to designs, designs to code | AI coding、代理協作、開發流程 | 低 |
+| cangjie-skill | [官方連結](https://github.com/kangarooking/cangjie-skill) | 把一本书蒸馏成一组可执行的 Agent Skills | 自動化工作流、agent 任務執行、工具串接 | 中 |
+| DeepSeek-Reasonix | [官方連結](https://esengine.github.io/DeepSeek-Reasonix/) | DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running. | 自動化工作流、agent 任務執行、工具串接 | 中 |
+| wx4py | [官方連結](https://wx4py.biglongxia.com/) | 微信4.x自动化机器人：群聊机器人、批量群发（支持文件）、批量设置群公告、聊天记录导出、群管理 \| 5分钟上手 | 團隊試作、流程優化、AI 應用驗證 | 低 |
+| world2agent | [官方連結](https://world2agent.ai) | World2Agent(W2A) is an open protocol that standardizes how Al agents perceive the real world. | 自動化工作流、agent 任務執行、工具串接 | 中 |

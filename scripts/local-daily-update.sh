@@ -20,8 +20,25 @@ echo "[$DATE_STAMP] Starting local daily update"
 
 cd "$ROOT_DIR"
 
-if ! curl -fsS "$WECHAT_RSS_ORIGIN_URL/feeds/" >/dev/null; then
-  echo "[$DATE_STAMP] WeWe RSS is unavailable at $WECHAT_RSS_ORIGIN_URL"
+WEWE_RETRY_COUNT="${WEWE_RETRY_COUNT:-6}"
+WEWE_RETRY_SLEEP_SECONDS="${WEWE_RETRY_SLEEP_SECONDS:-5}"
+
+wewe_ready=false
+for attempt in $(seq 1 "$WEWE_RETRY_COUNT"); do
+  if curl -fsS "$WECHAT_RSS_ORIGIN_URL/feeds/" >/dev/null; then
+    wewe_ready=true
+    break
+  fi
+
+  echo "[$DATE_STAMP] WeWe RSS check failed (attempt $attempt/$WEWE_RETRY_COUNT): $WECHAT_RSS_ORIGIN_URL"
+
+  if [ "$attempt" -lt "$WEWE_RETRY_COUNT" ]; then
+    sleep "$WEWE_RETRY_SLEEP_SECONDS"
+  fi
+done
+
+if [ "$wewe_ready" != true ]; then
+  echo "[$DATE_STAMP] WeWe RSS is unavailable at $WECHAT_RSS_ORIGIN_URL after $WEWE_RETRY_COUNT attempts"
   exit 1
 fi
 

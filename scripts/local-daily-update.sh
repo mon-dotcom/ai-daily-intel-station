@@ -32,7 +32,8 @@ build_healthcheck_urls() {
   local primary="${origin}${WEWE_HEALTHCHECK_PATH}"
 
   if [[ "$origin" == "http://localhost:"* ]]; then
-    local fallback="${origin/http:\/\/localhost:/http:\/\/127.0.0.1:}${WEWE_HEALTHCHECK_PATH}"
+    local fallback_origin="http://127.0.0.1${origin#http://localhost}"
+    local fallback="${fallback_origin}${WEWE_HEALTHCHECK_PATH}"
     echo "$primary"
     echo "$fallback"
     return

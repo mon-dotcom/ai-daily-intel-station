@@ -7,7 +7,7 @@ heroHighlights:
   - 本頁內容聚焦 2026年5月13日 的 AI 與開源動態
   - GitHub 榜單與新工具清單會隨排程自動重整
   - 若部分來源失敗，系統會保留備援內容避免頁面中斷
-generatedLabel: 2026/05/14 10:07
+generatedLabel: 2026/05/14 11:52
 updatedTimezone: 台北時間
 dataStatusTitle: 資料狀態
 dataStatusMessage: 部分即時來源抓取失敗，已優先保留最近可用文章。受影響來源：anthropic-news、gamesbeat-ai、unreal-news

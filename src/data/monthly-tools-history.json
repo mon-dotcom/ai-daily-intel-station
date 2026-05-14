@@ -1,31 +1,23 @@
 {
   "items": [
     {
-      "name": "career-ops",
+      "name": "Codex Plugins",
       "lastFeatured": "2026-05-13"
     },
     {
-      "name": "hermes-webui",
+      "name": "Codex Subagents",
       "lastFeatured": "2026-05-13"
     },
     {
-      "name": "garden-skills",
+      "name": "mngr",
       "lastFeatured": "2026-05-13"
     },
     {
-      "name": "hermes-web-ui",
+      "name": "Latchkey",
       "lastFeatured": "2026-05-13"
     },
     {
-      "name": "OpenMontage",
-      "lastFeatured": "2026-05-13"
-    },
-    {
-      "name": "open-slide",
-      "lastFeatured": "2026-05-13"
-    },
-    {
-      "name": "evo-nexus",
+      "name": "Keystone",
       "lastFeatured": "2026-05-13"
     }
   ]

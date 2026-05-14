@@ -102,10 +102,7 @@ async function main() {
   diagnostics.docker.logsAvailable = dockerLogs.ok;
 
   const recentLogs = `${dockerLogs.stdout}\n${dockerLogs.stderr}`;
-  if (/暂无可用读书账号/.test(recentLogs)) {
-    diagnostics.flags.weReadAccountUnavailable = true;
-    diagnostics.suspectedCauses.push("微信讀書帳號目前不可用或已失效");
-  }
+  const sawWeReadUnavailableSignal = /暂无可用读书账号/.test(recentLogs);
 
   if (!serviceProbe.ok) {
     diagnostics.flags.serviceUnavailable = true;
@@ -126,9 +123,23 @@ async function main() {
   }
 
   const emptyFeeds = diagnostics.feeds.filter((feed) => feed.empty).map((feed) => feed.name);
+  const failedFeeds = diagnostics.feeds.filter((feed) => !feed.reachable).map((feed) => feed.name);
   diagnostics.flags.emptyFeeds = emptyFeeds;
   if (emptyFeeds.length) {
     diagnostics.suspectedCauses.push(`以下微信來源 feed 為空：${emptyFeeds.join("、")}`);
+  }
+  if (failedFeeds.length) {
+    diagnostics.suspectedCauses.push(`以下微信來源 feed 無法讀取：${failedFeeds.join("、")}`);
+  }
+
+  const hasCurrentFetchSymptoms =
+    diagnostics.flags.serviceUnavailable ||
+    emptyFeeds.length > 0 ||
+    failedFeeds.length > 0;
+
+  if (sawWeReadUnavailableSignal && hasCurrentFetchSymptoms) {
+    diagnostics.flags.weReadAccountUnavailable = true;
+    diagnostics.suspectedCauses.unshift("微信讀書帳號目前不可用或已失效");
   }
 
   if (!diagnostics.suspectedCauses.length) {

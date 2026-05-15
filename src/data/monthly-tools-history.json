@@ -1,24 +1,32 @@
 {
   "items": [
     {
-      "name": "Codex Plugins",
-      "lastFeatured": "2026-05-13"
+      "name": "career-ops",
+      "lastFeatured": "2026-05-14"
     },
     {
-      "name": "Codex Subagents",
-      "lastFeatured": "2026-05-13"
+      "name": "hermes-webui",
+      "lastFeatured": "2026-05-14"
     },
     {
-      "name": "mngr",
-      "lastFeatured": "2026-05-13"
+      "name": "garden-skills",
+      "lastFeatured": "2026-05-14"
     },
     {
-      "name": "Latchkey",
-      "lastFeatured": "2026-05-13"
+      "name": "hermes-web-ui",
+      "lastFeatured": "2026-05-14"
     },
     {
-      "name": "Keystone",
-      "lastFeatured": "2026-05-13"
+      "name": "open-slide",
+      "lastFeatured": "2026-05-14"
+    },
+    {
+      "name": "DeepSeek-Reasonix",
+      "lastFeatured": "2026-05-14"
+    },
+    {
+      "name": "parlor",
+      "lastFeatured": "2026-05-14"
     }
   ]
 }

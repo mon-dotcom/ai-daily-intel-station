@@ -6,10 +6,8 @@ layout: markdown
 ---
 | 工具名稱 | 官方連結 | 核心能力 | 適用場景 | 學習門檻 |
 | --- | --- | --- | --- | --- |
-| TencentDB-Agent-Memory | [官方連結](https://github.com/Tencent/TencentDB-Agent-Memory) | TencentDB Agent Memory delivers fully local long-term memory for AI Agents via a 4-tier progressive pipeline, with zero external API dependencies. | 自動化工作流、agent 任務執行、工具串接 | 中 |
-| hands-on-modern-rl | [官方連結](https://walkinglabs.github.io/hands-on-modern-rl/) | 🚀 An open-source, hands-on curriculum bridging the gap from basic RL concepts to LLM alignment, RLVR, and advanced Agentic systems. | 自動化工作流、agent 任務執行、工具串接 | 中 |
-| SkillClaw | [官方連結](https://github.com/AMAP-ML/SkillClaw) | Let Skills Evolve Collectively with Agentic Evolver | 自動化工作流、agent 任務執行、工具串接 | 中 |
-| SenseNova-Skills | [官方連結](https://github.com/OpenSenseNova/SenseNova-Skills) | Modular SenseNova skills for building AI-powered office assistants and productivity workflows | 自動化工作流、agent 任務執行、工具串接 | 中 |
-| cangjie-skill | [官方連結](https://github.com/kangarooking/cangjie-skill) | 把一本书蒸馏成一组可执行的 Agent Skills | 自動化工作流、agent 任務執行、工具串接 | 中 |
-| Data-Analysis-Agent | [官方連結](https://github.com/Zafer-Liu/Data-Analysis-Agent) | 面向商业分析师的智能数据分析体。Intelligent Data Analysis Agent for Business Analysts. | 自動化工作流、agent 任務執行、工具串接 | 中 |
-| world2agent | [官方連結](https://world2agent.ai) | World2Agent(W2A) is an open protocol that standardizes how Al agents perceive the real world. | 自動化工作流、agent 任務執行、工具串接 | 中 |
+| Codex Plugins | [官方連結](https://openai.com) | 把外部工具與資料來源接進 Codex 工作流，讓 agent 能直接操作真實系統 | 開發工具串接、內部工具自動化、工作流整合 | 中 |
+| Codex Subagents | [官方連結](https://openai.com) | 讓複雜任務可拆成多個並行 agent 協作處理，提高大型任務處理效率 | 多工研究、程式開發拆工、內容與分析協作 | 中 |
+| mngr | [官方連結](https://imbue.com) | 在 CLI 中大規模啟動與管理平行 coding agents，強化 agent orchestration | 大型程式任務拆分、平行代理實驗、開發流程加速 | 高 |
+| Latchkey | [官方連結](https://imbue.com) | 提供給本地 AI agents 使用的憑證層，降低代理操作真實服務時的權限摩擦 | 本地 agent 權限管理、工具存取控管、安全試驗 | 高 |
+| Keystone | [官方連結](https://imbue.com) | 讓 repository 更容易被 agent 理解與執行，強化 repo 級工作流自動化 | Repo 自動化、任務執行、開發流程標準化 | 中 |

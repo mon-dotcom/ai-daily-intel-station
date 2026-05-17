@@ -1,32 +1,24 @@
 {
   "items": [
     {
-      "name": "TencentDB-Agent-Memory",
-      "lastFeatured": "2026-05-15"
+      "name": "Codex Plugins",
+      "lastFeatured": "2026-05-16"
     },
     {
-      "name": "hands-on-modern-rl",
-      "lastFeatured": "2026-05-15"
+      "name": "Codex Subagents",
+      "lastFeatured": "2026-05-16"
     },
     {
-      "name": "SkillClaw",
-      "lastFeatured": "2026-05-15"
+      "name": "mngr",
+      "lastFeatured": "2026-05-16"
     },
     {
-      "name": "SenseNova-Skills",
-      "lastFeatured": "2026-05-15"
+      "name": "Latchkey",
+      "lastFeatured": "2026-05-16"
     },
     {
-      "name": "cangjie-skill",
-      "lastFeatured": "2026-05-15"
-    },
-    {
-      "name": "Data-Analysis-Agent",
-      "lastFeatured": "2026-05-15"
-    },
-    {
-      "name": "world2agent",
-      "lastFeatured": "2026-05-15"
+      "name": "Keystone",
+      "lastFeatured": "2026-05-16"
     }
   ]
 }

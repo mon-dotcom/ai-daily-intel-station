@@ -1,31 +1,31 @@
 {
   "items": [
     {
-      "name": "OmniAgent",
+      "name": "career-ops",
       "lastFeatured": "2026-05-18"
     },
     {
-      "name": "hands-on-modern-rl",
+      "name": "garden-skills",
       "lastFeatured": "2026-05-18"
     },
     {
-      "name": "SenseNova-Skills",
+      "name": "hermes-web-ui",
       "lastFeatured": "2026-05-18"
     },
     {
-      "name": "SkillClaw",
+      "name": "DeepSeek-Reasonix",
       "lastFeatured": "2026-05-18"
     },
     {
-      "name": "cangjie-skill",
+      "name": "TencentDB-Agent-Memory",
       "lastFeatured": "2026-05-18"
     },
     {
-      "name": "world2agent",
+      "name": "open-slide",
       "lastFeatured": "2026-05-18"
     },
     {
-      "name": "evo-nexus",
+      "name": "parlor",
       "lastFeatured": "2026-05-18"
     }
   ]

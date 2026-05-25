@@ -3,19 +3,15 @@
   "items": [
     {
       "name": "openclaw/openclaw",
-      "stars": 374420
-    },
-    {
-      "name": "NousResearch/hermes-agent",
-      "stars": 165765
+      "stars": 374428
     },
     {
       "name": "affaan-m/ECC",
-      "stars": 190766
+      "stars": 190839
     },
     {
       "name": "n8n-io/n8n",
-      "stars": 189564
+      "stars": 189572
     },
     {
       "name": "Significant-Gravitas/AutoGPT",
@@ -23,15 +19,19 @@
     },
     {
       "name": "ollama/ollama",
-      "stars": 172216
+      "stars": 172220
+    },
+    {
+      "name": "NousResearch/hermes-agent",
+      "stars": 165806
     },
     {
       "name": "f/prompts.chat",
-      "stars": 162772
+      "stars": 162773
     },
     {
       "name": "huggingface/transformers",
-      "stars": 160932
+      "stars": 160933
     },
     {
       "name": "Snailclimb/JavaGuide",
@@ -39,7 +39,7 @@
     },
     {
       "name": "langgenius/dify",
-      "stars": 142490
+      "stars": 142499
     }
   ]
 }

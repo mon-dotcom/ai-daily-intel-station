@@ -1,45 +1,45 @@
 {
-  "date": "2026-05-27",
+  "date": "2026-05-28",
   "items": [
     {
       "name": "openclaw/openclaw",
-      "stars": 375106
+      "stars": 375317
     },
     {
       "name": "affaan-m/ECC",
-      "stars": 196112
+      "stars": 197353
     },
     {
       "name": "NousResearch/hermes-agent",
-      "stars": 170346
+      "stars": 171675
     },
     {
       "name": "n8n-io/n8n",
-      "stars": 190004
+      "stars": 190131
     },
     {
       "name": "Significant-Gravitas/AutoGPT",
-      "stars": 184595
+      "stars": 184617
     },
     {
       "name": "ollama/ollama",
-      "stars": 172463
+      "stars": 172540
     },
     {
       "name": "f/prompts.chat",
-      "stars": 162928
+      "stars": 162983
     },
     {
       "name": "huggingface/transformers",
-      "stars": 160996
+      "stars": 161030
     },
     {
       "name": "Snailclimb/JavaGuide",
-      "stars": 155918
+      "stars": 155941
     },
     {
       "name": "langgenius/dify",
-      "stars": 142911
+      "stars": 143011
     }
   ]
 }

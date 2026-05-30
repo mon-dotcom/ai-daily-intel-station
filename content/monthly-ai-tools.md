@@ -6,10 +6,8 @@ layout: markdown
 ---
 | 工具名稱 | 官方連結 | 核心能力 | 適用場景 | 學習門檻 |
 | --- | --- | --- | --- | --- |
-| DeepSeek-Reasonix | [官方連結](https://esengine.github.io/DeepSeek-Reasonix/) | DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running. | 自動化工作流、agent 任務執行、工具串接 | 中 |
-| garden-skills | [官方連結](https://github.com/ConardLi/garden-skills) | ConardLi's open-source Skills collection, featuring web design, knowledge retrieval, image generation, and more. | 影片生成、語音處理、多媒體內容 | 低 |
-| open-slide | [官方連結](https://open-slide.dev) | A slide framework built for agents. | 自動化工作流、agent 任務執行、工具串接 | 高 |
-| invisible_playwright | [官方連結](https://github.com/feder-cr/invisible_playwright#why-its-powerful) | Anti-Detect Browser that passes every bot detection test. Drop-in Playwright replacement. | 團隊試作、流程優化、AI 應用驗證 | 低 |
-| serve-sim | [官方連結](https://github.com/EvanBacon/serve-sim) | The `npx serve` of Apple Simulators. | 團隊試作、流程優化、AI 應用驗證 | 低 |
-| cfnb | [官方連結](https://github.com/xinyitang3/cfnb) | 这是一个全自动的 Cloudflare CDN 节点优选工具。它通过 TCP 延迟筛选 + IP 可用性二次检测 + 真实带宽测速 三重机制，从多个公开数据源中聚合节点，自动识别并解析任意格式（标准代码、中文名、emoji国旗、JSON等），筛选出当前网络环境下速度最快、可用性最高的 Cloudflare IP，并支持自动更新至 Cloudflare DNS 以及同步至 GitHub 仓库，同时支持微信实时通知。 | 團隊試作、流程優化、AI 應用驗證 | 低 |
-| world2agent | [官方連結](https://world2agent.ai) | World2Agent(W2A) is an open protocol that standardizes how Al agents perceive the real world. | 自動化工作流、agent 任務執行、工具串接 | 中 |
+| Codex Plugins | [官方連結](https://openai.com) | 把外部工具與資料來源接進 Codex 工作流，讓 agent 能直接操作真實系統 | 開發工具串接、內部工具自動化、工作流整合 | 中 |
+| Codex Subagents | [官方連結](https://openai.com) | 讓複雜任務可拆成多個並行 agent 協作處理，提高大型任務處理效率 | 多工研究、程式開發拆工、內容與分析協作 | 中 |
+| mngr | [官方連結](https://imbue.com) | 在 CLI 中大規模啟動與管理平行 coding agents，強化 agent orchestration | 大型程式任務拆分、平行代理實驗、開發流程加速 | 高 |
+| Latchkey | [官方連結](https://imbue.com) | 提供給本地 AI agents 使用的憑證層，降低代理操作真實服務時的權限摩擦 | 本地 agent 權限管理、工具存取控管、安全試驗 | 高 |
+| Keystone | [官方連結](https://imbue.com) | 讓 repository 更容易被 agent 理解與執行，強化 repo 級工作流自動化 | Repo 自動化、任務執行、開發流程標準化 | 中 |

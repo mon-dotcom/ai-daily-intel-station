@@ -1,32 +1,24 @@
 {
   "items": [
     {
-      "name": "DeepSeek-Reasonix",
-      "lastFeatured": "2026-05-28"
+      "name": "Codex Plugins",
+      "lastFeatured": "2026-05-29"
     },
     {
-      "name": "garden-skills",
-      "lastFeatured": "2026-05-28"
+      "name": "Codex Subagents",
+      "lastFeatured": "2026-05-29"
     },
     {
-      "name": "open-slide",
-      "lastFeatured": "2026-05-28"
+      "name": "mngr",
+      "lastFeatured": "2026-05-29"
     },
     {
-      "name": "invisible_playwright",
-      "lastFeatured": "2026-05-28"
+      "name": "Latchkey",
+      "lastFeatured": "2026-05-29"
     },
     {
-      "name": "serve-sim",
-      "lastFeatured": "2026-05-28"
-    },
-    {
-      "name": "cfnb",
-      "lastFeatured": "2026-05-28"
-    },
-    {
-      "name": "world2agent",
-      "lastFeatured": "2026-05-28"
+      "name": "Keystone",
+      "lastFeatured": "2026-05-29"
     }
   ]
 }

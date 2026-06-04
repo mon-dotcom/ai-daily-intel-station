@@ -15,25 +15,9 @@ sourceType: media
 country: 其他國家
 categories: 影片/圖片素材製作 | 專案管理 | 新遊戲情報收集與分析
 updatedAt: Tue, 02 Jun 2026 11:40:00 +0100
-fetchedAt: 2026-06-03T02:07:06.164Z
+fetchedAt: 2026-06-04T02:07:06.121Z
 ---
 聚焦「Saga launches AI Labs following blockchain network transition」，可用來快速掌握近期 AI 工具、產品或產業動向。
-:::
-
-::: card
-title: The 9-5 context switch
-audience: 遊戲企劃、工具與內容團隊
-time: 06/01 23:14
-image: 
-sourceName: Reddit r/gamedev
-sourceUrl: https://www.reddit.com/r/gamedev/comments/1ttvahl/the_95_context_switch/
-sourceType: community
-country: 其他國家
-categories: 專案管理
-updatedAt: 2026-06-01T15:14:57+00:00
-fetchedAt: 2026-06-03T02:07:06.164Z
----
-聚焦「The 9-5 context switch」，可用來快速掌握近期 AI 工具、產品或產業動向。
 :::
 
 ::: card
@@ -47,7 +31,7 @@ sourceType: wechat
 country: 中國
 categories: 專案管理
 updatedAt: Sun, 31 May 2026 15:23:16 GMT
-fetchedAt: 2026-06-03T02:07:06.164Z
+fetchedAt: 2026-06-04T02:07:06.121Z
 ---
 聚焦「做一款游戏到底要花多少钱？有人用模型估算了近2万款Steam游戏」，可用來快速掌握近期 AI 工具、產品或產業動向。
 :::
@@ -63,7 +47,7 @@ sourceType: wechat
 country: 中國
 categories: 專案管理
 updatedAt: Fri, 29 May 2026 08:12:03 GMT
-fetchedAt: 2026-06-03T02:07:06.164Z
+fetchedAt: 2026-06-04T02:07:06.121Z
 ---
 聚焦「5亿Tokens白送！全球首个商用AI主机发布，终于能放开烧Token了」，可用來快速掌握近期 AI 工具、產品或產業動向。
 :::
@@ -79,7 +63,7 @@ sourceType: wechat
 country: 中國
 categories: 專案管理
 updatedAt: Fri, 29 May 2026 08:12:03 GMT
-fetchedAt: 2026-06-03T02:07:06.164Z
+fetchedAt: 2026-06-04T02:07:06.121Z
 ---
 聚焦「下限零基础，上限肝大作！腾讯这个AI游戏创作平台，太野了」，可用來快速掌握近期 AI 工具、產品或產業動向。
 :::
@@ -95,7 +79,7 @@ sourceType: community
 country: 其他國家
 categories: 影片/圖片素材製作 | TikTok Mini Game | 專案管理 | 新遊戲情報收集與分析
 updatedAt: 2026-05-28T13:33:42+00:00
-fetchedAt: 2026-06-03T02:07:06.164Z
+fetchedAt: 2026-06-04T02:07:06.121Z
 ---
 聚焦「Our game jam entry blew up and we turned it into a full release with 175,000 wishlists. It was also stolen multiple times and turned into AI slop.」，值得留意它對遊戲開發、內容製作或營運流程的影響。
 :::
@@ -111,25 +95,9 @@ sourceType: media
 country: 其他國家
 categories: 新遊戲情報收集與分析
 updatedAt: Thu, 28 May 2026 11:30:00 +0100
-fetchedAt: 2026-06-03T02:07:06.164Z
+fetchedAt: 2026-06-04T02:07:06.121Z
 ---
 聚焦「D2C, co-development and "volume over viability": GDC 2026 trends revealed」，可用來快速掌握近期 AI 工具、產品或產業動向。
-:::
-
-::: card
-title: Saga introduces AI influencer agent to mobile game Diamond Jewels
-audience: 產品、營運與流程優化團隊
-time: 05/28 00:24
-image: https://media.pocketgamer.biz/images/139496/89027/crystal-beaumont-ai-agent_l660.jpg
-sourceName: PocketGamer.biz
-sourceUrl: https://www.pocketgamer.biz/saga-introduces-ai-influencer-agent-to-mobile-game-diamond-jewels/
-sourceType: media
-country: 其他國家
-categories: TikTok Mini Game | 專案管理 | 新遊戲情報收集與分析
-updatedAt: Wed, 27 May 2026 17:24:00 +0100
-fetchedAt: 2026-06-03T02:07:06.164Z
----
-重點在於「Saga introduces AI influencer agent to mobile game Diamond Jewels」，反映 AI 正在從單點工具走向可落地的流程自動化。
 :::
 
 ::: card
@@ -143,7 +111,7 @@ sourceType: wechat
 country: 中國
 categories: 專案管理
 updatedAt: Wed, 27 May 2026 14:29:18 GMT
-fetchedAt: 2026-06-03T02:07:06.164Z
+fetchedAt: 2026-06-04T02:07:06.121Z
 ---
 聚焦「刚刚，腾讯一口气曝光了9项游戏AI应用进展」，可用來快速掌握近期 AI 工具、產品或產業動向。
 :::
@@ -159,7 +127,7 @@ sourceType: wechat
 country: 中國
 categories: 專案管理
 updatedAt: Wed, 27 May 2026 09:26:14 GMT
-fetchedAt: 2026-06-03T02:07:06.164Z
+fetchedAt: 2026-06-04T02:07:06.121Z
 ---
 聚焦「大模型也需要睡觉！让AI打个盹，醒来更聪明」，可用來快速掌握近期 AI 工具、產品或產業動向。
 :::
@@ -175,25 +143,9 @@ sourceType: wechat
 country: 中國
 categories: 專案管理
 updatedAt: Wed, 27 May 2026 09:26:14 GMT
-fetchedAt: 2026-06-03T02:07:06.164Z
+fetchedAt: 2026-06-04T02:07:06.121Z
 ---
 聚焦「7B打败o3、GPT-5！医学AI智能体让模型学会"看哪里、怎么看"」，可用來快速掌握近期 AI 工具、產品或產業動向。
-:::
-
-::: card
-title: HoYoverse reportedly investing up to $14.7bn in AI over next three years
-audience: 工程與開發團隊
-time: 05/27 01:02
-image: https://media.pocketgamer.biz/images/139480/89016/petit-planet-stardrift-trailer_l660.jpg
-sourceName: PocketGamer.biz
-sourceUrl: https://www.pocketgamer.biz/hoyoverse-reportedly-investing-up-to-147bn-in-ai-over-next-three-years/
-sourceType: media
-country: 其他國家
-categories: 新遊戲情報收集與分析
-updatedAt: Tue, 26 May 2026 18:02:00 +0100
-fetchedAt: 2026-06-03T02:07:06.164Z
----
-聚焦「HoYoverse reportedly investing up to $14.7bn in AI over next three years」，可用來快速掌握近期 AI 工具、產品或產業動向。
 :::
 
 ::: card
@@ -207,7 +159,7 @@ sourceType: media
 country: 其他國家
 categories: 影片/圖片素材製作 | 新遊戲情報收集與分析
 updatedAt: Tue, 26 May 2026 13:06:24 +0000
-fetchedAt: 2026-06-03T02:07:06.164Z
+fetchedAt: 2026-06-04T02:07:06.121Z
 ---
 聚焦「The creators of Genshin Impact will spend nearly $15 billion on AI」，可用來快速掌握近期 AI 工具、產品或產業動向。
 :::
@@ -223,7 +175,7 @@ sourceType: wechat
 country: 中國
 categories: 專案管理
 updatedAt: Tue, 26 May 2026 05:30:51 GMT
-fetchedAt: 2026-06-03T02:07:06.164Z
+fetchedAt: 2026-06-04T02:07:06.121Z
 ---
 聚焦「刚刚，国产AI自己造了AI，全球首例！」，可用來快速掌握近期 AI 工具、產品或產業動向。
 :::
@@ -239,9 +191,25 @@ sourceType: wechat
 country: 中國
 categories: 專案管理
 updatedAt: Tue, 26 May 2026 05:30:51 GMT
-fetchedAt: 2026-06-03T02:07:06.164Z
+fetchedAt: 2026-06-04T02:07:06.121Z
 ---
 聚焦「画数独、烧蜡烛都不翻车了？浙大&阿里让AI先三思再下笔｜ACL 2026」，可用來快速掌握近期 AI 工具、產品或產業動向。
+:::
+
+::: card
+title: 图灵奖得主领衔，中国大模型第一梯队集结！2026智源大会，看懂AI下一程
+audience: 遊戲企劃、工具與內容團隊
+time: 05/25 12:27
+image: https://mmbiz.qpic.cn/mmbiz_jpg/A6fTew8FFGHPjL66vgfCZVkvclrjicId2YpohSLtiaWxt9vSJxPx5ESMpP84qKSsIs5JOXPduxTsIp0ComhlkpQgyXCeibgOSXxUOZwpsQNrYM/0?wx_fmt=jpeg
+sourceName: 量子位
+sourceUrl: https://mp.weixin.qq.com/s/2zCo1UrC6qM7TFWqJbQi1A
+sourceType: wechat
+country: 中國
+categories: 新遊戲情報收集與分析
+updatedAt: Mon, 25 May 2026 04:27:57 GMT
+fetchedAt: 2026-06-04T02:07:06.121Z
+---
+聚焦「图灵奖得主领衔，中国大模型第一梯队集结！2026智源大会，看懂AI下一程」，可用來快速掌握近期 AI 工具、產品或產業動向。
 :::
 
 ::: card
@@ -255,7 +223,7 @@ sourceType: wechat
 country: 中國
 categories: 專案管理
 updatedAt: Mon, 25 May 2026 03:01:34 GMT
-fetchedAt: 2026-06-03T02:07:06.164Z
+fetchedAt: 2026-06-04T02:07:06.121Z
 ---
 聚焦「2026年网站洞察报告：AI如何重塑互联网」，可用來快速掌握近期 AI 工具、產品或產業動向。
 :::
@@ -271,7 +239,7 @@ sourceType: wechat
 country: 中國
 categories: TikTok Mini Game
 updatedAt: Thu, 21 May 2026 15:24:04 GMT
-fetchedAt: 2026-06-03T02:07:06.164Z
+fetchedAt: 2026-06-04T02:07:06.121Z
 ---
 聚焦「融资近4个亿、用户2000万，这个AI小游戏平台火了：李飞飞、红杉、英伟达都来了」，值得留意它對遊戲開發、內容製作或營運流程的影響。
 :::
@@ -287,7 +255,7 @@ sourceType: wechat
 country: 中國
 categories: 專案管理
 updatedAt: Thu, 21 May 2026 15:24:04 GMT
-fetchedAt: 2026-06-03T02:07:06.164Z
+fetchedAt: 2026-06-04T02:07:06.121Z
 ---
 聚焦「三年投1000亿，米哈游越来越像一家AI公司」，可用來快速掌握近期 AI 工具、產品或產業動向。
 :::
@@ -303,7 +271,7 @@ sourceType: wechat
 country: 中國
 categories: 新遊戲情報收集與分析
 updatedAt: Tue, 19 May 2026 00:18:17 GMT
-fetchedAt: 2026-06-03T02:07:06.164Z
+fetchedAt: 2026-06-04T02:07:06.121Z
 ---
 聚焦「"AI泔水"降效增本！1154条开发者讨论，指向游戏行业新问题」，可用來快速掌握近期 AI 工具、產品或產業動向。
 :::
@@ -319,7 +287,7 @@ sourceType: wechat
 country: 中國
 categories: 新遊戲情報收集與分析
 updatedAt: Mon, 18 May 2026 12:42:43 GMT
-fetchedAt: 2026-06-03T02:07:06.164Z
+fetchedAt: 2026-06-04T02:07:06.121Z
 ---
 聚焦「AI时代最痛苦的一批游戏人，终于解放了」，可用來快速掌握近期 AI 工具、產品或產業動向。
 :::
@@ -335,7 +303,7 @@ sourceType: wechat
 country: 中國
 categories: TikTok Mini Game
 updatedAt: Sun, 17 May 2026 15:24:00 GMT
-fetchedAt: 2026-06-03T02:07:06.164Z
+fetchedAt: 2026-06-04T02:07:06.121Z
 ---
 聚焦「收入提升、AI+游戏融合、TikTok小游戏、Puzzle案例调优、休闲二合数据指标、 全球合规收付款 | 5月26日杭州站出海沙龙报名开始中」，值得留意它對遊戲開發、內容製作或營運流程的影響。
 :::
@@ -351,7 +319,7 @@ sourceType: wechat
 country: 中國
 categories: 專案管理
 updatedAt: Sat, 16 May 2026 05:02:13 GMT
-fetchedAt: 2026-06-03T02:07:06.164Z
+fetchedAt: 2026-06-04T02:07:06.121Z
 ---
 聚焦「大伟哥聊大模型：3年投入1000亿，如果没成就算放一个大烟花」，可用來快速掌握近期 AI 工具、產品或產業動向。
 :::
@@ -367,7 +335,7 @@ sourceType: wechat
 country: 中國
 categories: 專案管理
 updatedAt: Thu, 14 May 2026 15:23:29 GMT
-fetchedAt: 2026-06-03T02:07:06.164Z
+fetchedAt: 2026-06-04T02:07:06.121Z
 ---
 聚焦「即将来临的游戏业AI海啸，你能活下来吗？一份BP引发的思考｜游戏投融资」，可用來快速掌握近期 AI 工具、產品或產業動向。
 :::
@@ -383,7 +351,7 @@ sourceType: wechat
 country: 中國
 categories: TikTok Mini Game
 updatedAt: Thu, 14 May 2026 12:27:47 GMT
-fetchedAt: 2026-06-03T02:07:06.164Z
+fetchedAt: 2026-06-04T02:07:06.121Z
 ---
 聚焦「两天做出8万日活的小游戏，钱却被大模型赚走了」，值得留意它對遊戲開發、內容製作或營運流程的影響。
 :::
@@ -399,7 +367,7 @@ sourceType: wechat
 country: 中國
 categories: 新遊戲情報收集與分析
 updatedAt: Thu, 14 May 2026 02:34:58 GMT
-fetchedAt: 2026-06-03T02:07:06.164Z
+fetchedAt: 2026-06-04T02:07:06.121Z
 ---
 聚焦「千人上市公司因为AI，让全员带薪摸鱼一周？」，可用來快速掌握近期 AI 工具、產品或產業動向。
 :::
@@ -415,7 +383,7 @@ sourceType: wechat
 country: 中國
 categories: 新遊戲情報收集與分析
 updatedAt: Thu, 14 May 2026 02:30:53 GMT
-fetchedAt: 2026-06-03T02:07:06.164Z
+fetchedAt: 2026-06-04T02:07:06.121Z
 ---
 聚焦「《2026年全球AI应用趋势洞察》- 生成式 AI 已进入指数级爆发通道，近1年收入激增232%达61亿美元，成为非游戏应用市场的绝对增长引擎」，可用來快速掌握近期 AI 工具、產品或產業動向。
 :::
@@ -431,7 +399,7 @@ sourceType: wechat
 country: 中國
 categories: 新遊戲情報收集與分析
 updatedAt: Wed, 13 May 2026 15:25:25 GMT
-fetchedAt: 2026-06-03T02:07:06.164Z
+fetchedAt: 2026-06-04T02:07:06.121Z
 ---
 聚焦「腾讯Q1财报会全程聊AI：游戏增7.9%，洛克王国DAU破1300万、长青游戏创新高」，可用來快速掌握近期 AI 工具、產品或產業動向。
 :::
@@ -447,7 +415,7 @@ sourceType: wechat
 country: 中國
 categories: 新遊戲情報收集與分析
 updatedAt: Wed, 13 May 2026 02:20:43 GMT
-fetchedAt: 2026-06-03T02:07:06.164Z
+fetchedAt: 2026-06-04T02:07:06.121Z
 ---
 聚焦「最高百万年薪！字节跳动、IGG、掌玩抢滩海外AI漫剧、AI仿真人剧！多家争夺广告优化师、投放专员！」，可用來快速掌握近期 AI 工具、產品或產業動向。
 :::
@@ -463,7 +431,7 @@ sourceType: official
 country: 其他國家
 categories: 影片/圖片素材製作 | TikTok Mini Game | 專案管理 | 新遊戲情報收集與分析
 updatedAt: Wed, 13 May 2026 00:00:00 GMT
-fetchedAt: 2026-06-03T02:07:06.163Z
+fetchedAt: 2026-06-04T02:07:06.121Z
 ---
 聚焦「Unity for Humanity 2026 Winner Announcement」，值得留意它對遊戲開發、內容製作或營運流程的影響。
 :::
@@ -479,7 +447,7 @@ sourceType: wechat
 country: 中國
 categories: 專案管理
 updatedAt: Tue, 12 May 2026 04:46:07 GMT
-fetchedAt: 2026-06-03T02:07:06.164Z
+fetchedAt: 2026-06-04T02:07:06.121Z
 ---
 聚焦「三次创业，从字节FunPlus出走，他决定押注AI游戏平台」，可用來快速掌握近期 AI 工具、產品或產業動向。
 :::
@@ -495,7 +463,7 @@ sourceType: wechat
 country: 中國
 categories: 新遊戲情報收集與分析
 updatedAt: Tue, 12 May 2026 03:13:18 GMT
-fetchedAt: 2026-06-03T02:07:06.164Z
+fetchedAt: 2026-06-04T02:07:06.121Z
 ---
 聚焦「AI为行业释放220亿美元利润，谁会是赢家？摩根士丹利点名腾讯、Roblox等公司」，可用來快速掌握近期 AI 工具、產品或產業動向。
 :::
@@ -511,7 +479,7 @@ sourceType: wechat
 country: 中國
 categories: 專案管理
 updatedAt: Tue, 12 May 2026 00:59:02 GMT
-fetchedAt: 2026-06-03T02:07:06.164Z
+fetchedAt: 2026-06-04T02:07:06.121Z
 ---
 聚焦「AI 热点新闻日报 — 2026-05-12」，可用來快速掌握近期 AI 工具、產品或產業動向。
 :::
@@ -527,7 +495,7 @@ sourceType: official
 country: 其他國家
 categories: 影片/圖片素材製作 | 專案管理 | 新遊戲情報收集與分析
 updatedAt: Tue, 12 May 2026 00:00:00 GMT
-fetchedAt: 2026-06-03T02:07:06.164Z
+fetchedAt: 2026-06-04T02:07:06.121Z
 ---
 聚焦「Architecting Albion Online: How Sandbox Interactive built a PvP MMO to scale across platforms」，可用來快速掌握近期 AI 工具、產品或產業動向。
 :::
@@ -543,7 +511,7 @@ sourceType: wechat
 country: 中國
 categories: 新遊戲情報收集與分析
 updatedAt: Mon, 11 May 2026 16:14:51 GMT
-fetchedAt: 2026-06-03T02:07:06.164Z
+fetchedAt: 2026-06-04T02:07:06.121Z
 ---
 聚焦「"AI恋爱时代"来临！初创游戏公司抢跑，腾讯网易米哈游字节全员下场」，可用來快速掌握近期 AI 工具、產品或產業動向。
 :::
@@ -559,7 +527,7 @@ sourceType: wechat
 country: 中國
 categories: 新遊戲情報收集與分析
 updatedAt: Mon, 11 May 2026 16:14:51 GMT
-fetchedAt: 2026-06-03T02:07:06.164Z
+fetchedAt: 2026-06-04T02:07:06.121Z
 ---
 聚焦「"革虚幻Unity的命"？前Epic总监创业"基于AI代理游戏引擎"，烧算力替代程序员」，值得留意它對遊戲開發、內容製作或營運流程的影響。
 :::
@@ -575,7 +543,7 @@ sourceType: wechat
 country: 中國
 categories: 新遊戲情報收集與分析
 updatedAt: Sun, 10 May 2026 15:57:18 GMT
-fetchedAt: 2026-06-03T02:07:06.164Z
+fetchedAt: 2026-06-04T02:07:06.121Z
 ---
 聚焦「处处是雷！最早赚到钱的爆红AI游戏，开发者却给AI"泼冷水"？」，可用來快速掌握近期 AI 工具、產品或產業動向。
 :::
@@ -591,7 +559,7 @@ sourceType: wechat
 country: 中國
 categories: 新遊戲情報收集與分析
 updatedAt: Sat, 09 May 2026 00:49:20 GMT
-fetchedAt: 2026-06-03T02:07:06.164Z
+fetchedAt: 2026-06-04T02:07:06.121Z
 ---
 聚焦「AI 行业资讯—05月09日」，可用來快速掌握近期 AI 工具、產品或產業動向。
 :::
@@ -607,7 +575,7 @@ sourceType: wechat
 country: 中國
 categories: 專案管理
 updatedAt: Fri, 08 May 2026 15:23:48 GMT
-fetchedAt: 2026-06-03T02:07:06.164Z
+fetchedAt: 2026-06-04T02:07:06.121Z
 ---
 聚焦「我们看了几个AI原生游戏项目，发现它们可能比3A更激进」，可用來快速掌握近期 AI 工具、產品或產業動向。
 :::
@@ -623,7 +591,7 @@ sourceType: wechat
 country: 中國
 categories: 新遊戲情報收集與分析
 updatedAt: Thu, 07 May 2026 15:48:54 GMT
-fetchedAt: 2026-06-03T02:07:06.164Z
+fetchedAt: 2026-06-04T02:07:06.121Z
 ---
 聚焦「融资5600万美元！"AI教母"李飞飞做啥游戏？红杉谷歌英伟达掏钱力挺」，可用來快速掌握近期 AI 工具、產品或產業動向。
 :::
@@ -639,7 +607,7 @@ sourceType: wechat
 country: 中國
 categories: 新遊戲情報收集與分析
 updatedAt: Thu, 07 May 2026 02:30:59 GMT
-fetchedAt: 2026-06-03T02:07:06.164Z
+fetchedAt: 2026-06-04T02:07:06.121Z
 ---
 聚焦「【活动邀请｜5月14日 · 上海】《2026年全球AI应用趋势洞察》：深入解读移动端与网页端关键数据与全球格局演进」，可用來快速掌握近期 AI 工具、產品或產業動向。
 :::
@@ -655,7 +623,7 @@ sourceType: wechat
 country: 中國
 categories: 新遊戲情報收集與分析
 updatedAt: Thu, 07 May 2026 00:43:53 GMT
-fetchedAt: 2026-06-03T02:07:06.164Z
+fetchedAt: 2026-06-04T02:07:06.121Z
 ---
 聚焦「AI 行业资讯—05月07日」，可用來快速掌握近期 AI 工具、產品或產業動向。
 :::
@@ -671,7 +639,7 @@ sourceType: wechat
 country: 中國
 categories: 新遊戲情報收集與分析
 updatedAt: Wed, 06 May 2026 10:44:21 GMT
-fetchedAt: 2026-06-03T02:07:06.164Z
+fetchedAt: 2026-06-04T02:07:06.121Z
 ---
 聚焦「AI大佬李飞飞做游戏，融了4个亿」，可用來快速掌握近期 AI 工具、產品或產業動向。
 :::
@@ -687,7 +655,7 @@ sourceType: wechat
 country: 中國
 categories: 專案管理
 updatedAt: Wed, 06 May 2026 04:07:23 GMT
-fetchedAt: 2026-06-03T02:07:06.164Z
+fetchedAt: 2026-06-04T02:07:06.121Z
 ---
 聚焦「蔡浩宇美国公司换血背后：裁撤大模型团队，押注超级智能体」，可用來快速掌握近期 AI 工具、產品或產業動向。
 :::
@@ -703,7 +671,7 @@ sourceType: official
 country: 其他國家
 categories: 影片/圖片素材製作 | 專案管理 | 新遊戲情報收集與分析
 updatedAt: Tue, 05 May 2026 00:00:00 GMT
-fetchedAt: 2026-06-03T02:07:06.164Z
+fetchedAt: 2026-06-04T02:07:06.121Z
 ---
 重點在於「What is Unity Pipeline Automation?」，反映 AI 正在從單點工具走向可落地的流程自動化。
 :::
@@ -719,7 +687,7 @@ sourceType: wechat
 country: 中國
 categories: 新遊戲情報收集與分析
 updatedAt: Tue, 28 Apr 2026 01:10:02 GMT
-fetchedAt: 2026-06-03T02:07:06.164Z
+fetchedAt: 2026-06-04T02:07:06.121Z
 ---
 聚焦「44.4亿话题播放量！网易、三七互娱、鹰角跑出新案例，AI漫剧+游戏又衍生出新打法！」，可用來快速掌握近期 AI 工具、產品或產業動向。
 :::
@@ -735,7 +703,7 @@ sourceType: wechat
 country: 中國
 categories: 新遊戲情報收集與分析
 updatedAt: Mon, 27 Apr 2026 12:53:06 GMT
-fetchedAt: 2026-06-03T02:07:06.164Z
+fetchedAt: 2026-06-04T02:07:06.121Z
 ---
 聚焦「AI冲击游戏行业？AI需要游戏行业」，可用來快速掌握近期 AI 工具、產品或產業動向。
 :::
@@ -751,9 +719,25 @@ sourceType: wechat
 country: 中國
 categories: 影片/圖片素材製作 | 新遊戲情報收集與分析
 updatedAt: Mon, 27 Apr 2026 00:01:41 GMT
-fetchedAt: 2026-06-03T02:07:06.164Z
+fetchedAt: 2026-06-04T02:07:06.121Z
 ---
 焦點圍繞「全球原生AI下载4.02亿！豆包、即梦下载量大涨，千问素材量约占市场5成！丨3月AI月报」，可直接觀察 AI 在影音與素材產線上的新能力。
+:::
+
+::: card
+title: 曾融资6亿的Top 1公司大转型：想解决游戏行业50%的AI焦虑？
+audience: 遊戲企劃、工具與內容團隊
+time: 04/22 22:59
+image: https://mmbiz.qpic.cn/mmbiz_jpg/jV8YHDicAiasaUs5Hn5ktA6QsT1AaTAk7JghKWcbhdXWTPic2arn7szQv59BfB24zEFjkJ3x0XXzsBic7vcIsRBGQ8dhorFf8SKElnzWeLSXn18/0?wx_fmt=jpeg
+sourceName: 游戏葡萄
+sourceUrl: https://mp.weixin.qq.com/s/tSpldSEK_1xzp_10plVF4w
+sourceType: wechat
+country: 中國
+categories: 新遊戲情報收集與分析
+updatedAt: Wed, 22 Apr 2026 14:59:15 GMT
+fetchedAt: 2026-06-04T02:07:06.121Z
+---
+聚焦「曾融资6亿的Top 1公司大转型：想解决游戏行业50%的AI焦虑？」，可用來快速掌握近期 AI 工具、產品或產業動向。
 :::
 
 ::: card
@@ -767,7 +751,7 @@ sourceType: wechat
 country: 中國
 categories: 專案管理
 updatedAt: Wed, 22 Apr 2026 04:11:37 GMT
-fetchedAt: 2026-06-03T02:07:06.164Z
+fetchedAt: 2026-06-04T02:07:06.121Z
 ---
 聚焦「26年Q1流水创18年新高，专访网易天下制作人：AI让游戏进阶为第十艺术」，可用來快速掌握近期 AI 工具、產品或產業動向。
 :::
@@ -783,9 +767,25 @@ sourceType: wechat
 country: 中國
 categories: 新遊戲情報收集與分析
 updatedAt: Wed, 22 Apr 2026 01:45:57 GMT
-fetchedAt: 2026-06-03T02:07:06.164Z
+fetchedAt: 2026-06-04T02:07:06.121Z
 ---
 聚焦「AI 行业资讯—04月22日」，可用來快速掌握近期 AI 工具、產品或產業動向。
+:::
+
+::: card
+title: 从“能生成”到“能交付”，这个AI平台把游戏开发推向新高度
+audience: 遊戲企劃、工具與內容團隊
+time: 04/21 23:23
+image: https://mmbiz.qpic.cn/sz_mmbiz_jpg/k4AY3kIf4lnNHiaHKSCGfXDSNqtWfOBeWibFAy76q8bWib7Andb0ahaQUADibm676kfoAicd4yh8VWrzhaQclh2saaIDRoL3HichdHCKsE9WKBhkk/0?wx_fmt=jpeg
+sourceName: 罗斯基
+sourceUrl: https://mp.weixin.qq.com/s/yQNOz1Ug0pTHdsPEft5eTA
+sourceType: wechat
+country: 中國
+categories: 專案管理
+updatedAt: Tue, 21 Apr 2026 15:23:52 GMT
+fetchedAt: 2026-06-04T02:07:06.121Z
+---
+聚焦「从"能生成"到"能交付"，这个AI平台把游戏开发推向新高度」，可用來快速掌握近期 AI 工具、產品或產業動向。
 :::
 
 ::: card
@@ -799,7 +799,7 @@ sourceType: wechat
 country: 中國
 categories: 新遊戲情報收集與分析
 updatedAt: Mon, 20 Apr 2026 00:42:34 GMT
-fetchedAt: 2026-06-03T02:07:06.164Z
+fetchedAt: 2026-06-04T02:07:06.121Z
 ---
 聚焦「AI 行业资讯—04月20日」，可用來快速掌握近期 AI 工具、產品或產業動向。
 :::

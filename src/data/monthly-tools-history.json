@@ -1,24 +1,32 @@
 {
   "items": [
     {
-      "name": "Codex Plugins",
-      "lastFeatured": "2026-06-03"
+      "name": "DeepSeek-Reasonix",
+      "lastFeatured": "2026-06-04"
     },
     {
-      "name": "Codex Subagents",
-      "lastFeatured": "2026-06-03"
+      "name": "garden-skills",
+      "lastFeatured": "2026-06-04"
     },
     {
-      "name": "mngr",
-      "lastFeatured": "2026-06-03"
+      "name": "open-slide",
+      "lastFeatured": "2026-06-04"
     },
     {
-      "name": "Latchkey",
-      "lastFeatured": "2026-06-03"
+      "name": "opensquilla",
+      "lastFeatured": "2026-06-04"
     },
     {
-      "name": "Keystone",
-      "lastFeatured": "2026-06-03"
+      "name": "open-code-review",
+      "lastFeatured": "2026-06-04"
+    },
+    {
+      "name": "rmux",
+      "lastFeatured": "2026-06-04"
+    },
+    {
+      "name": "Data-Analysis-Agent",
+      "lastFeatured": "2026-06-04"
     }
   ]
 }

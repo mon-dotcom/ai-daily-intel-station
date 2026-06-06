@@ -15,7 +15,7 @@ sourceType: official
 country: 其他國家
 categories: 專案管理
 updatedAt: Thu, 04 Jun 2026 12:00:00 GMT
-fetchedAt: 2026-06-05T02:07:05.657Z
+fetchedAt: 2026-06-06T02:24:35.839Z
 ---
 重點在於「How Endava is redesigning software delivery around AI agents」，反映 AI 正在從單點工具走向可落地的流程自動化。
 :::
@@ -31,7 +31,7 @@ sourceType: official
 country: 其他國家
 categories: 專案管理
 updatedAt: Thu, 04 Jun 2026 00:00:00 GMT
-fetchedAt: 2026-06-05T02:07:05.659Z
+fetchedAt: 2026-06-06T02:24:35.843Z
 ---
 重點在於「Designing the hf CLI as an agent-optimized way to work with the Hub」，反映 AI 正在從單點工具走向可落地的流程自動化。
 :::
@@ -47,25 +47,9 @@ sourceType: official
 country: 其他國家
 categories: 專案管理 | 新遊戲情報收集與分析
 updatedAt: Wed, 03 Jun 2026 13:15:00 GMT
-fetchedAt: 2026-06-05T02:07:05.658Z
+fetchedAt: 2026-06-06T02:24:35.841Z
 ---
 聚焦「Introducing new capabilities to GPT-Rosalind」，可用來快速掌握近期 AI 工具、產品或產業動向。
-:::
-
-::: card
-title: 5 ways Google Search can level up your thrift and vintage shopping
-audience: 
-time: 06/03 21:00
-image: https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Google_Thrifting_Header.max-600x600.format-webp.webp
-sourceName: Google Blog
-sourceUrl: https://blog.google/products-and-platforms/products/search/thrifting-tips/
-sourceType: official
-country: 其他國家
-categories: 影片/圖片素材製作
-updatedAt: Wed, 03 Jun 2026 13:00:00 +0000
-fetchedAt: 2026-06-05T02:07:05.659Z
----
-聚焦「5 ways Google Search can level up your thrift and vintage shopping」，可用來快速掌握近期 AI 工具、產品或產業動向。
 :::
 
 ::: card
@@ -79,7 +63,7 @@ sourceType: official
 country: 其他國家
 categories: 專案管理
 updatedAt: Wed, 03 Jun 2026 12:00:00 GMT
-fetchedAt: 2026-06-05T02:07:05.658Z
+fetchedAt: 2026-06-06T02:24:35.841Z
 ---
 聚焦「How Wasmer used Codex to build a Node.js runtime for the edge」，可用來快速掌握近期 AI 工具、產品或產業動向。
 :::
@@ -95,7 +79,7 @@ sourceType: official
 country: 其他國家
 categories: 專案管理
 updatedAt: Wed, 03 Jun 2026 10:00:00 GMT
-fetchedAt: 2026-06-05T02:07:05.658Z
+fetchedAt: 2026-06-06T02:24:35.841Z
 ---
 聚焦「OpenAI public policy agenda」，可用來快速掌握近期 AI 工具、產品或產業動向。
 :::
@@ -111,7 +95,7 @@ sourceType: official
 country: 其他國家
 categories: 專案管理
 updatedAt: Wed, 03 Jun 2026 10:00:00 GMT
-fetchedAt: 2026-06-05T02:07:05.658Z
+fetchedAt: 2026-06-06T02:24:35.841Z
 ---
 聚焦「A blueprint for democratic governance of frontier AI」，可用來快速掌握近期 AI 工具、產品或產業動向。
 :::
@@ -127,7 +111,7 @@ sourceType: official
 country: 其他國家
 categories: 專案管理
 updatedAt: Tue, 02 Jun 2026 14:13:23 GMT
-fetchedAt: 2026-06-05T02:07:05.659Z
+fetchedAt: 2026-06-06T02:24:35.843Z
 ---
 重點在於「Holo3.1: Fast & Local Computer Use Agents」，反映 AI 正在從單點工具走向可落地的流程自動化。
 :::
@@ -143,25 +127,9 @@ sourceType: official
 country: 其他國家
 categories: 專案管理
 updatedAt: Tue, 02 Jun 2026 12:00:00 GMT
-fetchedAt: 2026-06-05T02:07:05.658Z
+fetchedAt: 2026-06-06T02:24:35.841Z
 ---
 焦點圍繞「Travelers deploys AI-powered claims countrywide with OpenAI」，適合用來判斷模型能力、開源方向與實作落地的變化。
-:::
-
-::: card
-title: How we used Gemini to build Google I/O 2026
-audience: Gemini to
-time: 06/02 00:00
-image: https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AI_IO.max-600x600.format-webp.webp
-sourceName: Google Blog
-sourceUrl: https://blog.google/innovation-and-ai/technology/ai/io-2026-google-ai/
-sourceType: official
-country: 其他國家
-categories: 影片/圖片素材製作
-updatedAt: Mon, 01 Jun 2026 16:00:00 +0000
-fetchedAt: 2026-06-05T02:07:05.659Z
----
-聚焦「How we used Gemini to build Google I/O 2026」，可用來快速掌握近期 AI 工具、產品或產業動向。
 :::
 
 ::: card
@@ -175,7 +143,7 @@ sourceType: official
 country: 其他國家
 categories: 專案管理
 updatedAt: Mon, 01 Jun 2026 15:45:17 GMT
-fetchedAt: 2026-06-05T02:07:05.659Z
+fetchedAt: 2026-06-06T02:24:35.843Z
 ---
 焦點圍繞「Introducing Mellum2: A 12B Mixture-of-Experts Model by JetBrains」，適合用來判斷模型能力、開源方向與實作落地的變化。
 :::
@@ -191,7 +159,7 @@ sourceType: official
 country: 其他國家
 categories: 專案管理
 updatedAt: Mon, 01 Jun 2026 13:51:18 GMT
-fetchedAt: 2026-06-05T02:07:05.659Z
+fetchedAt: 2026-06-06T02:24:35.843Z
 ---
 重點在於「Beyond LLMs: Why Scalable Enterprise AI Adoption Depends on Agent Logic」，反映 AI 正在從單點工具走向可落地的流程自動化。
 :::
@@ -207,7 +175,7 @@ sourceType: official
 country: 其他國家
 categories: 影片/圖片素材製作 | 專案管理 | 新遊戲情報收集與分析
 updatedAt: Mon, 01 Jun 2026 12:00:00 GMT
-fetchedAt: 2026-06-05T02:07:05.658Z
+fetchedAt: 2026-06-06T02:24:35.842Z
 ---
 聚焦「Building the infrastructure for the Intelligence Age in Michigan」，可用來快速掌握近期 AI 工具、產品或產業動向。
 :::
@@ -223,7 +191,7 @@ sourceType: official
 country: 其他國家
 categories: 影片/圖片素材製作 | 專案管理
 updatedAt: Mon, 01 Jun 2026 10:00:00 GMT
-fetchedAt: 2026-06-05T02:07:05.658Z
+fetchedAt: 2026-06-06T02:24:35.842Z
 ---
 焦點圍繞「OpenAI frontier models and Codex are now available on AWS」，適合用來判斷模型能力、開源方向與實作落地的變化。
 :::
@@ -239,7 +207,7 @@ sourceType: wechat
 country: 中國
 categories: 專案管理
 updatedAt: Sun, 31 May 2026 05:00:27 GMT
-fetchedAt: 2026-06-05T02:07:05.659Z
+fetchedAt: 2026-06-06T02:24:35.843Z
 ---
 聚焦「机器人原生世界动作模型问世！首创时空一体架构，复旦系团队出品」，可用來快速掌握近期 AI 工具、產品或產業動向。
 :::
@@ -255,7 +223,7 @@ sourceType: wechat
 country: 中國
 categories: 專案管理
 updatedAt: Sun, 31 May 2026 05:00:27 GMT
-fetchedAt: 2026-06-05T02:07:05.659Z
+fetchedAt: 2026-06-06T02:24:35.843Z
 ---
 聚焦「英伟达版「MacBook Pro」曝光：老黄自研了CPU！」，可用來快速掌握近期 AI 工具、產品或產業動向。
 :::
@@ -271,7 +239,7 @@ sourceType: wechat
 country: 中國
 categories: 專案管理
 updatedAt: Sun, 31 May 2026 05:00:27 GMT
-fetchedAt: 2026-06-05T02:07:05.659Z
+fetchedAt: 2026-06-06T02:24:35.843Z
 ---
 重點在於「别光给Agent加Tool了，它根本选不明白！复旦×通义提出全新CUA训练范式」，反映 AI 正在從單點工具走向可落地的流程自動化。
 :::
@@ -287,7 +255,7 @@ sourceType: wechat
 country: 中國
 categories: 專案管理
 updatedAt: Sun, 31 May 2026 05:00:27 GMT
-fetchedAt: 2026-06-05T02:07:05.659Z
+fetchedAt: 2026-06-06T02:24:35.843Z
 ---
 聚焦「量子位编辑作者招聘」，可用來快速掌握近期 AI 工具、產品或產業動向。
 :::
@@ -303,7 +271,7 @@ sourceType: wechat
 country: 中國
 categories: 專案管理
 updatedAt: Sat, 30 May 2026 04:01:02 GMT
-fetchedAt: 2026-06-05T02:07:05.659Z
+fetchedAt: 2026-06-06T02:24:35.843Z
 ---
 聚焦「帮Gemini拿下IMO金牌的关键先生，差点成了职业钢琴家」，可用來快速掌握近期 AI 工具、產品或產業動向。
 :::
@@ -319,57 +287,9 @@ sourceType: wechat
 country: 中國
 categories: 專案管理
 updatedAt: Sat, 30 May 2026 04:01:02 GMT
-fetchedAt: 2026-06-05T02:07:05.659Z
+fetchedAt: 2026-06-06T02:24:35.843Z
 ---
 重點在於「打破Agent训练瓶颈！人大&至知研究院开源Claw Agent数据+训练+评测全链条」，反映 AI 正在從單點工具走向可落地的流程自動化。
-:::
-
-::: card
-title: Take our I/O 2026 quiz, vibe coded in Google AI Studio.
-audience: 
-time: 05/30 03:00
-image: https://storage.googleapis.com/gweb-uniblog-publish-prod/images/IOQuiz2026_social.max-600x600.format-webp.webp
-sourceName: Google Blog
-sourceUrl: https://blog.google/innovation-and-ai/technology/ai/io-2026-vibe-coded-quiz/
-sourceType: official
-country: 其他國家
-categories: 影片/圖片素材製作
-updatedAt: Fri, 29 May 2026 19:00:00 +0000
-fetchedAt: 2026-06-05T02:07:05.659Z
----
-聚焦「Take our I/O 2026 quiz, vibe coded in Google AI Studio.」，可用來快速掌握近期 AI 工具、產品或產業動向。
-:::
-
-::: card
-title: 9 demos of Gemini Omni and Gemini 3.5 in action
-audience: Gemini Omni
-time: 05/30 01:30
-image: https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gemini_Omni_and_Gemini_3.5_hero.max-600x600.format-webp.webp
-sourceName: Google Blog
-sourceUrl: https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-omni-3-5-videos/
-sourceType: official
-country: 其他國家
-categories: 影片/圖片素材製作
-updatedAt: Fri, 29 May 2026 17:30:00 +0000
-fetchedAt: 2026-06-05T02:07:05.659Z
----
-聚焦「9 demos of Gemini Omni and Gemini 3.5 in action」，可用來快速掌握近期 AI 工具、產品或產業動向。
-:::
-
-::: card
-title: Check out real-life AI prototypes from the Futures Lab.
-audience: 
-time: 05/29 20:00
-image: https://storage.googleapis.com/gweb-uniblog-publish-prod/images/FutureLabs_social.max-600x600.format-webp.webp
-sourceName: Google Blog
-sourceUrl: https://blog.google/innovation-and-ai/technology/ai/university-waterloo-labs/
-sourceType: official
-country: 其他國家
-categories: 影片/圖片素材製作
-updatedAt: Fri, 29 May 2026 12:00:00 +0000
-fetchedAt: 2026-06-05T02:07:05.659Z
----
-聚焦「Check out real-life AI prototypes from the Futures Lab.」，可用來快速掌握近期 AI 工具、產品或產業動向。
 :::
 
 ::: card
@@ -383,7 +303,7 @@ sourceType: official
 country: 其他國家
 categories: 專案管理
 updatedAt: Fri, 29 May 2026 12:00:00 GMT
-fetchedAt: 2026-06-05T02:07:05.658Z
+fetchedAt: 2026-06-06T02:24:35.842Z
 ---
 聚焦「Boston Children's uses AI to unlock new diagnoses」，可用來快速掌握近期 AI 工具、產品或產業動向。
 :::
@@ -399,25 +319,57 @@ sourceType: official
 country: 其他國家
 categories: 專案管理
 updatedAt: Fri, 29 May 2026 12:00:00 GMT
-fetchedAt: 2026-06-05T02:07:05.658Z
+fetchedAt: 2026-06-06T02:24:35.842Z
 ---
 聚焦「How Braintrust turns customer requests into code with Codex」，可用來快速掌握近期 AI 工具、產品或產業動向。
 :::
 
 ::: card
-title: Catch up on 12 major I/O 2026 moments
+title: 5亿Tokens白送！全球首个商用AI主机发布，终于能放开烧Token了
 audience: 
-time: 05/28 23:00
-image: https://storage.googleapis.com/gweb-uniblog-publish-prod/images/KW_KNH.max-600x600.format-webp.webp
-sourceName: Google Blog
-sourceUrl: https://blog.google/innovation-and-ai/technology/ai/io-2026-keynote-moment-videos/
+time: 05/29 16:12
+image: https://mmbiz.qpic.cn/mmbiz_jpg/A6fTew8FFGF988MqczsOsj4h9T8611BfJnfHA4OTvvFUj6G19ZBFl7qibt3Lt9AGfcrQTnovlIdk7ArhpQOEU9ajibHryrjzzWhH5ibmFdSkHI/0?wx_fmt=jpeg
+sourceName: 量子位
+sourceUrl: https://mp.weixin.qq.com/s/ZZoGdACvxzAzu9oWRMuIDA
+sourceType: wechat
+country: 中國
+categories: 專案管理
+updatedAt: Fri, 29 May 2026 08:12:03 GMT
+fetchedAt: 2026-06-06T02:24:35.843Z
+---
+聚焦「5亿Tokens白送！全球首个商用AI主机发布，终于能放开烧Token了」，可用來快速掌握近期 AI 工具、產品或產業動向。
+:::
+
+::: card
+title: Strengthening societal resilience with Rosalind Biodefense
+audience: 
+time: 05/29 11:00
+image: 
+sourceName: OpenAI Blog
+sourceUrl: https://openai.com/index/strengthening-societal-resilience-with-rosalind-biodefense
+sourceType: official
+country: 其他國家
+categories: 影片/圖片素材製作 | 新遊戲情報收集與分析
+updatedAt: Fri, 29 May 2026 03:00:00 GMT
+fetchedAt: 2026-06-06T02:24:35.842Z
+---
+聚焦「Strengthening societal resilience with Rosalind Biodefense」，可用來快速掌握近期 AI 工具、產品或產業動向。
+:::
+
+::: card
+title: A shared playbook for trustworthy third party evaluations
+audience: 
+time: 05/29 08:00
+image: 
+sourceName: OpenAI Blog
+sourceUrl: https://openai.com/index/trustworthy-third-party-evaluations-foundations
 sourceType: official
 country: 其他國家
 categories: 影片/圖片素材製作
-updatedAt: Thu, 28 May 2026 15:00:00 +0000
-fetchedAt: 2026-06-05T02:07:05.659Z
+updatedAt: Fri, 29 May 2026 00:00:00 GMT
+fetchedAt: 2026-06-06T02:24:35.842Z
 ---
-聚焦「Catch up on 12 major I/O 2026 moments」，可用來快速掌握近期 AI 工具、產品或產業動向。
+聚焦「A shared playbook for trustworthy third party evaluations」，可用來快速掌握近期 AI 工具、產品或產業動向。
 :::
 
 ::: card
@@ -431,7 +383,7 @@ sourceType: wechat
 country: 中國
 categories: 專案管理
 updatedAt: Thu, 28 May 2026 13:15:49 GMT
-fetchedAt: 2026-06-05T02:07:05.659Z
+fetchedAt: 2026-06-06T02:24:35.843Z
 ---
 聚焦「DeepSeek V4芯模协同背后，国产算力生态开始飞轮加速」，可用來快速掌握近期 AI 工具、產品或產業動向。
 :::
@@ -447,9 +399,41 @@ sourceType: wechat
 country: 中國
 categories: 專案管理
 updatedAt: Thu, 28 May 2026 13:15:49 GMT
-fetchedAt: 2026-06-05T02:07:05.659Z
+fetchedAt: 2026-06-06T02:24:35.843Z
 ---
 重點在於「GUI Agent轨迹获取新范式：有限状态机合成无限轨迹数据，平均每条轨迹成本低至0.04美元」，反映 AI 正在從單點工具走向可落地的流程自動化。
+:::
+
+::: card
+title: How Endava builds an agentic organization with Codex
+audience: 
+time: 05/28 20:00
+image: 
+sourceName: OpenAI Blog
+sourceUrl: https://openai.com/index/endava
+sourceType: official
+country: 其他國家
+categories: 專案管理 | 新遊戲情報收集與分析
+updatedAt: Thu, 28 May 2026 12:00:00 GMT
+fetchedAt: 2026-06-06T02:24:35.842Z
+---
+重點在於「How Endava builds an agentic organization with Codex」，反映 AI 正在從單點工具走向可落地的流程自動化。
+:::
+
+::: card
+title: MUFG aims to become AI-native with OpenAI
+audience: 
+time: 05/28 08:00
+image: 
+sourceName: OpenAI Blog
+sourceUrl: https://openai.com/index/mufg
+sourceType: official
+country: 其他國家
+categories: 專案管理
+updatedAt: Thu, 28 May 2026 00:00:00 GMT
+fetchedAt: 2026-06-06T02:24:35.842Z
+---
+聚焦「MUFG aims to become AI-native with OpenAI」，可用來快速掌握近期 AI 工具、產品或產業動向。
 :::
 
 ::: card
@@ -463,9 +447,89 @@ sourceType: wechat
 country: 中國
 categories: 專案管理
 updatedAt: Wed, 27 May 2026 09:26:14 GMT
-fetchedAt: 2026-06-05T02:07:05.659Z
+fetchedAt: 2026-06-06T02:24:35.843Z
 ---
 重點在於「1400亿Agent入场，"流量"这条护城河要塌了」，反映 AI 正在從單點工具走向可落地的流程自動化。
+:::
+
+::: card
+title: 大模型也需要睡觉！让AI打个盹，醒来更聪明
+audience: 
+time: 05/27 17:26
+image: https://mmbiz.qpic.cn/mmbiz_jpg/A6fTew8FFGEfzjMEPMCwRSMknfHgwSibQCiagB8WjQrgu8z0ibaOwXzibPtdHPgo32skr9ONY132ia5rrAohxwyV3RBDbFZViaIiaEW7KGN77FBSVc/0?wx_fmt=jpeg
+sourceName: 量子位
+sourceUrl: https://mp.weixin.qq.com/s/WR1hjcDsFTYrqhUYYfar0Q
+sourceType: wechat
+country: 中國
+categories: 專案管理
+updatedAt: Wed, 27 May 2026 09:26:14 GMT
+fetchedAt: 2026-06-06T02:24:35.843Z
+---
+聚焦「大模型也需要睡觉！让AI打个盹，醒来更聪明」，可用來快速掌握近期 AI 工具、產品或產業動向。
+:::
+
+::: card
+title: 7B打败o3、GPT-5！医学AI智能体让模型学会“看哪里、怎么看”
+audience: GPT-5
+time: 05/27 17:26
+image: https://mmbiz.qpic.cn/sz_mmbiz_jpg/A6fTew8FFGFbch0OtGmu4wpEiaHk7Po3Jon7AwDwjSHf9Izh1ZC6MiblhG5AYKbH68PTLRkjMbiaWibLUXQKQvMqCHYS98Og2z7RP3iaLicNNTlt8/0?wx_fmt=jpeg
+sourceName: 量子位
+sourceUrl: https://mp.weixin.qq.com/s/MRnLu-3FxqRMxnH68tbtLA
+sourceType: wechat
+country: 中國
+categories: 專案管理
+updatedAt: Wed, 27 May 2026 09:26:14 GMT
+fetchedAt: 2026-06-06T02:24:35.843Z
+---
+聚焦「7B打败o3、GPT-5！医学AI智能体让模型学会"看哪里、怎么看"」，可用來快速掌握近期 AI 工具、產品或產業動向。
+:::
+
+::: card
+title: 刚刚，国产AI自己造了AI，全球首例！
+audience: 
+time: 05/26 13:30
+image: https://mmbiz.qpic.cn/sz_mmbiz_jpg/A6fTew8FFGHLLCs9ESYxlsmYnM4Kl1YtfoZR4WvY6ylANK6B56mbsiaPmXJ9laMkIeY9nfcIqwrUjzvZtRxiaBbHD9Tkacndwpsv0jTS30FEM/0?wx_fmt=jpeg
+sourceName: 量子位
+sourceUrl: https://mp.weixin.qq.com/s/Ci0BXKMJHy086MycdqH77w
+sourceType: wechat
+country: 中國
+categories: 專案管理
+updatedAt: Tue, 26 May 2026 05:30:51 GMT
+fetchedAt: 2026-06-06T02:24:35.843Z
+---
+聚焦「刚刚，国产AI自己造了AI，全球首例！」，可用來快速掌握近期 AI 工具、產品或產業動向。
+:::
+
+::: card
+title: 龙虾之父教你省钱：开源Skill给你的Skill减肥
+audience: 
+time: 05/26 13:30
+image: https://mmbiz.qpic.cn/mmbiz_jpg/A6fTew8FFGGOEL3kD6RsHveJo628Ef6oaV6Oq3HVXybDibCpQ6nSdFxowSqjpHFiaicMKCRpc2VpD2wibXLEs8hTZc92l4HPRLxaJ0d7AyA0vfw/0?wx_fmt=jpeg
+sourceName: 量子位
+sourceUrl: https://mp.weixin.qq.com/s/l-6ub0r8g0ppKXSv-VD4QQ
+sourceType: wechat
+country: 中國
+categories: 專案管理
+updatedAt: Tue, 26 May 2026 05:30:51 GMT
+fetchedAt: 2026-06-06T02:24:35.843Z
+---
+聚焦「龙虾之父教你省钱：开源Skill给你的Skill减肥」，可用來快速掌握近期 AI 工具、產品或產業動向。
+:::
+
+::: card
+title: 画数独、烧蜡烛都不翻车了？浙大&阿里让AI先三思再下笔｜ACL 2026
+audience: 
+time: 05/26 13:30
+image: https://mmbiz.qpic.cn/mmbiz_jpg/A6fTew8FFGFoEdySevoL9brkng0Ms9hiccjEylJAzd2iakARKn2wobLBlazauXArlAXMEVTkKU3kxE35vibXAML4kGv2ib4do4b55OONTE7z3uc/0?wx_fmt=jpeg
+sourceName: 量子位
+sourceUrl: https://mp.weixin.qq.com/s/ReY_b_MPz_uX6ELqxxtReQ
+sourceType: wechat
+country: 中國
+categories: 專案管理
+updatedAt: Tue, 26 May 2026 05:30:51 GMT
+fetchedAt: 2026-06-06T02:24:35.843Z
+---
+聚焦「画数独、烧蜡烛都不翻车了？浙大&阿里让AI先三思再下笔｜ACL 2026」，可用來快速掌握近期 AI 工具、產品或產業動向。
 :::
 
 ::: card
@@ -479,41 +543,9 @@ sourceType: official
 country: 其他國家
 categories: 專案管理
 updatedAt: Mon, 25 May 2026 00:00:00 GMT
-fetchedAt: 2026-06-05T02:07:05.659Z
+fetchedAt: 2026-06-06T02:24:35.843Z
 ---
 重點在於「Harness, Scaffold, and the AI Agent Terms Worth Getting Right」，反映 AI 正在從單點工具走向可落地的流程自動化。
-:::
-
-::: card
-title: Catch up on the Dialogues stage at Google I/O 2026.
-audience: 
-time: 05/23 02:00
-image: https://storage.googleapis.com/gweb-uniblog-publish-prod/images/IO26_Dialogues_3z680sK.max-600x600.format-webp.webp
-sourceName: Google Blog
-sourceUrl: https://blog.google/innovation-and-ai/technology/ai/io-2026-dialogues-recap/
-sourceType: official
-country: 其他國家
-categories: 影片/圖片素材製作
-updatedAt: Fri, 22 May 2026 18:00:00 +0000
-fetchedAt: 2026-06-05T02:07:05.659Z
----
-聚焦「Catch up on the Dialogues stage at Google I/O 2026.」，可用來快速掌握近期 AI 工具、產品或產業動向。
-:::
-
-::: card
-title: 100 things we announced at I/O 2026
-audience: 
-time: 05/21 03:30
-image: https://storage.googleapis.com/gweb-uniblog-publish-prod/images/100_things_Social.max-600x600.format-webp.webp
-sourceName: Google Blog
-sourceUrl: https://blog.google/innovation-and-ai/technology/ai/google-io-2026-all-our-announcements/
-sourceType: official
-country: 其他國家
-categories: 影片/圖片素材製作 | 新遊戲情報收集與分析
-updatedAt: Wed, 20 May 2026 19:30:00 +0000
-fetchedAt: 2026-06-05T02:07:05.659Z
----
-聚焦「100 things we announced at I/O 2026」，可用來快速掌握近期 AI 工具、產品或產業動向。
 :::
 
 ::: card
@@ -527,7 +559,7 @@ sourceType: official
 country: 其他國家
 categories: 影片/圖片素材製作
 updatedAt: Tue, 19 May 2026 18:38:09 GMT
-fetchedAt: 2026-06-05T02:07:05.659Z
+fetchedAt: 2026-06-06T02:24:35.843Z
 ---
 焦點圍繞「OlmoEarth v1.1: A more efficient family of Earth observation models」，適合用來判斷模型能力、開源方向與實作落地的變化。
 :::
@@ -543,7 +575,7 @@ sourceType: official
 country: 其他國家
 categories: 專案管理
 updatedAt: Mon, 18 May 2026 15:12:46 GMT
-fetchedAt: 2026-06-05T02:07:05.659Z
+fetchedAt: 2026-06-06T02:24:35.843Z
 ---
 聚焦「PaddleOCR 3.5: Running OCR and Document Parsing Tasks with a Transformers Backend」，可用來快速掌握近期 AI 工具、產品或產業動向。
 :::
@@ -559,9 +591,25 @@ sourceType: wechat
 country: 中國
 categories: 專案管理
 updatedAt: Tue, 12 May 2026 00:59:02 GMT
-fetchedAt: 2026-06-05T02:07:05.659Z
+fetchedAt: 2026-06-06T02:24:35.844Z
 ---
 聚焦「2026年5月12日 Github 热门项目」，可用來快速掌握近期 AI 工具、產品或產業動向。
+:::
+
+::: card
+title: AI 热点新闻日报 — 2026-05-12
+audience: 
+time: 05/12 08:59
+image: https://mmbiz.qpic.cn/sz_mmbiz_jpg/zicib4mibicnb8wc4d0fT5xAekT6Q54iaKGlHdQKayGW0icaDicg3xbjHL4tU0EBZ26N5Ds232TKydmeJ44sDRcVkwHZZlP3wfN1mwnl1laqTqY7JM/0?wx_fmt=jpeg
+sourceName: 开源志
+sourceUrl: https://mp.weixin.qq.com/s/kOGjHHiy8aFFO0aEA6d1IA
+sourceType: wechat
+country: 中國
+categories: 專案管理
+updatedAt: Tue, 12 May 2026 00:59:02 GMT
+fetchedAt: 2026-06-06T02:24:35.844Z
+---
+聚焦「AI 热点新闻日报 — 2026-05-12」，可用來快速掌握近期 AI 工具、產品或產業動向。
 :::
 
 ::: card
@@ -575,7 +623,7 @@ sourceType: official
 country: 其他國家
 categories: 專案管理
 updatedAt: Mon, 11 May 2026 23:18:26 GMT
-fetchedAt: 2026-06-05T02:07:05.659Z
+fetchedAt: 2026-06-06T02:24:35.843Z
 ---
 焦點圍繞「Building Blocks for Foundation Model Training and Inference on AWS」，適合用來判斷模型能力、開源方向與實作落地的變化。
 :::
@@ -591,9 +639,25 @@ sourceType: wechat
 country: 中國
 categories: 專案管理
 updatedAt: Sat, 09 May 2026 00:49:20 GMT
-fetchedAt: 2026-06-05T02:07:05.659Z
+fetchedAt: 2026-06-06T02:24:35.844Z
 ---
 聚焦「2026年5月9日 Github 热门项目」，可用來快速掌握近期 AI 工具、產品或產業動向。
+:::
+
+::: card
+title: AI 行业资讯—05月09日
+audience: 
+time: 05/09 08:49
+image: https://mmbiz.qpic.cn/sz_mmbiz_jpg/zicib4mibicnb8wgFS7icfffCrUXWX8PcwQILLtjicLBgcPuMv0PTD59TBJxnH4JB78kQPUNOVlYWxichVu74OR8lJjLDyiaxLHZo5wdQhkhQUic41co/0?wx_fmt=jpeg
+sourceName: 开源志
+sourceUrl: https://mp.weixin.qq.com/s/7KW8MLrB2Pdn41cegV8sNQ
+sourceType: wechat
+country: 中國
+categories: 新遊戲情報收集與分析
+updatedAt: Sat, 09 May 2026 00:49:20 GMT
+fetchedAt: 2026-06-06T02:24:35.844Z
+---
+聚焦「AI 行业资讯—05月09日」，可用來快速掌握近期 AI 工具、產品或產業動向。
 :::
 
 ::: card
@@ -607,7 +671,7 @@ sourceType: wechat
 country: 中國
 categories: 專案管理
 updatedAt: Fri, 08 May 2026 00:53:42 GMT
-fetchedAt: 2026-06-05T02:07:05.659Z
+fetchedAt: 2026-06-06T02:24:35.844Z
 ---
 聚焦「2026年5月8日 Github 热门项目」，可用來快速掌握近期 AI 工具、產品或產業動向。
 :::
@@ -623,9 +687,25 @@ sourceType: wechat
 country: 中國
 categories: 專案管理
 updatedAt: Thu, 07 May 2026 00:43:53 GMT
-fetchedAt: 2026-06-05T02:07:05.659Z
+fetchedAt: 2026-06-06T02:24:35.844Z
 ---
 聚焦「2026年5月7日 Github 热门项目」，可用來快速掌握近期 AI 工具、產品或產業動向。
+:::
+
+::: card
+title: AI 行业资讯—05月07日
+audience: 
+time: 05/07 08:43
+image: https://mmbiz.qpic.cn/sz_mmbiz_jpg/zicib4mibicnb8xd5eMfUcRoy5AeD11ibGsmSO6RpRicsJdMAkMZQ8XZT8SDUSV0aMK9FrzDZZ4F0Nm73P4mO7zZh0iaAxmDZy75bo0rIt3SV16TOc/0?wx_fmt=jpeg
+sourceName: 开源志
+sourceUrl: https://mp.weixin.qq.com/s/QxCA_OmdGpnLJGMMf7ATfA
+sourceType: wechat
+country: 中國
+categories: 新遊戲情報收集與分析
+updatedAt: Thu, 07 May 2026 00:43:53 GMT
+fetchedAt: 2026-06-06T02:24:35.844Z
+---
+聚焦「AI 行业资讯—05月07日」，可用來快速掌握近期 AI 工具、產品或產業動向。
 :::
 
 ::: card
@@ -639,9 +719,57 @@ sourceType: official
 country: 其他國家
 categories: 專案管理
 updatedAt: Wed, 29 Apr 2026 00:00:00 GMT
-fetchedAt: 2026-06-05T02:07:05.659Z
+fetchedAt: 2026-06-06T02:24:35.843Z
 ---
 焦點圍繞「DeepInfra on Hugging Face Inference Providers 🔥」，適合用來判斷模型能力、開源方向與實作落地的變化。
+:::
+
+::: card
+title: Introducing NVIDIA Nemotron 3 Nano Omni: Long-Context Multimodal Intelligence for Documents, Audio and Video Agents
+audience: 
+time: 04/28 23:58
+image: 
+sourceName: Hugging Face Blog
+sourceUrl: https://huggingface.co/blog/nvidia/nemotron-3-nano-omni-multimodal-intelligence
+sourceType: official
+country: 其他國家
+categories: 影片/圖片素材製作 | 專案管理 | 新遊戲情報收集與分析
+updatedAt: Tue, 28 Apr 2026 15:58:57 GMT
+fetchedAt: 2026-06-06T02:24:35.843Z
+---
+重點在於「Introducing NVIDIA Nemotron 3 Nano Omni: Long-Context Multimodal Intelligence for Documents, Audio and Video Agents」，反映 AI 正在從單點工具走向可落地的流程自動化。
+:::
+
+::: card
+title: DeepSeek-V4: a million-token context that agents can actually use
+audience: 
+time: 04/24 08:00
+image: 
+sourceName: Hugging Face Blog
+sourceUrl: https://huggingface.co/blog/deepseekv4
+sourceType: official
+country: 其他國家
+categories: 專案管理
+updatedAt: Fri, 24 Apr 2026 00:00:00 GMT
+fetchedAt: 2026-06-06T02:24:35.843Z
+---
+重點在於「DeepSeek-V4: a million-token context that agents can actually use」，反映 AI 正在從單點工具走向可落地的流程自動化。
+:::
+
+::: card
+title: How to Use Transformers.js in a Chrome Extension
+audience: 
+time: 04/23 08:00
+image: 
+sourceName: Hugging Face Blog
+sourceUrl: https://huggingface.co/blog/transformersjs-chrome-extension
+sourceType: official
+country: 其他國家
+categories: 專案管理
+updatedAt: Thu, 23 Apr 2026 00:00:00 GMT
+fetchedAt: 2026-06-06T02:24:35.843Z
+---
+聚焦「How to Use Transformers.js in a Chrome Extension」，可用來快速掌握近期 AI 工具、產品或產業動向。
 :::
 
 ::: card
@@ -655,23 +783,23 @@ sourceType: wechat
 country: 中國
 categories: 專案管理
 updatedAt: Wed, 22 Apr 2026 01:45:57 GMT
-fetchedAt: 2026-06-05T02:07:05.659Z
+fetchedAt: 2026-06-06T02:24:35.844Z
 ---
 聚焦「2026年4月22日 Github 热门项目」，可用來快速掌握近期 AI 工具、產品或產業動向。
 :::
 
 ::: card
-title: 2026年4月20日 Github 热门项目
+title: AI 行业资讯—04月22日
 audience: 
-time: 04/20 08:42
-image: https://mmbiz.qpic.cn/mmbiz_jpg/zicib4mibicnb8wxWjDA0Hv1NqLO6c2mm59E72ibibtYiaCFA8SuGCWT8FKY4tRNN12sJDZKuKPLRpxl0ztvMEMqyAxSAYlMu53O6OovA9wfNuQfzc/0?wx_fmt=jpeg
+time: 04/22 09:45
+image: https://mmbiz.qpic.cn/mmbiz_jpg/zicib4mibicnb8xXibibHV1vuqSaf3zthxXgemOne2XmEP51CN9dfhe2BgJgpGkvibTeUcdxjDyhS7gftjsashu5o29hYbTiaJE7YrJCTID7XfHTXpE/0?wx_fmt=jpeg
 sourceName: 开源志
-sourceUrl: https://mp.weixin.qq.com/s/45kkCREHmgTd6EZHAHTwxQ
+sourceUrl: https://mp.weixin.qq.com/s/a9gO4eRzE6F9DXbvtbhgkA
 sourceType: wechat
 country: 中國
-categories: 專案管理
-updatedAt: Mon, 20 Apr 2026 00:42:34 GMT
-fetchedAt: 2026-06-05T02:07:05.659Z
+categories: 新遊戲情報收集與分析
+updatedAt: Wed, 22 Apr 2026 01:45:57 GMT
+fetchedAt: 2026-06-06T02:24:35.844Z
 ---
-聚焦「2026年4月20日 Github 热门项目」，可用來快速掌握近期 AI 工具、產品或產業動向。
+聚焦「AI 行业资讯—04月22日」，可用來快速掌握近期 AI 工具、產品或產業動向。
 :::

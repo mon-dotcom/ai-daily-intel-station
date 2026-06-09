@@ -1,31 +1,31 @@
 {
   "items": [
     {
-      "name": "open-code-review",
+      "name": "baguette",
       "lastFeatured": "2026-06-08"
     },
     {
-      "name": "open-slide",
+      "name": "zerostack",
       "lastFeatured": "2026-06-08"
     },
     {
-      "name": "opensquilla",
+      "name": "ktx",
       "lastFeatured": "2026-06-08"
     },
     {
-      "name": "invisible_playwright",
+      "name": "intelligent-terminal",
       "lastFeatured": "2026-06-08"
     },
     {
-      "name": "rmux",
+      "name": "mobilegym",
       "lastFeatured": "2026-06-08"
     },
     {
-      "name": "serve-sim",
+      "name": "deepseek-pp",
       "lastFeatured": "2026-06-08"
     },
     {
-      "name": "knowhere",
+      "name": "bux",
       "lastFeatured": "2026-06-08"
     }
   ]

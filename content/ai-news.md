@@ -15,7 +15,7 @@ sourceType: official
 country: 其他國家
 categories: 專案管理
 updatedAt: Mon, 08 Jun 2026 14:00:00 GMT
-fetchedAt: 2026-06-09T02:07:12.068Z
+fetchedAt: 2026-06-09T03:20:31.714Z
 ---
 聚焦「Confidential submission of draft S-1 to the SEC」，可用來快速掌握近期 AI 工具、產品或產業動向。
 :::
@@ -31,7 +31,7 @@ sourceType: official
 country: 其他國家
 categories: 專案管理
 updatedAt: Mon, 08 Jun 2026 01:30:00 GMT
-fetchedAt: 2026-06-09T02:07:12.069Z
+fetchedAt: 2026-06-09T03:20:31.715Z
 ---
 聚焦「Built to benefit everyone: our plan」，可用來快速掌握近期 AI 工具、產品或產業動向。
 :::
@@ -47,7 +47,7 @@ sourceType: official
 country: 其他國家
 categories: 專案管理 | 新遊戲情報收集與分析
 updatedAt: Mon, 08 Jun 2026 00:00:00 GMT
-fetchedAt: 2026-06-09T02:07:12.070Z
+fetchedAt: 2026-06-09T03:20:31.716Z
 ---
 焦點圍繞「Introducing the OpenAI Economic Research Exchange」，適合用來判斷模型能力、開源方向與實作落地的變化。
 :::
@@ -63,7 +63,7 @@ sourceType: official
 country: 其他國家
 categories: 影片/圖片素材製作
 updatedAt: Fri, 05 Jun 2026 14:45:00 +0000
-fetchedAt: 2026-06-09T02:07:12.071Z
+fetchedAt: 2026-06-09T03:20:31.752Z
 ---
 聚焦「The latest AI news we announced in May 2026」，可用來快速掌握近期 AI 工具、產品或產業動向。
 :::
@@ -79,7 +79,7 @@ sourceType: official
 country: 其他國家
 categories: 專案管理
 updatedAt: Thu, 04 Jun 2026 12:00:00 GMT
-fetchedAt: 2026-06-09T02:07:12.070Z
+fetchedAt: 2026-06-09T03:20:31.716Z
 ---
 重點在於「How Endava is redesigning software delivery around AI agents」，反映 AI 正在從單點工具走向可落地的流程自動化。
 :::
@@ -95,7 +95,7 @@ sourceType: official
 country: 其他國家
 categories: 專案管理
 updatedAt: Thu, 04 Jun 2026 00:00:00 GMT
-fetchedAt: 2026-06-09T02:07:12.071Z
+fetchedAt: 2026-06-09T03:20:31.754Z
 ---
 重點在於「Designing the hf CLI as an agent-optimized way to work with the Hub」，反映 AI 正在從單點工具走向可落地的流程自動化。
 :::
@@ -111,7 +111,7 @@ sourceType: official
 country: 其他國家
 categories: 專案管理 | 新遊戲情報收集與分析
 updatedAt: Wed, 03 Jun 2026 13:15:00 GMT
-fetchedAt: 2026-06-09T02:07:12.070Z
+fetchedAt: 2026-06-09T03:20:31.716Z
 ---
 聚焦「Introducing new capabilities to GPT-Rosalind」，可用來快速掌握近期 AI 工具、產品或產業動向。
 :::
@@ -127,7 +127,7 @@ sourceType: official
 country: 其他國家
 categories: 影片/圖片素材製作
 updatedAt: Wed, 03 Jun 2026 13:00:00 +0000
-fetchedAt: 2026-06-09T02:07:12.071Z
+fetchedAt: 2026-06-09T03:20:31.752Z
 ---
 聚焦「5 ways Google Search can level up your thrift and vintage shopping」，可用來快速掌握近期 AI 工具、產品或產業動向。
 :::
@@ -143,7 +143,7 @@ sourceType: official
 country: 其他國家
 categories: 專案管理
 updatedAt: Wed, 03 Jun 2026 12:00:00 GMT
-fetchedAt: 2026-06-09T02:07:12.070Z
+fetchedAt: 2026-06-09T03:20:31.716Z
 ---
 聚焦「How Wasmer used Codex to build a Node.js runtime for the edge」，可用來快速掌握近期 AI 工具、產品或產業動向。
 :::
@@ -159,7 +159,7 @@ sourceType: official
 country: 其他國家
 categories: 專案管理
 updatedAt: Wed, 03 Jun 2026 10:00:00 GMT
-fetchedAt: 2026-06-09T02:07:12.070Z
+fetchedAt: 2026-06-09T03:20:31.716Z
 ---
 聚焦「A blueprint for democratic governance of frontier AI」，可用來快速掌握近期 AI 工具、產品或產業動向。
 :::
@@ -175,7 +175,7 @@ sourceType: official
 country: 其他國家
 categories: 專案管理
 updatedAt: Wed, 03 Jun 2026 10:00:00 GMT
-fetchedAt: 2026-06-09T02:07:12.070Z
+fetchedAt: 2026-06-09T03:20:31.716Z
 ---
 聚焦「OpenAI public policy agenda」，可用來快速掌握近期 AI 工具、產品或產業動向。
 :::
@@ -191,7 +191,7 @@ sourceType: official
 country: 其他國家
 categories: 專案管理
 updatedAt: Tue, 02 Jun 2026 14:13:23 GMT
-fetchedAt: 2026-06-09T02:07:12.071Z
+fetchedAt: 2026-06-09T03:20:31.754Z
 ---
 重點在於「Holo3.1: Fast & Local Computer Use Agents」，反映 AI 正在從單點工具走向可落地的流程自動化。
 :::
@@ -207,7 +207,7 @@ sourceType: official
 country: 其他國家
 categories: 專案管理
 updatedAt: Tue, 02 Jun 2026 12:00:00 GMT
-fetchedAt: 2026-06-09T02:07:12.070Z
+fetchedAt: 2026-06-09T03:20:31.716Z
 ---
 焦點圍繞「Travelers deploys AI-powered claims countrywide with OpenAI」，適合用來判斷模型能力、開源方向與實作落地的變化。
 :::
@@ -223,7 +223,7 @@ sourceType: official
 country: 其他國家
 categories: 影片/圖片素材製作
 updatedAt: Mon, 01 Jun 2026 16:00:00 +0000
-fetchedAt: 2026-06-09T02:07:12.071Z
+fetchedAt: 2026-06-09T03:20:31.752Z
 ---
 聚焦「How we used Gemini to build Google I/O 2026」，可用來快速掌握近期 AI 工具、產品或產業動向。
 :::
@@ -239,7 +239,7 @@ sourceType: official
 country: 其他國家
 categories: 專案管理
 updatedAt: Mon, 01 Jun 2026 15:45:17 GMT
-fetchedAt: 2026-06-09T02:07:12.071Z
+fetchedAt: 2026-06-09T03:20:31.754Z
 ---
 焦點圍繞「Introducing Mellum2: A 12B Mixture-of-Experts Model by JetBrains」，適合用來判斷模型能力、開源方向與實作落地的變化。
 :::
@@ -255,25 +255,9 @@ sourceType: official
 country: 其他國家
 categories: 專案管理
 updatedAt: Mon, 01 Jun 2026 13:51:18 GMT
-fetchedAt: 2026-06-09T02:07:12.071Z
+fetchedAt: 2026-06-09T03:20:31.754Z
 ---
 重點在於「Beyond LLMs: Why Scalable Enterprise AI Adoption Depends on Agent Logic」，反映 AI 正在從單點工具走向可落地的流程自動化。
-:::
-
-::: card
-title: Building the infrastructure for the Intelligence Age in Michigan
-audience: 
-time: 06/01 20:00
-image: 
-sourceName: OpenAI Blog
-sourceUrl: https://openai.com/index/stargate-michigan-data-center
-sourceType: official
-country: 其他國家
-categories: 影片/圖片素材製作 | 專案管理 | 新遊戲情報收集與分析
-updatedAt: Mon, 01 Jun 2026 12:00:00 GMT
-fetchedAt: 2026-06-09T02:07:12.070Z
----
-聚焦「Building the infrastructure for the Intelligence Age in Michigan」，可用來快速掌握近期 AI 工具、產品或產業動向。
 :::
 
 ::: card
@@ -287,7 +271,7 @@ sourceType: wechat
 country: 中國
 categories: 專案管理
 updatedAt: Sun, 31 May 2026 05:00:27 GMT
-fetchedAt: 2026-06-09T02:07:12.072Z
+fetchedAt: 2026-06-09T03:20:31.754Z
 ---
 聚焦「机器人原生世界动作模型问世！首创时空一体架构，复旦系团队出品」，可用來快速掌握近期 AI 工具、產品或產業動向。
 :::
@@ -303,7 +287,7 @@ sourceType: wechat
 country: 中國
 categories: 專案管理
 updatedAt: Sun, 31 May 2026 05:00:27 GMT
-fetchedAt: 2026-06-09T02:07:12.072Z
+fetchedAt: 2026-06-09T03:20:31.754Z
 ---
 聚焦「英伟达版「MacBook Pro」曝光：老黄自研了CPU！」，可用來快速掌握近期 AI 工具、產品或產業動向。
 :::
@@ -319,7 +303,7 @@ sourceType: wechat
 country: 中國
 categories: 專案管理
 updatedAt: Sun, 31 May 2026 05:00:27 GMT
-fetchedAt: 2026-06-09T02:07:12.072Z
+fetchedAt: 2026-06-09T03:20:31.756Z
 ---
 重點在於「别光给Agent加Tool了，它根本选不明白！复旦×通义提出全新CUA训练范式」，反映 AI 正在從單點工具走向可落地的流程自動化。
 :::
@@ -335,7 +319,7 @@ sourceType: wechat
 country: 中國
 categories: 專案管理
 updatedAt: Sun, 31 May 2026 05:00:27 GMT
-fetchedAt: 2026-06-09T02:07:12.072Z
+fetchedAt: 2026-06-09T03:20:31.758Z
 ---
 聚焦「量子位编辑作者招聘」，可用來快速掌握近期 AI 工具、產品或產業動向。
 :::
@@ -351,7 +335,7 @@ sourceType: wechat
 country: 中國
 categories: 專案管理
 updatedAt: Sat, 30 May 2026 04:01:02 GMT
-fetchedAt: 2026-06-09T02:07:12.072Z
+fetchedAt: 2026-06-09T03:20:31.758Z
 ---
 聚焦「帮Gemini拿下IMO金牌的关键先生，差点成了职业钢琴家」，可用來快速掌握近期 AI 工具、產品或產業動向。
 :::
@@ -367,7 +351,7 @@ sourceType: wechat
 country: 中國
 categories: 專案管理
 updatedAt: Sat, 30 May 2026 04:01:02 GMT
-fetchedAt: 2026-06-09T02:07:12.072Z
+fetchedAt: 2026-06-09T03:20:31.758Z
 ---
 重點在於「打破Agent训练瓶颈！人大&至知研究院开源Claw Agent数据+训练+评测全链条」，反映 AI 正在從單點工具走向可落地的流程自動化。
 :::
@@ -383,7 +367,7 @@ sourceType: official
 country: 其他國家
 categories: 影片/圖片素材製作
 updatedAt: Fri, 29 May 2026 19:00:00 +0000
-fetchedAt: 2026-06-09T02:07:12.071Z
+fetchedAt: 2026-06-09T03:20:31.753Z
 ---
 聚焦「Take our I/O 2026 quiz, vibe coded in Google AI Studio.」，可用來快速掌握近期 AI 工具、產品或產業動向。
 :::
@@ -399,7 +383,7 @@ sourceType: official
 country: 其他國家
 categories: 影片/圖片素材製作
 updatedAt: Fri, 29 May 2026 17:30:00 +0000
-fetchedAt: 2026-06-09T02:07:12.071Z
+fetchedAt: 2026-06-09T03:20:31.753Z
 ---
 聚焦「9 demos of Gemini Omni and Gemini 3.5 in action」，可用來快速掌握近期 AI 工具、產品或產業動向。
 :::
@@ -415,7 +399,7 @@ sourceType: official
 country: 其他國家
 categories: 影片/圖片素材製作
 updatedAt: Fri, 29 May 2026 12:00:00 +0000
-fetchedAt: 2026-06-09T02:07:12.071Z
+fetchedAt: 2026-06-09T03:20:31.753Z
 ---
 聚焦「Check out real-life AI prototypes from the Futures Lab.」，可用來快速掌握近期 AI 工具、產品或產業動向。
 :::
@@ -431,7 +415,7 @@ sourceType: official
 country: 其他國家
 categories: 影片/圖片素材製作
 updatedAt: Thu, 28 May 2026 15:00:00 +0000
-fetchedAt: 2026-06-09T02:07:12.071Z
+fetchedAt: 2026-06-09T03:20:31.753Z
 ---
 聚焦「Catch up on 12 major I/O 2026 moments」，可用來快速掌握近期 AI 工具、產品或產業動向。
 :::
@@ -447,7 +431,7 @@ sourceType: wechat
 country: 中國
 categories: 專案管理
 updatedAt: Thu, 28 May 2026 13:15:49 GMT
-fetchedAt: 2026-06-09T02:07:12.072Z
+fetchedAt: 2026-06-09T03:20:31.758Z
 ---
 聚焦「DeepSeek V4芯模协同背后，国产算力生态开始飞轮加速」，可用來快速掌握近期 AI 工具、產品或產業動向。
 :::
@@ -463,9 +447,25 @@ sourceType: wechat
 country: 中國
 categories: 專案管理
 updatedAt: Thu, 28 May 2026 13:15:49 GMT
-fetchedAt: 2026-06-09T02:07:12.072Z
+fetchedAt: 2026-06-09T03:20:31.758Z
 ---
 重點在於「GUI Agent轨迹获取新范式：有限状态机合成无限轨迹数据，平均每条轨迹成本低至0.04美元」，反映 AI 正在從單點工具走向可落地的流程自動化。
+:::
+
+::: card
+title: 2026年5月28日 Github 热门项目
+audience: 
+time: 05/28 07:59
+image: https://mmbiz.qpic.cn/mmbiz_jpg/zicib4mibicnb8xLR06QiagugTbySFy0DDWOS04bTI8mHB2UPvbUysrjHfwxicmZ4bCXqtt2uIsIReDtXmibVwsFpdoj6sD4l140OvpGia06a7GpuKg/0?wx_fmt=jpeg
+sourceName: 开源志
+sourceUrl: https://mp.weixin.qq.com/s/W8D5ochah8KegVsgrmelNA
+sourceType: wechat
+country: 中國
+categories: 專案管理
+updatedAt: Wed, 27 May 2026 23:59:22 GMT
+fetchedAt: 2026-06-09T03:20:32.041Z
+---
+聚焦「2026年5月28日 Github 热门项目」，可用來快速掌握近期 AI 工具、產品或產業動向。
 :::
 
 ::: card
@@ -479,41 +479,57 @@ sourceType: wechat
 country: 中國
 categories: 專案管理
 updatedAt: Wed, 27 May 2026 09:26:14 GMT
-fetchedAt: 2026-06-09T02:07:12.072Z
+fetchedAt: 2026-06-09T03:20:31.758Z
 ---
 重點在於「1400亿Agent入场，"流量"这条护城河要塌了」，反映 AI 正在從單點工具走向可落地的流程自動化。
 :::
 
 ::: card
-title: 龙虾之父教你省钱：开源Skill给你的Skill减肥
+title: 2026年5月27日 Github 热门项目
 audience: 
-time: 05/26 13:30
-image: https://mmbiz.qpic.cn/mmbiz_jpg/A6fTew8FFGGOEL3kD6RsHveJo628Ef6oaV6Oq3HVXybDibCpQ6nSdFxowSqjpHFiaicMKCRpc2VpD2wibXLEs8hTZc92l4HPRLxaJ0d7AyA0vfw/0?wx_fmt=jpeg
-sourceName: 量子位
-sourceUrl: https://mp.weixin.qq.com/s/l-6ub0r8g0ppKXSv-VD4QQ
+time: 05/27 12:43
+image: https://mmbiz.qpic.cn/mmbiz_jpg/zicib4mibicnb8yLJ44vL5v6NBQt6PhOROxZsyX9ZlQINl3ic17IbBjhgjAdH0h52WsHncC77QHozEJSNjBNdRG63icDqyXFMdXATiam8cRHmrgC3o/0?wx_fmt=jpeg
+sourceName: 开源志
+sourceUrl: https://mp.weixin.qq.com/s/mPD54WPQTIE2jsOMDH4Njw
 sourceType: wechat
 country: 中國
 categories: 專案管理
-updatedAt: Tue, 26 May 2026 05:30:51 GMT
-fetchedAt: 2026-06-09T02:07:12.072Z
+updatedAt: Wed, 27 May 2026 04:43:30 GMT
+fetchedAt: 2026-06-09T03:20:32.041Z
 ---
-聚焦「龙虾之父教你省钱：开源Skill给你的Skill减肥」，可用來快速掌握近期 AI 工具、產品或產業動向。
+聚焦「2026年5月27日 Github 热门项目」，可用來快速掌握近期 AI 工具、產品或產業動向。
 :::
 
 ::: card
-title: DeepSeek V4还能更省！新工具缓存命中率高达99.82%，2折稳定到手
+title: 2026年5月26日 Github 热门项目
 audience: 
-time: 05/25 12:27
-image: https://mmbiz.qpic.cn/sz_mmbiz_jpg/A6fTew8FFGHdrWfUTtqgVt6OTTmzicnQBfjuQvePvjvibe76GYcJQpxibuwvyEk8l8k1JiaXL05PJbzzgNODnNWYRPPS2FIsHt92t03vD95rP14/0?wx_fmt=jpeg
-sourceName: 量子位
-sourceUrl: https://mp.weixin.qq.com/s/Fgw6dUiIBSfPBYlkwWOpWQ
+time: 05/26 08:52
+image: https://mmbiz.qpic.cn/sz_mmbiz_jpg/5ib5L6QEJPong9vZ1AL4wootAlyA34zJHudMu6xDL6BWicwvHomp7iaDjBlodxbf40C1P94OVRJA4cWmd59t1NmBg/0?wx_fmt=jpeg
+sourceName: 开源志
+sourceUrl: https://mp.weixin.qq.com/s/gCT-x2biDLw1RB3Y1in8ZA
 sourceType: wechat
 country: 中國
 categories: 專案管理
-updatedAt: Mon, 25 May 2026 04:27:57 GMT
-fetchedAt: 2026-06-09T02:07:12.072Z
+updatedAt: Tue, 26 May 2026 00:52:17 GMT
+fetchedAt: 2026-06-09T03:20:32.041Z
 ---
-聚焦「DeepSeek V4还能更省！新工具缓存命中率高达99.82%，2折稳定到手」，可用來快速掌握近期 AI 工具、產品或產業動向。
+聚焦「2026年5月26日 Github 热门项目」，可用來快速掌握近期 AI 工具、產品或產業動向。
+:::
+
+::: card
+title: 2026年5月25日 Github 热门项目
+audience: 
+time: 05/25 08:33
+image: https://mmbiz.qpic.cn/mmbiz_jpg/zicib4mibicnb8zgpqRgqSf4YCBZ2wUkDxwXVkqsGu2dlzdo7LVogUgaNoWA9zayvQ3k2Ve3OkdJY02tZpYj6AgtdSvnYYHxn39SrAZ8OVQUjSg/0?wx_fmt=jpeg
+sourceName: 开源志
+sourceUrl: https://mp.weixin.qq.com/s/l8JL5UO4u_y6ltGRgpKY1w
+sourceType: wechat
+country: 中國
+categories: 專案管理
+updatedAt: Mon, 25 May 2026 00:33:55 GMT
+fetchedAt: 2026-06-09T03:20:32.041Z
+---
+聚焦「2026年5月25日 Github 热门项目」，可用來快速掌握近期 AI 工具、產品或產業動向。
 :::
 
 ::: card
@@ -527,7 +543,7 @@ sourceType: official
 country: 其他國家
 categories: 專案管理
 updatedAt: Mon, 25 May 2026 00:00:00 GMT
-fetchedAt: 2026-06-09T02:07:12.072Z
+fetchedAt: 2026-06-09T03:20:31.754Z
 ---
 重點在於「Harness, Scaffold, and the AI Agent Terms Worth Getting Right」，反映 AI 正在從單點工具走向可落地的流程自動化。
 :::
@@ -543,9 +559,57 @@ sourceType: official
 country: 其他國家
 categories: 影片/圖片素材製作
 updatedAt: Fri, 22 May 2026 18:00:00 +0000
-fetchedAt: 2026-06-09T02:07:12.071Z
+fetchedAt: 2026-06-09T03:20:31.753Z
 ---
 聚焦「Catch up on the Dialogues stage at Google I/O 2026.」，可用來快速掌握近期 AI 工具、產品或產業動向。
+:::
+
+::: card
+title: 2026年5月22日 Github 热门项目
+audience: 
+time: 05/22 09:09
+image: https://mmbiz.qpic.cn/mmbiz_jpg/zicib4mibicnb8wzzNF6JXFeYLnXt3j1LZfDfHia31iaDhdcYIEb0b98QoSdkic83MFh0gibRooVHaC1ic0Qfrw5fggtzVqET5qNoSPUTxAxBZwkicV60/0?wx_fmt=jpeg
+sourceName: 开源志
+sourceUrl: https://mp.weixin.qq.com/s/LWq7y1JOSpQbgEoYnlsvwQ
+sourceType: wechat
+country: 中國
+categories: 專案管理
+updatedAt: Fri, 22 May 2026 01:09:27 GMT
+fetchedAt: 2026-06-09T03:20:32.041Z
+---
+聚焦「2026年5月22日 Github 热门项目」，可用來快速掌握近期 AI 工具、產品或產業動向。
+:::
+
+::: card
+title: 2026年5月20日 Github 热门项目
+audience: 
+time: 05/21 08:56
+image: https://mmbiz.qpic.cn/sz_mmbiz_jpg/zicib4mibicnb8y3ZjSGkU0iar8r8eEPY1jaTPVN4HAv9r8pQa1gvDJxpm8PtqhmicAYF1UdagwRRLIHQYsyiaWlDmDgtRqlb1dRdezyd9OGYqU1B0/0?wx_fmt=jpeg
+sourceName: 开源志
+sourceUrl: https://mp.weixin.qq.com/s/8NwkHlQUolk7MGQijOFwIA
+sourceType: wechat
+country: 中國
+categories: 專案管理
+updatedAt: Thu, 21 May 2026 00:56:27 GMT
+fetchedAt: 2026-06-09T03:20:32.041Z
+---
+聚焦「2026年5月20日 Github 热门项目」，可用來快速掌握近期 AI 工具、產品或產業動向。
+:::
+
+::: card
+title: AI 行业资讯—05月21日
+audience: 
+time: 05/21 08:56
+image: https://mmbiz.qpic.cn/sz_mmbiz_jpg/zicib4mibicnb8yvtwgU3iagT82STHfJYrmkzWOTFF67QGEWfiaO1ZRib4qDP16QteNRQicYGKTfG3vyQzic0JRjCWY2OjMric0O4EptxKrRyj6UXC1jA/0?wx_fmt=jpeg
+sourceName: 开源志
+sourceUrl: https://mp.weixin.qq.com/s/9UggrYsvPxYYV7LUD2sAlA
+sourceType: wechat
+country: 中國
+categories: 新遊戲情報收集與分析
+updatedAt: Thu, 21 May 2026 00:56:27 GMT
+fetchedAt: 2026-06-09T03:20:32.041Z
+---
+聚焦「AI 行业资讯—05月21日」，可用來快速掌握近期 AI 工具、產品或產業動向。
 :::
 
 ::: card
@@ -559,7 +623,7 @@ sourceType: official
 country: 其他國家
 categories: 影片/圖片素材製作 | 新遊戲情報收集與分析
 updatedAt: Wed, 20 May 2026 19:30:00 +0000
-fetchedAt: 2026-06-09T02:07:12.071Z
+fetchedAt: 2026-06-09T03:20:31.753Z
 ---
 聚焦「100 things we announced at I/O 2026」，可用來快速掌握近期 AI 工具、產品或產業動向。
 :::
@@ -575,7 +639,7 @@ sourceType: official
 country: 其他國家
 categories: 影片/圖片素材製作
 updatedAt: Tue, 19 May 2026 18:38:09 GMT
-fetchedAt: 2026-06-09T02:07:12.072Z
+fetchedAt: 2026-06-09T03:20:31.754Z
 ---
 焦點圍繞「OlmoEarth v1.1: A more efficient family of Earth observation models」，適合用來判斷模型能力、開源方向與實作落地的變化。
 :::
@@ -591,25 +655,9 @@ sourceType: official
 country: 其他國家
 categories: 專案管理
 updatedAt: Mon, 18 May 2026 15:12:46 GMT
-fetchedAt: 2026-06-09T02:07:12.072Z
+fetchedAt: 2026-06-09T03:20:31.754Z
 ---
 聚焦「PaddleOCR 3.5: Running OCR and Document Parsing Tasks with a Transformers Backend」，可用來快速掌握近期 AI 工具、產品或產業動向。
-:::
-
-::: card
-title: 2026年5月12日 Github 热门项目
-audience: 
-time: 05/12 08:59
-image: https://mmbiz.qpic.cn/sz_mmbiz_jpg/zicib4mibicnb8w8HeaIkvEgnCz38mQmjLibDZDiag7e3AMoibBPlXrwmLv4OibUxbaODu15xbfH0ic7PbbNtibicl6kibyYvC0obZE1S7QHQ48ia2sn7q7E/0?wx_fmt=jpeg
-sourceName: 开源志
-sourceUrl: https://mp.weixin.qq.com/s/JaSf8q6lObWrX89S9ERAEA
-sourceType: wechat
-country: 中國
-categories: 專案管理
-updatedAt: Tue, 12 May 2026 00:59:02 GMT
-fetchedAt: 2026-06-09T02:07:12.072Z
----
-聚焦「2026年5月12日 Github 热门项目」，可用來快速掌握近期 AI 工具、產品或產業動向。
 :::
 
 ::: card
@@ -623,55 +671,7 @@ sourceType: official
 country: 其他國家
 categories: 專案管理
 updatedAt: Mon, 11 May 2026 23:18:26 GMT
-fetchedAt: 2026-06-09T02:07:12.072Z
+fetchedAt: 2026-06-09T03:20:31.754Z
 ---
 焦點圍繞「Building Blocks for Foundation Model Training and Inference on AWS」，適合用來判斷模型能力、開源方向與實作落地的變化。
-:::
-
-::: card
-title: 2026年5月9日 Github 热门项目
-audience: 
-time: 05/09 08:49
-image: https://mmbiz.qpic.cn/mmbiz_jpg/zicib4mibicnb8x0zk74vYtaicQTQxKUEhtmib3wI6xarfv6U8xeut8308a6doMm5hQAydhgw6tj4OBdiaBumcibJ5sdSrd2lp8icKIibLfuK0LhnI1wE/0?wx_fmt=jpeg
-sourceName: 开源志
-sourceUrl: https://mp.weixin.qq.com/s/Lvv1r_hl7WNP2ZS_l7NcpQ
-sourceType: wechat
-country: 中國
-categories: 專案管理
-updatedAt: Sat, 09 May 2026 00:49:20 GMT
-fetchedAt: 2026-06-09T02:07:12.072Z
----
-聚焦「2026年5月9日 Github 热门项目」，可用來快速掌握近期 AI 工具、產品或產業動向。
-:::
-
-::: card
-title: 2026年5月8日 Github 热门项目
-audience: 
-time: 05/08 08:53
-image: https://mmbiz.qpic.cn/mmbiz_jpg/zicib4mibicnb8zKtNiaibb5ephlqGIpWJT8jb3vc4uFBIJCgoSd3esdyseP3eT3EgEJfIfDSoHEG65Nqf1oW9LUDJDKdBW2FUhufRwZb1uKxiabo0/0?wx_fmt=jpeg
-sourceName: 开源志
-sourceUrl: https://mp.weixin.qq.com/s/yiLwG2NVW3ZZ790wf3bZEQ
-sourceType: wechat
-country: 中國
-categories: 專案管理
-updatedAt: Fri, 08 May 2026 00:53:42 GMT
-fetchedAt: 2026-06-09T02:07:12.072Z
----
-聚焦「2026年5月8日 Github 热门项目」，可用來快速掌握近期 AI 工具、產品或產業動向。
-:::
-
-::: card
-title: 2026年5月7日 Github 热门项目
-audience: 
-time: 05/07 08:43
-image: https://mmbiz.qpic.cn/sz_mmbiz_jpg/zicib4mibicnb8wztWHgg0XP20sdfo5HicceQwoMouG4HfXmW6iaUgnuialmk32nAP2ut82b5nbX0voVYpnPZFzymeg4gMz14NqUKIOVRtpsmy0vWc/0?wx_fmt=jpeg
-sourceName: 开源志
-sourceUrl: https://mp.weixin.qq.com/s/cNp6-T1C6SYAcXg3SO4SCA
-sourceType: wechat
-country: 中國
-categories: 專案管理
-updatedAt: Thu, 07 May 2026 00:43:53 GMT
-fetchedAt: 2026-06-09T02:07:12.072Z
----
-聚焦「2026年5月7日 Github 热门项目」，可用來快速掌握近期 AI 工具、產品或產業動向。
 :::

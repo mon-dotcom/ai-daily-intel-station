@@ -1,32 +1,32 @@
 {
   "items": [
     {
-      "name": "baguette",
-      "lastFeatured": "2026-06-08"
+      "name": "open-code-review",
+      "lastFeatured": "2026-06-09"
     },
     {
-      "name": "zerostack",
-      "lastFeatured": "2026-06-08"
+      "name": "open-slide",
+      "lastFeatured": "2026-06-09"
     },
     {
-      "name": "ktx",
-      "lastFeatured": "2026-06-08"
+      "name": "opensquilla",
+      "lastFeatured": "2026-06-09"
     },
     {
-      "name": "intelligent-terminal",
-      "lastFeatured": "2026-06-08"
+      "name": "rmux",
+      "lastFeatured": "2026-06-09"
     },
     {
-      "name": "mobilegym",
-      "lastFeatured": "2026-06-08"
+      "name": "invisible_playwright",
+      "lastFeatured": "2026-06-09"
     },
     {
-      "name": "deepseek-pp",
-      "lastFeatured": "2026-06-08"
+      "name": "serve-sim",
+      "lastFeatured": "2026-06-09"
     },
     {
-      "name": "bux",
-      "lastFeatured": "2026-06-08"
+      "name": "knowhere",
+      "lastFeatured": "2026-06-09"
     }
   ]
 }

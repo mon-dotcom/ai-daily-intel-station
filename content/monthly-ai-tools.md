@@ -6,10 +6,8 @@ layout: markdown
 ---
 | 工具名稱 | 官方連結 | 核心能力 | 適用場景 | 學習門檻 |
 | --- | --- | --- | --- | --- |
-| open-code-review | [官方連結](https://alibaba.github.io/open-code-review/) | Open-source & free — Battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in fine-tuned ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible. | AI coding、代理協作、開發流程 | 中 |
-| open-slide | [官方連結](https://open-slide.dev) | A slide framework built for agents. | 自動化工作流、agent 任務執行、工具串接 | 高 |
-| opensquilla | [官方連結](https://opensquilla.ai) | OpenSquilla — Token-Efficient AI Agent with same budget, higher intelligence density | 自動化工作流、agent 任務執行、工具串接 | 中 |
-| rmux | [官方連結](https://rmux.io) | Universal Rust multiplexer with a typed SDK — drive any CLI or TUI app from code. Native on Linux, macOS, and Windows. | AI coding、代理協作、開發流程 | 高 |
-| invisible_playwright | [官方連結](https://github.com/feder-cr/invisible_playwright#why-its-powerful) | Anti-Detect Browser that passes every bot detection test. Drop-in Playwright replacement. | 團隊試作、流程優化、AI 應用驗證 | 低 |
-| serve-sim | [官方連結](https://github.com/EvanBacon/serve-sim) | The `npx serve` of Apple Simulators. | 團隊試作、流程優化、AI 應用驗證 | 低 |
-| knowhere | [官方連結](https://knowhereto.ai) | Knowhere extracts, parses, and outputs structured chunks ready for AI Agents and RAG. | 自動化工作流、agent 任務執行、工具串接 | 中 |
+| Codex Plugins | [官方連結](https://openai.com) | 把外部工具與資料來源接進 Codex 工作流，讓 agent 能直接操作真實系統 | 開發工具串接、內部工具自動化、工作流整合 | 中 |
+| Codex Subagents | [官方連結](https://openai.com) | 讓複雜任務可拆成多個並行 agent 協作處理，提高大型任務處理效率 | 多工研究、程式開發拆工、內容與分析協作 | 中 |
+| mngr | [官方連結](https://imbue.com) | 在 CLI 中大規模啟動與管理平行 coding agents，強化 agent orchestration | 大型程式任務拆分、平行代理實驗、開發流程加速 | 高 |
+| Latchkey | [官方連結](https://imbue.com) | 提供給本地 AI agents 使用的憑證層，降低代理操作真實服務時的權限摩擦 | 本地 agent 權限管理、工具存取控管、安全試驗 | 高 |
+| Keystone | [官方連結](https://imbue.com) | 讓 repository 更容易被 agent 理解與執行，強化 repo 級工作流自動化 | Repo 自動化、任務執行、開發流程標準化 | 中 |

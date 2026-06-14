@@ -1,24 +1,32 @@
 {
   "items": [
     {
-      "name": "Codex Plugins",
-      "lastFeatured": "2026-06-11"
+      "name": "open-code-review",
+      "lastFeatured": "2026-06-13"
     },
     {
-      "name": "Codex Subagents",
-      "lastFeatured": "2026-06-11"
+      "name": "opensquilla",
+      "lastFeatured": "2026-06-13"
     },
     {
-      "name": "mngr",
-      "lastFeatured": "2026-06-11"
+      "name": "knowhere",
+      "lastFeatured": "2026-06-13"
     },
     {
-      "name": "Latchkey",
-      "lastFeatured": "2026-06-11"
+      "name": "invisible_playwright",
+      "lastFeatured": "2026-06-13"
     },
     {
-      "name": "Keystone",
-      "lastFeatured": "2026-06-11"
+      "name": "rmux",
+      "lastFeatured": "2026-06-13"
+    },
+    {
+      "name": "serve-sim",
+      "lastFeatured": "2026-06-13"
+    },
+    {
+      "name": "zerostack",
+      "lastFeatured": "2026-06-13"
     }
   ]
 }

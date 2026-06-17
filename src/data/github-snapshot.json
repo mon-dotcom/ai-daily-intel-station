@@ -3,15 +3,15 @@
   "items": [
     {
       "name": "openclaw/openclaw",
-      "stars": 379061
+      "stars": 379062
     },
     {
       "name": "affaan-m/ECC",
-      "stars": 216771
+      "stars": 216772
     },
     {
       "name": "NousResearch/hermes-agent",
-      "stars": 195421
+      "stars": 195423
     },
     {
       "name": "n8n-io/n8n",
@@ -39,7 +39,7 @@
     },
     {
       "name": "langgenius/dify",
-      "stars": 145514
+      "stars": 145515
     }
   ]
 }

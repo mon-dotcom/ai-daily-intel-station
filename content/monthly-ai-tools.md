@@ -6,10 +6,10 @@ layout: markdown
 ---
 | 工具名稱 | 官方連結 | 核心能力 | 適用場景 | 學習門檻 |
 | --- | --- | --- | --- | --- |
-| open-code-review | [官方連結](https://alibaba.github.io/open-code-review/) | Open-source & free — Battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in fine-tuned ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible. | AI coding、代理協作、開發流程 | 中 |
-| opensquilla | [官方連結](https://opensquilla.ai) | OpenSquilla — Token-Efficient AI Agent with same budget, higher intelligence density | 自動化工作流、agent 任務執行、工具串接 | 中 |
-| knowhere | [官方連結](https://knowhereto.ai) | Knowhere extracts, parses, and outputs structured chunks ready for AI Agents and RAG. | 自動化工作流、agent 任務執行、工具串接 | 中 |
-| invisible_playwright | [官方連結](https://github.com/feder-cr/invisible_playwright#why-its-powerful) | Anti-Detect Browser that passes every bot detection test. Drop-in Playwright replacement. | 團隊試作、流程優化、AI 應用驗證 | 低 |
-| rmux | [官方連結](https://rmux.io) | Universal Rust multiplexer with a typed SDK — drive any CLI or TUI app from code. Native on Linux, macOS, and Windows. | AI coding、代理協作、開發流程 | 高 |
-| serve-sim | [官方連結](https://github.com/EvanBacon/serve-sim) | The `npx serve` of Apple Simulators. | 團隊試作、流程優化、AI 應用驗證 | 低 |
-| zerostack | [官方連結](https://gi-dellav.github.io/zerostack/) | Minimal coding agent written in Rust, optimized for memory footprint and performance | 自動化工作流、agent 任務執行、工具串接 | 中 |
+| ktx | [官方連結](https://docs.kaelio.com/ktx) | ktx is an executable context layer for data and analytics agents 🐙 Allow Claude Code, Codex, or other AI agents to query data accurately and with full context of your company | AI coding、代理協作、開發流程 | 中 |
+| intelligent-terminal | [官方連結](https://devblogs.microsoft.com/commandline/announcing-intelligent-terminal-version-0-1/) | A fork of Windows Terminal with native agent integration, right in your command line. | 自動化工作流、agent 任務執行、工具串接 | 中 |
+| mobilegym | [官方連結](https://mobilegym.dev) | MobileGym: A Verifiable and Highly Parallel Simulation Platform for Mobile GUI Agent Research · 浏览器里运行的安卓模拟器 · Browser-hosted Android Simulator · Verifiable Evaluation · Scalable Online RL Training | 自動化工作流、agent 任務執行、工具串接 | 中 |
+| fanbox | [官方連結](https://github.com/alchaincyf/fanbox/releases/latest) | vibe coding 的驾驶舱：左边文件，右边/下边终端，中间看清每一次改动。 / The cockpit for vibe coding: browse files on the left, command agents on the right, watch every change in between. | 自動化工作流、agent 任務執行、工具串接 | 中 |
+| GOD | [官方連結](https://xiaoluolyg.github.io/GOD/) | Govern, Observe, Direct - a real-time control room for agent societies | 自動化工作流、agent 任務執行、工具串接 | 中 |
+| harness-anything | [官方連結](https://github.com/yb2460/harness-anything) | Harness Anything - AI agent control hub: WPS, MS Office, Zotero, Photoshop, 47 CLI commands, 27 academic skills, SVG-to-PPTX | AI coding、代理協作、開發流程 | 高 |
+| Agent-HTML | [官方連結](https://agent-html.org/) | You don't need a chat ui but a canvas with ai. | 自動化工作流、agent 任務執行、工具串接 | 中 |

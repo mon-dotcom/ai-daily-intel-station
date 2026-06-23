@@ -1,23 +1,31 @@
 {
   "items": [
     {
-      "name": "Codex Plugins",
+      "name": "open-code-review",
       "lastFeatured": "2026-06-22"
     },
     {
-      "name": "Codex Subagents",
+      "name": "PixelRAG",
       "lastFeatured": "2026-06-22"
     },
     {
-      "name": "mngr",
+      "name": "eve",
       "lastFeatured": "2026-06-22"
     },
     {
-      "name": "Latchkey",
+      "name": "invisible_playwright",
       "lastFeatured": "2026-06-22"
     },
     {
-      "name": "Keystone",
+      "name": "rmux",
+      "lastFeatured": "2026-06-22"
+    },
+    {
+      "name": "zerostack",
+      "lastFeatured": "2026-06-22"
+    },
+    {
+      "name": "intelligent-terminal",
       "lastFeatured": "2026-06-22"
     }
   ]

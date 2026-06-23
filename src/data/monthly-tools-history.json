@@ -1,32 +1,24 @@
 {
   "items": [
     {
-      "name": "eve",
-      "lastFeatured": "2026-06-20"
+      "name": "Codex Plugins",
+      "lastFeatured": "2026-06-22"
     },
     {
-      "name": "intelligent-terminal",
-      "lastFeatured": "2026-06-20"
+      "name": "Codex Subagents",
+      "lastFeatured": "2026-06-22"
     },
     {
-      "name": "ktx",
-      "lastFeatured": "2026-06-20"
+      "name": "mngr",
+      "lastFeatured": "2026-06-22"
     },
     {
-      "name": "fanbox",
-      "lastFeatured": "2026-06-20"
+      "name": "Latchkey",
+      "lastFeatured": "2026-06-22"
     },
     {
-      "name": "mobilegym",
-      "lastFeatured": "2026-06-20"
-    },
-    {
-      "name": "GOD",
-      "lastFeatured": "2026-06-20"
-    },
-    {
-      "name": "harness-anything",
-      "lastFeatured": "2026-06-20"
+      "name": "Keystone",
+      "lastFeatured": "2026-06-22"
     }
   ]
 }

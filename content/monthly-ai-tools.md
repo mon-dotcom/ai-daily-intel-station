@@ -6,10 +6,8 @@ layout: markdown
 ---
 | 工具名稱 | 官方連結 | 核心能力 | 適用場景 | 學習門檻 |
 | --- | --- | --- | --- | --- |
-| eve | [官方連結](https://vercel.com/eve) | The Framework for Building Agents | 自動化工作流、agent 任務執行、工具串接 | 高 |
-| intelligent-terminal | [官方連結](https://devblogs.microsoft.com/commandline/announcing-intelligent-terminal-version-0-1/) | A fork of Windows Terminal with native agent integration, right in your command line. | 自動化工作流、agent 任務執行、工具串接 | 中 |
-| ktx | [官方連結](https://docs.kaelio.com/ktx) | ktx is an executable context layer for data and analytics agents 🐙 Allow Claude Code, Codex, or other AI agents to query data accurately and with full context of your company | AI coding、代理協作、開發流程 | 中 |
-| fanbox | [官方連結](https://github.com/alchaincyf/fanbox/releases/latest) | vibe coding 的驾驶舱：左边文件，右边/下边终端，中间看清每一次改动。 / The cockpit for vibe coding: browse files on the left, command agents on the right, watch every change in between. | 自動化工作流、agent 任務執行、工具串接 | 中 |
-| mobilegym | [官方連結](https://mobilegym.dev) | MobileGym: A Verifiable and Highly Parallel Simulation Platform for Mobile GUI Agent Research · 浏览器里运行的安卓模拟器 · Browser-hosted Android Simulator · Verifiable Evaluation · Scalable Online RL Training | 自動化工作流、agent 任務執行、工具串接 | 中 |
-| GOD | [官方連結](https://xiaoluolyg.github.io/GOD/) | Govern, Observe, Direct - a real-time control room for agent societies | 自動化工作流、agent 任務執行、工具串接 | 中 |
-| harness-anything | [官方連結](https://github.com/yb2460/harness-anything) | Harness Anything - AI agent control hub: WPS, MS Office, Zotero, Photoshop, 47 CLI commands, 27 academic skills, SVG-to-PPTX | AI coding、代理協作、開發流程 | 高 |
+| Codex Plugins | [官方連結](https://openai.com) | 把外部工具與資料來源接進 Codex 工作流，讓 agent 能直接操作真實系統 | 開發工具串接、內部工具自動化、工作流整合 | 中 |
+| Codex Subagents | [官方連結](https://openai.com) | 讓複雜任務可拆成多個並行 agent 協作處理，提高大型任務處理效率 | 多工研究、程式開發拆工、內容與分析協作 | 中 |
+| mngr | [官方連結](https://imbue.com) | 在 CLI 中大規模啟動與管理平行 coding agents，強化 agent orchestration | 大型程式任務拆分、平行代理實驗、開發流程加速 | 高 |
+| Latchkey | [官方連結](https://imbue.com) | 提供給本地 AI agents 使用的憑證層，降低代理操作真實服務時的權限摩擦 | 本地 agent 權限管理、工具存取控管、安全試驗 | 高 |
+| Keystone | [官方連結](https://imbue.com) | 讓 repository 更容易被 agent 理解與執行，強化 repo 級工作流自動化 | Repo 自動化、任務執行、開發流程標準化 | 中 |

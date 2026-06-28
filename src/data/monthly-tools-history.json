@@ -1,32 +1,24 @@
 {
   "items": [
     {
-      "name": "loop-engineering",
-      "lastFeatured": "2026-06-26"
+      "name": "Codex Plugins",
+      "lastFeatured": "2026-06-27"
     },
     {
-      "name": "loop-library",
-      "lastFeatured": "2026-06-26"
+      "name": "Codex Subagents",
+      "lastFeatured": "2026-06-27"
     },
     {
-      "name": "fanbox",
-      "lastFeatured": "2026-06-26"
+      "name": "mngr",
+      "lastFeatured": "2026-06-27"
     },
     {
-      "name": "mobilegym",
-      "lastFeatured": "2026-06-26"
+      "name": "Latchkey",
+      "lastFeatured": "2026-06-27"
     },
     {
-      "name": "harness-anything",
-      "lastFeatured": "2026-06-26"
-    },
-    {
-      "name": "elephant-agent",
-      "lastFeatured": "2026-06-26"
-    },
-    {
-      "name": "Awesome-Journal-Skills",
-      "lastFeatured": "2026-06-26"
+      "name": "Keystone",
+      "lastFeatured": "2026-06-27"
     }
   ]
 }

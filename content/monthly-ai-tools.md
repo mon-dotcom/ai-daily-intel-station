@@ -6,10 +6,10 @@ layout: markdown
 ---
 | 工具名稱 | 官方連結 | 核心能力 | 適用場景 | 學習門檻 |
 | --- | --- | --- | --- | --- |
-| open-code-review | [官方連結](https://alibaba.github.io/open-code-review/) | Open-source & free — Battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in fine-tuned ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible. | AI coding、代理協作、開發流程 | 中 |
-| PixelRAG | [官方連結](https://pixelrag.ai/) | The end of web parsing. The beginning of scalable pixel-native search. | 知識整理、搜尋增強、內部知識應用 | 低 |
-| loop-engineering | [官方連結](https://cobusgreyling.github.io/loop-engineering/) | Practical patterns, starters & CLI tools for loop engineering with AI coding agents. Design systems that prompt and orchestrate agents (inspired by Addy Osmani and Boris Cherny). Includes loop-audit, loop-init, loop-cost. | AI coding、代理協作、開發流程 | 高 |
-| eve | [官方連結](https://vercel.com/eve) | The Framework for Building Agents | 自動化工作流、agent 任務執行、工具串接 | 高 |
-| loopy | [官方連結](https://signals.forwardfuture.ai/loop-library/) | A library of practical AI-agent loops and an installable skill for finding, adapting, and designing repeatable agent workflows. | 自動化工作流、agent 任務執行、工具串接 | 中 |
-| rmux | [官方連結](https://rmux.io) | Universal Rust multiplexer with a typed SDK — drive any CLI or TUI app from code. Native on Linux, macOS, and Windows. | AI coding、代理協作、開發流程 | 高 |
-| intelligent-terminal | [官方連結](https://devblogs.microsoft.com/commandline/announcing-intelligent-terminal-version-0-1/) | A fork of Windows Terminal with native agent integration, right in your command line. | 自動化工作流、agent 任務執行、工具串接 | 中 |
+| fanbox | [官方連結](https://github.com/alchaincyf/fanbox/releases/latest) | vibe coding 的驾驶舱：左边文件，右边/下边终端，中间看清每一次改动。 / The cockpit for vibe coding: browse files on the left, command agents on the right, watch every change in between. | 自動化工作流、agent 任務執行、工具串接 | 中 |
+| harness-anything | [官方連結](https://github.com/yb2460/harness-anything) | Harness Anything - AI agent control hub: WPS, MS Office, Zotero, Photoshop, 47 CLI commands, 27 academic skills, SVG-to-PPTX | AI coding、代理協作、開發流程 | 高 |
+| Awesome-Journal-Skills | [官方連結](https://www.copaper.ai) | Journal-specific Claude Code/Codex skill packs covering mainstream journals — AER, QJE, Nature, Cell, 管理世界, 经济研究 & 200+ more — your fast track to getting published. ｜ 覆盖主流期刊的 Claude Code/Codex 期刊技能包，从选题、识别策略到表格规范与审稿回复全流程，助你快速发论文。 | AI coding、代理協作、開發流程 | 低 |
+| elephant-agent | [官方連結](https://elephant.agentic-in.ai) | Personal-Model First Self Evolving AI Agent 🐘 | 自動化工作流、agent 任務執行、工具串接 | 中 |
+| agentcookie | [官方連結](https://github.com/mvanhorn/agentcookie) | Your agent runs on a Mac that isn't your daily driver. agentcookie keeps its sessions in sync with the Mac you actually browse on, continuously, encrypted over Tailscale, so OpenClaw, Hermes, or any other agent runtime wakes up authenticated. macOS, peer-to-peer, no cloud middleman. | 自動化工作流、agent 任務執行、工具串接 | 中 |
+| Nubase | [官方連結](https://nubase.ai) | 🔥🔥🔥 Turn AI-written code into real apps. Nubase is an open-source, AI-native backend platform for AI Coding, agentic applications, and modern product teams: Memory, Database, Storage, and Auth in one self-hostable service. | AI coding、代理協作、開發流程 | 中 |
+| oh-my-taiyiforge | [官方連結](https://github.com/Dong90/oh-my-taiyiforge) | AI workflow automation plugin for intelligent code generation with Claude/Codex | AI coding、代理協作、開發流程 | 中 |

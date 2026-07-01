@@ -1,32 +1,24 @@
 {
   "items": [
     {
-      "name": "fanbox",
-      "lastFeatured": "2026-06-29"
+      "name": "Codex Plugins",
+      "lastFeatured": "2026-06-30"
     },
     {
-      "name": "harness-anything",
-      "lastFeatured": "2026-06-29"
+      "name": "Codex Subagents",
+      "lastFeatured": "2026-06-30"
     },
     {
-      "name": "Awesome-Journal-Skills",
-      "lastFeatured": "2026-06-29"
+      "name": "mngr",
+      "lastFeatured": "2026-06-30"
     },
     {
-      "name": "elephant-agent",
-      "lastFeatured": "2026-06-29"
+      "name": "Latchkey",
+      "lastFeatured": "2026-06-30"
     },
     {
-      "name": "agentcookie",
-      "lastFeatured": "2026-06-29"
-    },
-    {
-      "name": "Nubase",
-      "lastFeatured": "2026-06-29"
-    },
-    {
-      "name": "oh-my-taiyiforge",
-      "lastFeatured": "2026-06-29"
+      "name": "Keystone",
+      "lastFeatured": "2026-06-30"
     }
   ]
 }

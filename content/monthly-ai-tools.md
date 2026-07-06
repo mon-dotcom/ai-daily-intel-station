@@ -6,10 +6,10 @@ layout: markdown
 ---
 | 工具名稱 | 官方連結 | 核心能力 | 適用場景 | 學習門檻 |
 | --- | --- | --- | --- | --- |
-| AutoCVE | [官方連結](https://github.com/larlarua/AutoCVE) | Agent-driven automated CVE discovery platform for source code auditing, vulnerability verification, and report generation. | AI coding、代理協作、開發流程 | 中 |
-| harness-anything | [官方連結](https://github.com/yb2460/harness-anything) | Harness Anything - AI agent control hub: WPS, MS Office, Zotero, Photoshop, 47 CLI commands, 27 academic skills, SVG-to-PPTX | AI coding、代理協作、開發流程 | 高 |
-| skillspec | [官方連結](https://skillspec.sh) | SkillSpec makes agent skills followable, testable, and provable with Doctor risk reports, guided imports, structured contracts, and alignment proof. | 自動化工作流、agent 任務執行、工具串接 | 中 |
-| loushang | [官方連結](https://github.com/zhnt/loushang) | AI-native agent harness for coding workflows by python: multi-model LLM orchestration, stateful sessions, tool governance, traceable delivery, and provider routing for GPT, Claude, DeepSeek, Qwen, Kimi, GLM, and MiniMax. | 自動化工作流、agent 任務執行、工具串接 | 高 |
-| oh-my-taiyiforge | [官方連結](https://github.com/Dong90/oh-my-taiyiforge) | AI workflow automation plugin for intelligent code generation with Claude/Codex | AI coding、代理協作、開發流程 | 中 |
-| Nubase | [官方連結](https://nubase.ai) | 🔥🔥🔥 Turn AI-written code into real apps. Nubase is an open-source, AI-native backend platform for AI Coding, agentic applications, and modern product teams: Memory, Database, Storage, and Auth in one self-hostable service. | AI coding、代理協作、開發流程 | 中 |
-| FigMirror | [官方連結](https://github.com/VILA-Lab/FigMirror) | An Automated AI Agent Tool for Plotting Your Data in Any Paper's Figure Style. | 自動化工作流、agent 任務執行、工具串接 | 中 |
+| loop-engineering | [官方連結](https://cobusgreyling.github.io/loop-engineering/) | Practical patterns, starters & CLI tools for loop engineering with AI coding agents. Design systems that prompt and orchestrate agents (inspired by Addy Osmani and Boris Cherny). Includes loop-audit, loop-init, loop-cost. | AI coding、代理協作、開發流程 | 高 |
+| PixelRAG | [官方連結](https://arxiv.org/pdf/2606.28344) | The end of web parsing. The beginning of scalable pixel-native search. link: https://pixelrag.ai/ | 知識整理、搜尋增強、內部知識應用 | 低 |
+| eve | [官方連結](https://eve.dev) | The Framework for Building Agents | 自動化工作流、agent 任務執行、工具串接 | 高 |
+| loopy | [官方連結](https://signals.forwardfuture.ai/loop-library/) | A library of practical AI-agent loops and an installable skill for finding, adapting, and designing repeatable agent workflows. | 自動化工作流、agent 任務執行、工具串接 | 中 |
+| fanbox | [官方連結](https://github.com/alchaincyf/fanbox/releases/latest) | vibe coding 的驾驶舱：左边文件，右边/下边终端，中间看清每一次改动。 / The cockpit for vibe coding: browse files on the left, command agents on the right, watch every change in between. | 自動化工作流、agent 任務執行、工具串接 | 中 |
+| inferoa | [官方連結](https://inferoa.agentic-in.ai) | Inference-native Tokenmaxxing Agent Harness for Loop Engineering | 自動化工作流、agent 任務執行、工具串接 | 中 |
+| qwencloud-generator | [官方連結](https://github.com/Vanszs/qwencloud-generator) | Automated QwenCloud account registration & API key harvester with multi-threading, TUI dashboard, proxy rotation, and Gmail OAuth | 團隊試作、流程優化、AI 應用驗證 | 低 |

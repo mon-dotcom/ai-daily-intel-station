@@ -1,32 +1,24 @@
 {
   "items": [
     {
-      "name": "loop-engineering",
-      "lastFeatured": "2026-07-05"
+      "name": "Codex Plugins",
+      "lastFeatured": "2026-07-06"
     },
     {
-      "name": "PixelRAG",
-      "lastFeatured": "2026-07-05"
+      "name": "Codex Subagents",
+      "lastFeatured": "2026-07-06"
     },
     {
-      "name": "eve",
-      "lastFeatured": "2026-07-05"
+      "name": "mngr",
+      "lastFeatured": "2026-07-06"
     },
     {
-      "name": "loopy",
-      "lastFeatured": "2026-07-05"
+      "name": "Latchkey",
+      "lastFeatured": "2026-07-06"
     },
     {
-      "name": "fanbox",
-      "lastFeatured": "2026-07-05"
-    },
-    {
-      "name": "inferoa",
-      "lastFeatured": "2026-07-05"
-    },
-    {
-      "name": "qwencloud-generator",
-      "lastFeatured": "2026-07-05"
+      "name": "Keystone",
+      "lastFeatured": "2026-07-06"
     }
   ]
 }

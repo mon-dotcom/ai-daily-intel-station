@@ -1,31 +1,23 @@
 {
   "items": [
     {
-      "name": "loop-engineering",
+      "name": "Codex Plugins",
       "lastFeatured": "2026-07-19"
     },
     {
-      "name": "eve",
+      "name": "Codex Subagents",
       "lastFeatured": "2026-07-19"
     },
     {
-      "name": "openscience",
+      "name": "mngr",
       "lastFeatured": "2026-07-19"
     },
     {
-      "name": "loopy",
+      "name": "Latchkey",
       "lastFeatured": "2026-07-19"
     },
     {
-      "name": "claude-real-video",
-      "lastFeatured": "2026-07-19"
-    },
-    {
-      "name": "llm-space",
-      "lastFeatured": "2026-07-19"
-    },
-    {
-      "name": "fanbox",
+      "name": "Keystone",
       "lastFeatured": "2026-07-19"
     }
   ]

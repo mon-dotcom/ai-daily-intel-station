@@ -7,15 +7,15 @@
     },
     {
       "name": "obra/superpowers",
-      "stars": 257748
-    },
-    {
-      "name": "NousResearch/hermes-agent",
-      "stars": 217396
+      "stars": 257749
     },
     {
       "name": "affaan-m/ECC",
-      "stars": 231329
+      "stars": 231330
+    },
+    {
+      "name": "NousResearch/hermes-agent",
+      "stars": 217398
     },
     {
       "name": "n8n-io/n8n",
@@ -31,7 +31,7 @@
     },
     {
       "name": "f/prompts.chat",
-      "stars": 166038
+      "stars": 166040
     },
     {
       "name": "huggingface/transformers",

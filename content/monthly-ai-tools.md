@@ -6,10 +6,10 @@ layout: markdown
 ---
 | 工具名稱 | 官方連結 | 核心能力 | 適用場景 | 學習門檻 |
 | --- | --- | --- | --- | --- |
-| eve | [官方連結](https://eve.dev) | The Framework for Building Agents | 自動化工作流、agent 任務執行、工具串接 | 高 |
-| fintech-forge | [官方連結](https://github.com/KORAYTEACHER/fintech-forge) | fintech forge of AI-powered financial tools and insights to secure authentication and dashboards to empowers developers, analysts, and students to build and extend finance-focused | AI coding、代理協作、開發流程 | 低 |
-| openscience | [官方連結](https://openscience.sh) | The open-source AI workbench for scientific research | 知識整理、搜尋增強、內部知識應用 | 低 |
-| open-connector | [官方連結](https://oomol.com) | Open-source auth gateway connecting 1000+ SaaS providers to AI agents through SDK, CLI, MCP, HTTP, and OpenAPI. | AI coding、代理協作、開發流程 | 高 |
-| loopy | [官方連結](https://signals.forwardfuture.ai/loop-library/) | A library of practical AI-agent loops and an installable skill for finding, adapting, and designing repeatable agent workflows. | 自動化工作流、agent 任務執行、工具串接 | 中 |
-| claude-real-video | [官方連結](https://github.com/HUANGCHIHHUNGLeo/claude-real-video) | Let Claude (or any LLM) actually watch a video — scene-aware, deduplicated frames + transcript, from a URL or local file. Runs locally, MIT. | 影片生成、語音處理、多媒體內容 | 低 |
-| open-science | [官方連結](https://www.aipoch.com/open-science) | An open-source, model-agnostic AI workbench for scientific discovery. | 團隊試作、流程優化、AI 應用驗證 | 低 |
+| financial-ai-tools | [官方連結](https://github.com/Dennis-bv/financial-ai-tools) | finance ai tools used in financial scenarios development | 團隊試作、流程優化、AI 應用驗證 | 低 |
+| llm-space | [官方連結](https://deer-flow.github.io/llm-space/) | A desktop app to prototype agent ideas, inspect every harness step, replay failures, and evaluate performance, all in one place. Local-first, cloud-ready for managed agents. | 自動化工作流、agent 任務執行、工具串接 | 中 |
+| AutoCVE | [官方連結](https://github.com/larlarua/AutoCVE) | Agent-driven automated CVE discovery platform for source code auditing, vulnerability verification, and report generation. | AI coding、代理協作、開發流程 | 中 |
+| guizang-material-illustration | [官方連結](https://github.com/op7418/guizang-material-illustration) | 归藏的材质插画 skill：生成带字解释图、图表美化和参考辅助配图。 | 團隊試作、流程優化、AI 應用驗證 | 低 |
+| skillspec | [官方連結](https://skillspec.sh) | SkillSpec makes agent skills followable, testable, and provable with Doctor risk reports, guided imports, structured contracts, and alignment proof. | 自動化工作流、agent 任務執行、工具串接 | 中 |
+| cindy | [官方連結](https://cindy.app) | Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。 | 自動化工作流、agent 任務執行、工具串接 | 中 |
+| delegate-skills | [官方連結](https://www.skills.sh/amelnagdy/delegate-skills) | Drive Codex, OpenCode, Antigravity, Grok, or Kimi as a background implementer — brief it, review its diff, land the commit yourself. | AI coding、代理協作、開發流程 | 低 |

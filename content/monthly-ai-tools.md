@@ -6,10 +6,8 @@ layout: markdown
 ---
 | 工具名稱 | 官方連結 | 核心能力 | 適用場景 | 學習門檻 |
 | --- | --- | --- | --- | --- |
-| financial-ai-tools | [官方連結](https://github.com/Dennis-bv/financial-ai-tools) | finance ai tools used in financial scenarios development | 團隊試作、流程優化、AI 應用驗證 | 低 |
-| llm-space | [官方連結](https://deer-flow.github.io/llm-space/) | A desktop app to prototype agent ideas, inspect every harness step, replay failures, and evaluate performance, all in one place. Local-first, cloud-ready for managed agents. | 自動化工作流、agent 任務執行、工具串接 | 中 |
-| AutoCVE | [官方連結](https://github.com/larlarua/AutoCVE) | Agent-driven automated CVE discovery platform for source code auditing, vulnerability verification, and report generation. | AI coding、代理協作、開發流程 | 中 |
-| guizang-material-illustration | [官方連結](https://github.com/op7418/guizang-material-illustration) | 归藏的材质插画 skill：生成带字解释图、图表美化和参考辅助配图。 | 團隊試作、流程優化、AI 應用驗證 | 低 |
-| skillspec | [官方連結](https://skillspec.sh) | SkillSpec makes agent skills followable, testable, and provable with Doctor risk reports, guided imports, structured contracts, and alignment proof. | 自動化工作流、agent 任務執行、工具串接 | 中 |
-| cindy | [官方連結](https://cindy.app) | Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。 | 自動化工作流、agent 任務執行、工具串接 | 中 |
-| delegate-skills | [官方連結](https://www.skills.sh/amelnagdy/delegate-skills) | Drive Codex, OpenCode, Antigravity, Grok, or Kimi as a background implementer — brief it, review its diff, land the commit yourself. | AI coding、代理協作、開發流程 | 低 |
+| Codex Plugins | [官方連結](https://openai.com) | 把外部工具與資料來源接進 Codex 工作流，讓 agent 能直接操作真實系統 | 開發工具串接、內部工具自動化、工作流整合 | 中 |
+| Codex Subagents | [官方連結](https://openai.com) | 讓複雜任務可拆成多個並行 agent 協作處理，提高大型任務處理效率 | 多工研究、程式開發拆工、內容與分析協作 | 中 |
+| mngr | [官方連結](https://imbue.com) | 在 CLI 中大規模啟動與管理平行 coding agents，強化 agent orchestration | 大型程式任務拆分、平行代理實驗、開發流程加速 | 高 |
+| Latchkey | [官方連結](https://imbue.com) | 提供給本地 AI agents 使用的憑證層，降低代理操作真實服務時的權限摩擦 | 本地 agent 權限管理、工具存取控管、安全試驗 | 高 |
+| Keystone | [官方連結](https://imbue.com) | 讓 repository 更容易被 agent 理解與執行，強化 repo 級工作流自動化 | Repo 自動化、任務執行、開發流程標準化 | 中 |

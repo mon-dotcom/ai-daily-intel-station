@@ -1,32 +1,24 @@
 {
   "items": [
     {
-      "name": "financial-ai-tools",
-      "lastFeatured": "2026-07-26"
+      "name": "Codex Plugins",
+      "lastFeatured": "2026-07-27"
     },
     {
-      "name": "llm-space",
-      "lastFeatured": "2026-07-26"
+      "name": "Codex Subagents",
+      "lastFeatured": "2026-07-27"
     },
     {
-      "name": "AutoCVE",
-      "lastFeatured": "2026-07-26"
+      "name": "mngr",
+      "lastFeatured": "2026-07-27"
     },
     {
-      "name": "guizang-material-illustration",
-      "lastFeatured": "2026-07-26"
+      "name": "Latchkey",
+      "lastFeatured": "2026-07-27"
     },
     {
-      "name": "skillspec",
-      "lastFeatured": "2026-07-26"
-    },
-    {
-      "name": "cindy",
-      "lastFeatured": "2026-07-26"
-    },
-    {
-      "name": "delegate-skills",
-      "lastFeatured": "2026-07-26"
+      "name": "Keystone",
+      "lastFeatured": "2026-07-27"
     }
   ]
 }

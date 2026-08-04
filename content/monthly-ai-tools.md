@@ -6,10 +6,10 @@ layout: markdown
 ---
 | 工具名稱 | 官方連結 | 核心能力 | 適用場景 | 學習門檻 |
 | --- | --- | --- | --- | --- |
-| llm-space | [官方連結](https://deer-flow.github.io/llm-space/) | A desktop app to prototype agent ideas, inspect every harness step, replay failures, and evaluate performance, all in one place. Local-first, cloud-ready for managed agents. | 自動化工作流、agent 任務執行、工具串接 | 中 |
-| open-kritt | [官方連結](https://kritt.ai/) | Orchestrate AI agents to find real vulnerabilities in code. | AI coding、代理協作、開發流程 | 高 |
-| creatorhub | [官方連結](https://github.com/3441293738/creatorhub) | 多平台内容监控·采集·搬运 一个 Web 面板管起抖音 / 小红书 / 快手 | 團隊試作、流程優化、AI 應用驗證 | 低 |
-| guizang-material-illustration | [官方連結](https://github.com/op7418/guizang-material-illustration) | 归藏的材质插画 skill：生成带字解释图、图表美化和参考辅助配图。 | 團隊試作、流程優化、AI 應用驗證 | 低 |
-| skill-recorder | [官方連結](https://github.com/microsoft/skill-recorder) | Desktop app that records your on-screen work session and uses the GitHub Copilot CLI to reconstruct it as an intent + ordered steps, then builds a reusable Skill or Automation for Microsoft Scout, Microsoft Copilot Cowork, or Copilot Studio. | AI coding、代理協作、開發流程 | 高 |
-| Octop | [官方連結](https://github.com/TencentCloud/Octop) | A smarter, self-hosted AI assistant — multi-user, multi-agent. | 自動化工作流、agent 任務執行、工具串接 | 中 |
-| skillspec | [官方連結](https://skillspec.sh) | SkillSpec makes agent skills followable, testable, and provable with Doctor risk reports, guided imports, structured contracts, and alignment proof. | 自動化工作流、agent 任務執行、工具串接 | 中 |
+| financial-ai-tools | [官方連結](https://github.com/Dennis-bv/financial-ai-tools) | finance ai tools used in financial scenarios development | 團隊試作、流程優化、AI 應用驗證 | 低 |
+| fintech-forge | [官方連結](https://github.com/KORAYTEACHER/fintech-forge) | fintech forge of AI-powered financial tools and insights to secure authentication and dashboards to empowers developers, analysts, and students to build and extend finance-focused | AI coding、代理協作、開發流程 | 低 |
+| open-connector | [官方連結](https://oomol.com) | Open-source auth gateway connecting 1000+ SaaS providers to AI agents through SDK, CLI, MCP, HTTP, and OpenAPI. | AI coding、代理協作、開發流程 | 高 |
+| openscience | [官方連結](https://openscience.sh) | The open-source AI workbench for scientific research | 知識整理、搜尋增強、內部知識應用 | 低 |
+| cindy | [官方連結](https://cindy.app) | Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。 | 自動化工作流、agent 任務執行、工具串接 | 中 |
+| claude-real-video | [官方連結](https://github.com/HUANGCHIHHUNGLeo/claude-real-video) | Let Claude (or any LLM) actually watch a video — scene-aware, deduplicated frames + transcript, from a URL or local file. Runs locally, MIT. | 影片生成、語音處理、多媒體內容 | 低 |
+| qwen-audio-agent | [官方連結](https://github.com/QwenAudio/qwen-audio-agent) | A realtime voice runtime that keeps Agents talking, working, and present. Real-time Voice Runtime for AI Agents | 影片生成、語音處理、多媒體內容 | 中 |

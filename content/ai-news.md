@@ -5,6 +5,70 @@ summary: 聚焦社群熱門討論、論壇、官方資訊與可接入的微信�
 layout: topic-grid
 ---
 ::: card
+title: Deploy local agents everywhere with LFM2.5-2.6B
+audience: 
+time: 08/04 21:58
+image: 
+sourceName: Hugging Face Blog
+sourceUrl: https://huggingface.co/blog/LiquidAI/lfm2-5-2-6b
+sourceType: official
+country: 其他國家
+categories: 專案管理
+updatedAt: Tue, 04 Aug 2026 13:58:29 GMT
+fetchedAt: 2026-08-05T02:07:22.104Z
+---
+重點在於「Deploy local agents everywhere with LFM2.5-2.6B」，反映 AI 正在從單點工具走向可落地的流程自動化。
+:::
+
+::: card
+title: The latest AI news we announced in July 2026
+audience: 
+time: 08/04 21:00
+image: https://storage.googleapis.com/gweb-uniblog-publish-prod/images/July_AI_Recap_still.max-600x600.format-webp.webp
+sourceName: Google Blog
+sourceUrl: https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-july-2026/
+sourceType: official
+country: 其他國家
+categories: 影片/圖片素材製作
+updatedAt: Tue, 04 Aug 2026 13:00:00 +0000
+fetchedAt: 2026-08-05T02:07:22.103Z
+---
+聚焦「The latest AI news we announced in July 2026」，可用來快速掌握近期 AI 工具、產品或產業動向。
+:::
+
+::: card
+title: Apple is getting this wrong
+audience: 
+time: 08/04 06:00
+image: 
+sourceName: OpenAI Blog
+sourceUrl: https://openai.com/index/apple-is-getting-this-wrong
+sourceType: official
+country: 其他國家
+categories: 專案管理
+updatedAt: Mon, 03 Aug 2026 22:00:00 GMT
+fetchedAt: 2026-08-05T02:07:22.099Z
+---
+聚焦「Apple is getting this wrong」，可用來快速掌握近期 AI 工具、產品或產業動向。
+:::
+
+::: card
+title: Inside our 353,000-person vibe coding course
+audience: 
+time: 08/03 23:00
+image: https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Vibe_coding_course_hero.max-600x600.format-webp.webp
+sourceName: Google Blog
+sourceUrl: https://blog.google/innovation-and-ai/technology/developers-tools/ai-agents-intensive-recap-2026/
+sourceType: official
+country: 其他國家
+categories: 影片/圖片素材製作 | 專案管理
+updatedAt: Mon, 03 Aug 2026 15:00:00 +0000
+fetchedAt: 2026-08-05T02:07:22.103Z
+---
+聚焦「Inside our 353,000-person vibe coding course」，可用來快速掌握近期 AI 工具、產品或產業動向。
+:::
+
+::: card
 title: How we built a realtime system for responsive voice AI in six months
 audience: 
 time: 08/03 15:00
@@ -15,7 +79,7 @@ sourceType: official
 country: 其他國家
 categories: 專案管理
 updatedAt: Mon, 03 Aug 2026 07:00:00 GMT
-fetchedAt: 2026-08-04T02:07:07.108Z
+fetchedAt: 2026-08-05T02:07:22.100Z
 ---
 焦點圍繞「How we built a realtime system for responsive voice AI in six months」，可直接觀察 AI 在影音與素材產線上的新能力。
 :::
@@ -31,7 +95,7 @@ sourceType: official
 country: 其他國家
 categories: 專案管理
 updatedAt: Mon, 03 Aug 2026 00:00:00 GMT
-fetchedAt: 2026-08-04T02:07:07.109Z
+fetchedAt: 2026-08-05T02:07:22.102Z
 ---
 聚焦「Circles powers telco personalization with OpenAI technology」，可用來快速掌握近期 AI 工具、產品或產業動向。
 :::
@@ -47,7 +111,7 @@ sourceType: official
 country: 其他國家
 categories: 專案管理
 updatedAt: Sat, 01 Aug 2026 00:00:00 GMT
-fetchedAt: 2026-08-04T02:07:07.109Z
+fetchedAt: 2026-08-05T02:07:22.102Z
 ---
 聚焦「Ten advances in mathematics and theoretical computer science」，可用來快速掌握近期 AI 工具、產品或產業動向。
 :::
@@ -63,7 +127,7 @@ sourceType: official
 country: 其他國家
 categories: 專案管理
 updatedAt: Fri, 31 Jul 2026 15:00:00 GMT
-fetchedAt: 2026-08-04T02:07:07.110Z
+fetchedAt: 2026-08-05T02:07:22.102Z
 ---
 聚焦「Advancing responsible AI across Europe」，可用來快速掌握近期 AI 工具、產品或產業動向。
 :::
@@ -79,7 +143,7 @@ sourceType: official
 country: 其他國家
 categories: 專案管理
 updatedAt: Fri, 31 Jul 2026 00:00:00 GMT
-fetchedAt: 2026-08-04T02:07:07.110Z
+fetchedAt: 2026-08-05T02:07:22.102Z
 ---
 聚焦「Disrupting a Criminal Scam Operation」，可用來快速掌握近期 AI 工具、產品或產業動向。
 :::
@@ -95,7 +159,7 @@ sourceType: official
 country: 其他國家
 categories: 專案管理
 updatedAt: Thu, 30 Jul 2026 10:00:00 GMT
-fetchedAt: 2026-08-04T02:07:07.110Z
+fetchedAt: 2026-08-05T02:07:22.102Z
 ---
 聚焦「Advancing the price-performance frontier with GPT-5.6」，可用來快速掌握近期 AI 工具、產品或產業動向。
 :::
@@ -111,7 +175,7 @@ sourceType: official
 country: 其他國家
 categories: 專案管理
 updatedAt: Thu, 30 Jul 2026 00:00:00 GMT
-fetchedAt: 2026-08-04T02:07:07.110Z
+fetchedAt: 2026-08-05T02:07:22.102Z
 ---
 重點在於「How avatarin built a 24/7 retail agent with GPT-Realtime」，反映 AI 正在從單點工具走向可落地的流程自動化。
 :::
@@ -127,41 +191,9 @@ sourceType: official
 country: 其他國家
 categories: 專案管理
 updatedAt: Wed, 29 Jul 2026 15:00:00 GMT
-fetchedAt: 2026-08-04T02:07:07.110Z
+fetchedAt: 2026-08-05T02:07:22.102Z
 ---
 焦點圍繞「How enabling two settings tripled our scores on the ARC-AGI-3 benchmark」，適合用來判斷模型能力、開源方向與實作落地的變化。
-:::
-
-::: card
-title: Accelerating scientific discovery with ChatGPT for Academic Researchers
-audience: ChatGPT
-time: 07/29 18:00
-image: 
-sourceName: OpenAI Blog
-sourceUrl: https://openai.com/index/chatgpt-for-academic-researchers
-sourceType: official
-country: 其他國家
-categories: 新遊戲情報收集與分析
-updatedAt: Wed, 29 Jul 2026 10:00:00 GMT
-fetchedAt: 2026-08-04T02:07:07.110Z
----
-焦點圍繞「Accelerating scientific discovery with ChatGPT for Academic Researchers」，適合用來判斷模型能力、開源方向與實作落地的變化。
-:::
-
-::: card
-title: How GPT-5.6 fuses frontier intelligence with frontier efficiency
-audience: GPT-5.6
-time: 07/29 08:00
-image: 
-sourceName: OpenAI Blog
-sourceUrl: https://openai.com/index/gpt-5-6-frontier-intelligence-efficiency
-sourceType: official
-country: 其他國家
-categories: 專案管理 | 新遊戲情報收集與分析
-updatedAt: Wed, 29 Jul 2026 00:00:00 GMT
-fetchedAt: 2026-08-04T02:07:07.110Z
----
-聚焦「How GPT-5.6 fuses frontier intelligence with frontier efficiency」，可用來快速掌握近期 AI 工具、產品或產業動向。
 :::
 
 ::: card
@@ -175,7 +207,7 @@ sourceType: official
 country: 其他國家
 categories: 影片/圖片素材製作
 updatedAt: Tue, 28 Jul 2026 16:27:42 GMT
-fetchedAt: 2026-08-04T02:07:07.111Z
+fetchedAt: 2026-08-05T02:07:22.104Z
 ---
 焦點圍繞「The OlmoEarth Platform: Geospatial inference at planetary scale」，適合用來判斷模型能力、開源方向與實作落地的變化。
 :::
@@ -191,25 +223,9 @@ sourceType: official
 country: 其他國家
 categories: 影片/圖片素材製作 | 專案管理
 updatedAt: Tue, 28 Jul 2026 16:00:00 +0000
-fetchedAt: 2026-08-04T02:07:07.111Z
+fetchedAt: 2026-08-05T02:07:22.104Z
 ---
 重點在於「Gemini API Managed Agents: 3.6 Flash, hooks, and more」，反映 AI 正在從單點工具走向可落地的流程自動化。
-:::
-
-::: card
-title: LFM2.5-Encoders for Fast Long-Context Inference on CPU
-audience: 
-time: 07/28 23:01
-image: 
-sourceName: Hugging Face Blog
-sourceUrl: https://huggingface.co/blog/LiquidAI/lfm2-5-encoders
-sourceType: official
-country: 其他國家
-categories: 專案管理
-updatedAt: Tue, 28 Jul 2026 15:01:45 GMT
-fetchedAt: 2026-08-04T02:07:07.111Z
----
-焦點圍繞「LFM2.5-Encoders for Fast Long-Context Inference on CPU」，適合用來判斷模型能力、開源方向與實作落地的變化。
 :::
 
 ::: card
@@ -223,7 +239,7 @@ sourceType: official
 country: 其他國家
 categories: 影片/圖片素材製作
 updatedAt: Tue, 28 Jul 2026 13:00:00 +0000
-fetchedAt: 2026-08-04T02:07:07.111Z
+fetchedAt: 2026-08-05T02:07:22.104Z
 ---
 聚焦「5 ways AI Mode in Search helps you enjoy the real world」，可用來快速掌握近期 AI 工具、產品或產業動向。
 :::
@@ -239,7 +255,7 @@ sourceType: official
 country: 其他國家
 categories: 影片/圖片素材製作 | 專案管理
 updatedAt: Tue, 28 Jul 2026 13:00:00 +0000
-fetchedAt: 2026-08-04T02:07:07.111Z
+fetchedAt: 2026-08-05T02:07:22.104Z
 ---
 聚焦「5 ways to host the ultimate dinner party with Google Search」，可用來快速掌握近期 AI 工具、產品或產業動向。
 :::
@@ -255,7 +271,7 @@ sourceType: official
 country: 其他國家
 categories: 專案管理
 updatedAt: Mon, 27 Jul 2026 00:00:00 GMT
-fetchedAt: 2026-08-04T02:07:07.111Z
+fetchedAt: 2026-08-05T02:07:22.104Z
 ---
 重點在於「Anatomy of a Frontier Lab Agent Intrusion: A Technical Timeline of the July 2026 Incident」，反映 AI 正在從單點工具走向可落地的流程自動化。
 :::
@@ -271,7 +287,7 @@ sourceType: official
 country: 其他國家
 categories: 專案管理
 updatedAt: Thu, 23 Jul 2026 00:00:00 GMT
-fetchedAt: 2026-08-04T02:07:07.111Z
+fetchedAt: 2026-08-05T02:07:22.104Z
 ---
 焦點圍繞「Bringing Nunchaku 4-bit Diffusion Inference to Diffusers」，適合用來判斷模型能力、開源方向與實作落地的變化。
 :::
@@ -287,7 +303,7 @@ sourceType: official
 country: 其他國家
 categories: 影片/圖片素材製作
 updatedAt: Wed, 22 Jul 2026 13:00:00 +0000
-fetchedAt: 2026-08-04T02:07:07.111Z
+fetchedAt: 2026-08-05T02:07:22.104Z
 ---
 聚焦「3 Google updates from Galaxy Unpacked 2026」，可用來快速掌握近期 AI 工具、產品或產業動向。
 :::
@@ -303,7 +319,7 @@ sourceType: official
 country: 其他國家
 categories: 影片/圖片素材製作
 updatedAt: Thu, 16 Jul 2026 16:00:00 +0000
-fetchedAt: 2026-08-04T02:07:07.111Z
+fetchedAt: 2026-08-05T02:07:22.104Z
 ---
 聚焦「Connect more of your apps to Search」，可用來快速掌握近期 AI 工具、產品或產業動向。
 :::
@@ -319,7 +335,7 @@ sourceType: official
 country: 其他國家
 categories: 影片/圖片素材製作
 updatedAt: Thu, 16 Jul 2026 16:00:00 +0000
-fetchedAt: 2026-08-04T02:07:07.111Z
+fetchedAt: 2026-08-05T02:07:22.104Z
 ---
 焦點圍繞「Create, edit and star in videos with two Google Vids updates」，可直接觀察 AI 在影音與素材產線上的新能力。
 :::
@@ -335,7 +351,7 @@ sourceType: official
 country: 其他國家
 categories: 專案管理
 updatedAt: Thu, 16 Jul 2026 11:49:48 GMT
-fetchedAt: 2026-08-04T02:07:07.111Z
+fetchedAt: 2026-08-05T02:07:22.104Z
 ---
 焦點圍繞「Newer Models, Same Advantage」，適合用來判斷模型能力、開源方向與實作落地的變化。
 :::
@@ -351,7 +367,7 @@ sourceType: official
 country: 其他國家
 categories: 專案管理
 updatedAt: Wed, 15 Jul 2026 17:27:01 GMT
-fetchedAt: 2026-08-04T02:07:07.111Z
+fetchedAt: 2026-08-05T02:07:22.104Z
 ---
 焦點圍繞「Model Routing Is Simple. Until It Isn't.」，適合用來判斷模型能力、開源方向與實作落地的變化。
 :::
@@ -367,7 +383,7 @@ sourceType: official
 country: 其他國家
 categories: 影片/圖片素材製作
 updatedAt: Tue, 14 Jul 2026 16:00:00 +0000
-fetchedAt: 2026-08-04T02:07:07.111Z
+fetchedAt: 2026-08-05T02:07:22.104Z
 ---
 焦點圍繞「Celebrating 25 years of visual search innovation」，可直接觀察 AI 在影音與素材產線上的新能力。
 :::
@@ -383,7 +399,7 @@ sourceType: official
 country: 其他國家
 categories: 專案管理
 updatedAt: Wed, 08 Jul 2026 00:00:00 GMT
-fetchedAt: 2026-08-04T02:07:07.111Z
+fetchedAt: 2026-08-05T02:07:22.104Z
 ---
 焦點圍繞「Native-speed vLLM transformers modeling backend」，適合用來判斷模型能力、開源方向與實作落地的變化。
 :::
@@ -399,7 +415,7 @@ sourceType: official
 country: 其他國家
 categories: 專案管理
 updatedAt: Tue, 07 Jul 2026 15:20:06 GMT
-fetchedAt: 2026-08-04T02:07:07.111Z
+fetchedAt: 2026-08-05T02:07:22.104Z
 ---
 焦點圍繞「Hugging Face Models on Foundry Managed Compute」，適合用來判斷模型能力、開源方向與實作落地的變化。
 :::
@@ -415,7 +431,7 @@ sourceType: official
 country: 其他國家
 categories: 影片/圖片素材製作 | 專案管理
 updatedAt: Tue, 07 Jul 2026 08:54:00 +0000
-fetchedAt: 2026-08-04T02:07:07.111Z
+fetchedAt: 2026-08-05T02:07:22.104Z
 ---
 重點在於「Expanding Managed Agents in Gemini API: background tasks, remote MCP and more」，反映 AI 正在從單點工具走向可落地的流程自動化。
 :::
@@ -431,7 +447,7 @@ sourceType: wechat
 country: 中國
 categories: 專案管理
 updatedAt: Mon, 06 Jul 2026 00:59:38 GMT
-fetchedAt: 2026-08-04T02:07:07.112Z
+fetchedAt: 2026-08-05T02:07:22.105Z
 ---
 聚焦「2026年7月6日 Github 热门项目」，可用來快速掌握近期 AI 工具、產品或產業動向。
 :::
@@ -447,7 +463,7 @@ sourceType: wechat
 country: 中國
 categories: 專案管理
 updatedAt: Sun, 05 Jul 2026 03:32:49 GMT
-fetchedAt: 2026-08-04T02:07:07.111Z
+fetchedAt: 2026-08-05T02:07:22.104Z
 ---
 聚焦「别争了！香农老婆，才是世界上第一个大语言模型」，可用來快速掌握近期 AI 工具、產品或產業動向。
 :::
@@ -463,7 +479,7 @@ sourceType: wechat
 country: 中國
 categories: 專案管理
 updatedAt: Sun, 05 Jul 2026 03:32:49 GMT
-fetchedAt: 2026-08-04T02:07:07.111Z
+fetchedAt: 2026-08-05T02:07:22.104Z
 ---
 聚焦「大模型训练省钱秘籍：清华POPO一招组级回放，把浪费的算力全部捡回来」，可用來快速掌握近期 AI 工具、產品或產業動向。
 :::
@@ -479,7 +495,7 @@ sourceType: wechat
 country: 中國
 categories: 專案管理
 updatedAt: Sun, 05 Jul 2026 03:32:49 GMT
-fetchedAt: 2026-08-04T02:07:07.111Z
+fetchedAt: 2026-08-05T02:07:22.104Z
 ---
 聚焦「量子位编辑作者招聘」，可用來快速掌握近期 AI 工具、產品或產業動向。
 :::
@@ -495,7 +511,7 @@ sourceType: wechat
 country: 中國
 categories: 專案管理
 updatedAt: Fri, 03 Jul 2026 03:43:51 GMT
-fetchedAt: 2026-08-04T02:07:07.111Z
+fetchedAt: 2026-08-05T02:07:22.104Z
 ---
 聚焦「Fable 5回归24小时差评如潮！跑分大降，拒答问题，还偷偷骂用户」，可用來快速掌握近期 AI 工具、產品或產業動向。
 :::
@@ -511,7 +527,7 @@ sourceType: wechat
 country: 中國
 categories: 專案管理
 updatedAt: Fri, 03 Jul 2026 03:43:51 GMT
-fetchedAt: 2026-08-04T02:07:07.111Z
+fetchedAt: 2026-08-05T02:07:22.104Z
 ---
 聚焦「刚刚，LeCun团队让世界模型学会持续学习！」，可用來快速掌握近期 AI 工具、產品或產業動向。
 :::
@@ -527,7 +543,7 @@ sourceType: wechat
 country: 中國
 categories: 影片/圖片素材製作
 updatedAt: Fri, 03 Jul 2026 03:43:51 GMT
-fetchedAt: 2026-08-04T02:07:07.111Z
+fetchedAt: 2026-08-05T02:07:22.104Z
 ---
 焦點圍繞「告别百万级动捕棚！上海交大等提出HAT-4D，单目视频直出4D交互场景」，可直接觀察 AI 在影音與素材產線上的新能力。
 :::
@@ -543,7 +559,7 @@ sourceType: wechat
 country: 中國
 categories: 專案管理
 updatedAt: Thu, 02 Jul 2026 09:59:09 GMT
-fetchedAt: 2026-08-04T02:07:07.111Z
+fetchedAt: 2026-08-05T02:07:22.104Z
 ---
 聚焦「全球首个英伟达含量为0的万亿模型，成了海外开发者的抢手货」，可用來快速掌握近期 AI 工具、產品或產業動向。
 :::
@@ -559,7 +575,7 @@ sourceType: wechat
 country: 中國
 categories: 專案管理
 updatedAt: Thu, 02 Jul 2026 09:59:09 GMT
-fetchedAt: 2026-08-04T02:07:07.111Z
+fetchedAt: 2026-08-05T02:07:22.104Z
 ---
 聚焦「世界模型的新用途：不做选手，去当裁判」，可用來快速掌握近期 AI 工具、產品或產業動向。
 :::
@@ -575,7 +591,7 @@ sourceType: wechat
 country: 中國
 categories: 專案管理
 updatedAt: Thu, 02 Jul 2026 09:59:09 GMT
-fetchedAt: 2026-08-04T02:07:07.111Z
+fetchedAt: 2026-08-05T02:07:22.104Z
 ---
 聚焦「招募｜量子位RSS'26专题策划」，可用來快速掌握近期 AI 工具、產品或產業動向。
 :::
@@ -591,25 +607,9 @@ sourceType: wechat
 country: 中國
 categories: 專案管理
 updatedAt: Thu, 02 Jul 2026 09:59:09 GMT
-fetchedAt: 2026-08-04T02:07:07.111Z
+fetchedAt: 2026-08-05T02:07:22.104Z
 ---
 聚焦「强化学习没作用？人大DelTA精准识别关键token，推理正确率大幅上升」，可用來快速掌握近期 AI 工具、產品或產業動向。
-:::
-
-::: card
-title: The latest AI news we announced in June 2026
-audience: 
-time: 07/02 02:15
-image: https://storage.googleapis.com/gweb-uniblog-publish-prod/images/260701_ICYMI-June-AI_Thumb.max-600x600.format-webp.webp
-sourceName: Google Blog
-sourceUrl: https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-june-2026/
-sourceType: official
-country: 其他國家
-categories: 影片/圖片素材製作
-updatedAt: Wed, 01 Jul 2026 18:15:00 +0000
-fetchedAt: 2026-08-04T02:07:07.111Z
----
-聚焦「The latest AI news we announced in June 2026」，可用來快速掌握近期 AI 工具、產品或產業動向。
 :::
 
 ::: card
@@ -623,7 +623,7 @@ sourceType: wechat
 country: 中國
 categories: 專案管理
 updatedAt: Wed, 01 Jul 2026 05:53:48 GMT
-fetchedAt: 2026-08-04T02:07:07.111Z
+fetchedAt: 2026-08-05T02:07:22.104Z
 ---
 聚焦「Loop世界模型论文登顶Hugging Face，来自中国一家初创，周鸿祎陆奇都投了」，可用來快速掌握近期 AI 工具、產品或產業動向。
 :::
@@ -639,7 +639,7 @@ sourceType: official
 country: 其他國家
 categories: 專案管理
 updatedAt: Tue, 30 Jun 2026 18:32:50 GMT
-fetchedAt: 2026-08-04T02:07:07.111Z
+fetchedAt: 2026-08-05T02:07:22.104Z
 ---
 重點在於「ScarfBench: Benchmarking AI Agents for Enterprise Java Framework Migration」，反映 AI 正在從單點工具走向可落地的流程自動化。
 :::
@@ -655,7 +655,7 @@ sourceType: wechat
 country: 中國
 categories: 專案管理
 updatedAt: Tue, 30 Jun 2026 05:33:42 GMT
-fetchedAt: 2026-08-04T02:07:07.111Z
+fetchedAt: 2026-08-05T02:07:22.104Z
 ---
 聚焦「24小时直播，只靠一张照片？虎牙实时多模态数字人VAM 1.0率先突围行业三堵墙」，可用來快速掌握近期 AI 工具、產品或產業動向。
 :::
@@ -671,7 +671,7 @@ sourceType: wechat
 country: 中國
 categories: 專案管理
 updatedAt: Tue, 30 Jun 2026 05:33:42 GMT
-fetchedAt: 2026-08-04T02:07:07.111Z
+fetchedAt: 2026-08-05T02:07:22.104Z
 ---
 聚焦「美光三星海力士遭集体诉讼！郭明錤：27年都买不到便宜内存」，可用來快速掌握近期 AI 工具、產品或產業動向。
 :::
@@ -687,7 +687,7 @@ sourceType: wechat
 country: 中國
 categories: 專案管理
 updatedAt: Mon, 29 Jun 2026 05:03:08 GMT
-fetchedAt: 2026-08-04T02:07:07.111Z
+fetchedAt: 2026-08-05T02:07:22.104Z
 ---
 聚焦「大湾区首个200亿具身大脑来了！自变量两个月连融四轮，全部完成交割」，可用來快速掌握近期 AI 工具、產品或產業動向。
 :::
@@ -703,7 +703,7 @@ sourceType: wechat
 country: 中國
 categories: 專案管理
 updatedAt: Mon, 29 Jun 2026 05:03:08 GMT
-fetchedAt: 2026-08-04T02:07:07.111Z
+fetchedAt: 2026-08-05T02:07:22.104Z
 ---
 聚焦「「开源Claude时刻」，智谱GLM5.2与Mythos被放在一起了」，可用來快速掌握近期 AI 工具、產品或產業動向。
 :::
@@ -719,7 +719,7 @@ sourceType: wechat
 country: 中國
 categories: 專案管理
 updatedAt: Sun, 28 Jun 2026 04:08:41 GMT
-fetchedAt: 2026-08-04T02:07:07.111Z
+fetchedAt: 2026-08-05T02:07:22.104Z
 ---
 聚焦「太空算力的国产答案：用光子更高效！马斯克和老黄都太绕了」，可用來快速掌握近期 AI 工具、產品或產業動向。
 :::
@@ -735,7 +735,7 @@ sourceType: wechat
 country: 中國
 categories: 專案管理
 updatedAt: Sun, 28 Jun 2026 04:08:41 GMT
-fetchedAt: 2026-08-04T02:07:07.111Z
+fetchedAt: 2026-08-05T02:07:22.104Z
 ---
 聚焦「前端工程师最不想看到的开源项目出现了，一行命令克隆任意网站」，可用來快速掌握近期 AI 工具、產品或產業動向。
 :::
